@@ -5,8 +5,8 @@ Github repository for [podaboutlist.vercel.app](https://podaboutlist.vercel.app)
 
 Even though the scripts and files in this repo are specific to this project, the general workflow could easily be adapted to achieve the same result for any podcast (or similar innovations in the audiovisual space):
 1. Generate transcripts (for example using [whisperx](https://github.com/m-bain/whisperX)) or if applicable fetch auto-generated subtitles from youtube
-2. Generate [vector embeddings](https://huggingface.co/blog/getting-started-with-embeddings) from the transcripts (you will need to seperate the text into [chunks] first (https://robkerr.ai/chunking-text-into-vector-databases/))
-3. Input the embeddings along with some metadata (episode title, timestamp) into a [vector database](https://www.pinecone.io/learn/vector-database/) (for example [pinecone](https://www.pinecone.io))
+2. Generate [vector embeddings](https://huggingface.co/blog/getting-started-with-embeddings) from the transcripts (you will need to seperate the text into [chunks](https://robkerr.ai/chunking-text-into-vector-databases/))
+3. Input the embeddings along with some metadata (episode title, timestamp) into a [vector database](https://www.pinecone.io/learn/vector-database/) (for example [pinecone](https://www.pinecone.io) first)
 4. Create a back-end API that can receive search requests, generates embeddings for them, and queries the database with those embeddings
 5. Create a front-end that allows the user to send text to the back-end and displays the results
 
