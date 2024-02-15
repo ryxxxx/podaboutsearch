@@ -1,0 +1,7392 @@
+﻿1
+00:00:00,000 --> 00:00:01,000
+We're starting.
+
+2
+00:00:01,000 --> 00:00:02,000
+He showed me that.
+
+3
+00:00:02,000 --> 00:00:07,000
+I don't even know what this game is.
+
+4
+00:00:07,000 --> 00:00:12,000
+You guys know this Pokemon song?
+
+5
+00:00:12,000 --> 00:00:13,000
+Whoa, jukebox.
+
+6
+00:00:13,000 --> 00:00:22,000
+Mate, you playing Zelda.
+
+7
+00:00:22,000 --> 00:00:24,000
+No, it's one of the Pokemon songs.
+
+8
+00:00:24,000 --> 00:00:25,000
+What?
+
+9
+00:00:25,000 --> 00:00:26,000
+I got Squirtle?
+
+10
+00:00:26,000 --> 00:00:28,000
+You got Blue.
+
+11
+00:00:28,000 --> 00:00:29,880
+- What the fuck? - Your water, bro.
+
+12
+00:00:29,880 --> 00:00:31,800
+- We are in-- - You said your water.
+
+13
+00:00:31,800 --> 00:00:32,760
+- I never-- - You chose water.
+
+14
+00:00:32,760 --> 00:00:34,200
+- I never chose water.
+
+15
+00:00:34,200 --> 00:00:37,360
+- Then someone didn't check the group chat often enough
+
+16
+00:00:37,360 --> 00:00:40,080
+to respond in time and pick the two best types.
+
+17
+00:00:40,080 --> 00:00:41,760
+- So, here's-- - This is busy.
+
+18
+00:00:41,760 --> 00:00:44,880
+- First of all, water's way better than grass, but--
+
+19
+00:00:44,880 --> 00:00:46,160
+(Justin groans)
+
+20
+00:00:46,160 --> 00:00:48,600
+- Okay, girlish woman.
+
+21
+00:00:48,600 --> 00:00:50,480
+- Fine with me. - I actually like it.
+
+22
+00:00:50,480 --> 00:00:54,320
+So, we are in, we're doing a little test run.
+
+23
+00:00:54,320 --> 00:00:55,840
+I wanna try this out.
+
+24
+00:00:55,840 --> 00:01:00,340
+I sort of took some 5e stuff, re-skinned it with some Pokemon stuff.
+
+25
+00:01:00,340 --> 00:01:03,340
+I wanted to see what it would look like to have you guys play as Pokemons.
+
+26
+00:01:03,340 --> 00:01:05,340
+Can I change my sprite?
+
+27
+00:01:05,340 --> 00:01:08,340
+Yeah, if you want to. You're in control of that.
+
+28
+00:01:08,340 --> 00:01:10,340
+Oh, I can change that on my own?
+
+29
+00:01:10,340 --> 00:01:13,340
+I think so, yeah. I'm pretty sure I gave you controls of that.
+
+30
+00:01:13,340 --> 00:01:17,340
+I can't believe how slow my computer runs when I have Roll20 open.
+
+31
+00:01:17,340 --> 00:01:20,340
+Yeah, Roll20 is optimized for sure.
+
+32
+00:01:20,340 --> 00:01:24,340
+So you guys, the trainer Sullivan is on a mission
+
+33
+00:01:24,340 --> 00:01:27,980
+to become the greatest of them all, the very best,
+
+34
+00:01:27,980 --> 00:01:30,140
+and he got to have three starter Pokemon
+
+35
+00:01:30,140 --> 00:01:32,140
+because he's such a bad trainer.
+
+36
+00:01:32,140 --> 00:01:34,980
+So they're like, we're just gonna give you all three.
+
+37
+00:01:34,980 --> 00:01:37,620
+And he got you three Pokemon,
+
+38
+00:01:37,620 --> 00:01:40,260
+and you're now in the first gym,
+
+39
+00:01:40,260 --> 00:01:43,500
+and you're up against Dwight.
+
+40
+00:01:43,500 --> 00:01:45,400
+- We skipped all the town stuff?
+
+41
+00:01:45,400 --> 00:01:47,020
+That's the best part of the game.
+
+42
+00:01:47,020 --> 00:01:49,700
+- This is what I wanted to try out the fighting first.
+
+43
+00:01:49,700 --> 00:01:50,820
+I wanted to see how this worked.
+
+44
+00:01:50,820 --> 00:01:52,500
+- Oh, I thought maybe you prepared stuff.
+
+45
+00:01:52,500 --> 00:01:54,240
+- Oh, so we're playing out of order?
+
+46
+00:01:54,240 --> 00:01:55,300
+- Mm-mm, mm-mm.
+
+47
+00:01:55,300 --> 00:01:57,100
+We're starting in the gyms.
+
+48
+00:01:57,100 --> 00:01:58,780
+We'll go back to the towns.
+
+49
+00:01:58,780 --> 00:02:00,980
+- Then maybe eventually we can become trainers ourselves
+
+50
+00:02:00,980 --> 00:02:01,820
+instead of just little animals.
+
+51
+00:02:01,820 --> 00:02:03,040
+- Yes, that's what I mean, that's what I mean.
+
+52
+00:02:03,040 --> 00:02:04,120
+We're starting with this,
+
+53
+00:02:04,120 --> 00:02:06,260
+'cause I maybe would want you guys to just be trainers.
+
+54
+00:02:06,260 --> 00:02:07,100
+I wanna see what's up to have you be--
+
+55
+00:02:07,100 --> 00:02:08,220
+- I'm overprepared.
+
+56
+00:02:08,220 --> 00:02:09,140
+- Animals first.
+
+57
+00:02:09,140 --> 00:02:10,880
+No, tell me about your guide. - You're overprepared?
+
+58
+00:02:10,880 --> 00:02:12,720
+- You're overprepared.
+
+59
+00:02:12,720 --> 00:02:14,580
+- I wrote a character intro, man.
+
+60
+00:02:14,580 --> 00:02:15,820
+I thought that this was the beginning
+
+61
+00:02:15,820 --> 00:02:18,020
+of something amazing and new.
+
+62
+00:02:18,020 --> 00:02:20,100
+- It is a beginning. - And new and amazing.
+
+63
+00:02:20,100 --> 00:02:23,020
+- Well, we're gonna do that.
+
+64
+00:02:23,020 --> 00:02:25,440
+I do wanna do like a real Pokemon campaign,
+
+65
+00:02:25,440 --> 00:02:28,180
+but I didn't wanna just rush into it
+
+66
+00:02:28,180 --> 00:02:30,820
+'cause I had lots of other things to prep for that.
+
+67
+00:02:30,820 --> 00:02:33,940
+But I wanted to start with the battles at least.
+
+68
+00:02:33,940 --> 00:02:34,900
+So tell me about your character.
+
+69
+00:02:34,900 --> 00:02:36,540
+What are your starter Pokemon?
+
+70
+00:02:36,540 --> 00:02:37,620
+Who are you guys?
+
+71
+00:02:37,620 --> 00:02:40,660
+- I'll go last 'cause I actually have
+
+72
+00:02:40,660 --> 00:02:42,060
+something awesome to read. - Go, Caleb.
+
+73
+00:02:42,060 --> 00:02:44,200
+- And you guys are the Pokemon. - Go, go, go.
+
+74
+00:02:44,200 --> 00:02:45,820
+- Yeah, Caleb, go first. - I'm adding stuff to it
+
+75
+00:02:45,820 --> 00:02:47,820
+as we speak. - Oh, you're adding to it.
+
+76
+00:02:47,820 --> 00:02:49,820
+Yeah, so. That's awesome.
+
+77
+00:02:49,820 --> 00:02:51,820
+So you guys should go ahead and finish adding.
+
+78
+00:02:51,820 --> 00:02:55,820
+I'll probably be adding for a couple minutes, so you might as well just go.
+
+79
+00:02:55,820 --> 00:02:57,820
+Alright, well we can sit and wait. I don't mind waiting.
+
+80
+00:02:57,820 --> 00:02:59,820
+Okay, I'm gonna go.
+
+81
+00:02:59,820 --> 00:03:01,820
+Whatever.
+
+82
+00:03:01,820 --> 00:03:07,820
+Okay, go ahead.
+
+83
+00:03:07,820 --> 00:03:09,820
+I thought it was gonna be...
+
+84
+00:03:09,820 --> 00:03:11,820
+Okay, make sure to do the voice.
+
+85
+00:03:11,820 --> 00:03:14,820
+You gaze through the tree line in the dead night.
+
+86
+00:03:14,820 --> 00:03:16,000
+(laughing)
+
+87
+00:03:16,000 --> 00:03:18,980
+No sounds to be heard, no sights to be seen.
+
+88
+00:03:18,980 --> 00:03:20,540
+It's quiet.
+
+89
+00:03:20,540 --> 00:03:21,460
+Thank you.
+
+90
+00:03:21,460 --> 00:03:23,300
+Too quiet. - Perfect.
+
+91
+00:03:23,300 --> 00:03:26,940
+- That is, until you see two glowing red eyes
+
+92
+00:03:26,940 --> 00:03:28,020
+breaking through the dark.
+
+93
+00:03:28,020 --> 00:03:31,600
+At first, you may think it might be two leaves
+
+94
+00:03:31,600 --> 00:03:35,520
+or two red marbles or a red-eyed bear.
+
+95
+00:03:35,520 --> 00:03:38,380
+But as your eyes adjust to the darkness,
+
+96
+00:03:38,380 --> 00:03:41,780
+you realize it's something much, much more terrifying.
+
+97
+00:03:41,780 --> 00:03:42,600
+Me.
+
+98
+00:03:43,780 --> 00:03:48,460
+part dog, part ant, part monkey, part lava, part food,
+
+99
+00:03:48,460 --> 00:03:51,420
+part bird, and part fire ant.
+
+100
+00:03:51,420 --> 00:03:54,940
+My name strikes fear across almost all cultures,
+
+101
+00:03:54,940 --> 00:03:57,020
+and they all have some name for me.
+
+102
+00:03:57,020 --> 00:04:02,020
+Helios, Kagatsuchi, Chantico, Pele, Gira.
+
+103
+00:04:02,020 --> 00:04:08,900
+But please, just call me Flamer.
+
+104
+00:04:08,900 --> 00:04:11,900
+(laughing)
+
+105
+00:04:11,900 --> 00:04:14,100
+- The frog named me Flamer.
+
+106
+00:04:14,100 --> 00:04:16,340
+(laughing)
+
+107
+00:04:16,340 --> 00:04:20,540
+- Yeah, Flamer's my favorite, go Flamer!
+
+108
+00:04:20,540 --> 00:04:22,860
+- Okay, thank you.
+
+109
+00:04:22,860 --> 00:04:26,580
+- Patches, I tried to switch my character token
+
+110
+00:04:26,580 --> 00:04:28,180
+and it didn't work.
+
+111
+00:04:28,180 --> 00:04:31,820
+- So my Pokemon is known as Smoku.
+
+112
+00:04:31,820 --> 00:04:32,860
+I'll do a Pokedex.
+
+113
+00:04:32,860 --> 00:04:36,540
+Smoku, the smoking weed and watching TV Pokemon.
+
+114
+00:04:36,540 --> 00:04:41,100
+Able to watch over 100 episodes of Netflix in a single day.
+
+115
+00:04:41,100 --> 00:04:45,500
+and able to smoke weed and watch 100 movies in a single week.
+
+116
+00:04:45,500 --> 00:04:47,180
+- How much weed can he smoke according to the Pokedex?
+
+117
+00:04:47,180 --> 00:04:50,980
+- Over 100 joints of weed can be smoked
+
+118
+00:04:50,980 --> 00:04:54,580
+by this small but pint-sized Pokemon.
+
+119
+00:04:54,580 --> 00:04:55,420
+- But what does he look like?
+
+120
+00:04:55,420 --> 00:04:56,980
+- Small but pint-sized.
+
+121
+00:04:56,980 --> 00:04:59,660
+- He's the size of a pint. - This small but pound-sized
+
+122
+00:04:59,660 --> 00:05:03,980
+Pokemon packs a powerful punch with his special ability.
+
+123
+00:05:03,980 --> 00:05:09,180
+And he looks like a weed. - What is it?
+
+124
+00:05:09,180 --> 00:05:11,060
+- What does he look like, sorry?
+
+125
+00:05:11,060 --> 00:05:13,820
+- He looks like a weed leaf holding a TV remote,
+
+126
+00:05:13,820 --> 00:05:16,380
+or a Roku remote, more specifically.
+
+127
+00:05:16,380 --> 00:05:20,900
+And he has red eyes, like you, but in a different way,
+
+128
+00:05:20,900 --> 00:05:22,860
+if you know what I'm saying, if anyone at home
+
+129
+00:05:22,860 --> 00:05:23,860
+knows what I'm saying.
+
+130
+00:05:23,860 --> 00:05:24,700
+- Okay.
+
+131
+00:05:24,700 --> 00:05:27,340
+- Not fire eyes.
+
+132
+00:05:27,340 --> 00:05:30,060
+- Not fire, but-- - Not like a fire ability eyes.
+
+133
+00:05:30,060 --> 00:05:32,940
+- No, like maybe he was using fire,
+
+134
+00:05:32,940 --> 00:05:35,540
+and the eyes got red because of that.
+
+135
+00:05:35,540 --> 00:05:38,180
+- Later evolutions, you're gonna be grass poison,
+
+136
+00:05:38,180 --> 00:05:39,140
+That's what I'm hearing.
+
+137
+00:05:39,140 --> 00:05:41,500
+- Well, we'll split more grass psychic.
+
+138
+00:05:41,500 --> 00:05:43,100
+- No, definitely. - Oh.
+
+139
+00:05:43,100 --> 00:05:45,880
+- Yeah, I think poison.
+
+140
+00:05:45,880 --> 00:05:47,540
+- Or maybe it'll be three or four types by the end.
+
+141
+00:05:47,540 --> 00:05:49,220
+- You can't really do that, but that's fine.
+
+142
+00:05:49,220 --> 00:05:51,380
+- Yeah, I might, probably 10 to 12 types
+
+143
+00:05:51,380 --> 00:05:53,260
+by my second evolution.
+
+144
+00:05:53,260 --> 00:05:54,340
+- Helios is sort of like a-- - Because there's so many
+
+145
+00:05:54,340 --> 00:05:56,340
+different channels on TV that it's kind of--
+
+146
+00:05:56,340 --> 00:05:57,180
+- Well, it's Flamer. - Sorry, Flamer.
+
+147
+00:05:57,180 --> 00:05:59,620
+- I could be watching water channel or fire channel
+
+148
+00:05:59,620 --> 00:06:00,900
+or basically whatever.
+
+149
+00:06:00,900 --> 00:06:03,180
+- Flamer's sort of gonna be like dark fire
+
+150
+00:06:03,180 --> 00:06:04,940
+or something like that.
+
+151
+00:06:04,940 --> 00:06:05,780
+- Right. - Dark.
+
+152
+00:06:05,780 --> 00:06:06,600
+- Fire.
+
+153
+00:06:06,600 --> 00:06:09,960
+Just fire, pure fire you'll be the whole way through.
+
+154
+00:06:09,960 --> 00:06:11,920
+- Yeah, I don't need a second thing.
+
+155
+00:06:11,920 --> 00:06:13,120
+- Yeah.
+
+156
+00:06:13,120 --> 00:06:14,880
+Who is this then?
+
+157
+00:06:14,880 --> 00:06:16,240
+This blue one.
+
+158
+00:06:16,240 --> 00:06:17,360
+- Did you get my...
+
+159
+00:06:17,360 --> 00:06:20,080
+- Did you send it to me over Discord?
+
+160
+00:06:20,080 --> 00:06:20,920
+- Yeah.
+
+161
+00:06:20,920 --> 00:06:28,160
+I tried to change it on roll 20, but it didn't let me.
+
+162
+00:06:28,160 --> 00:06:29,040
+- All right, I'll do it.
+
+163
+00:06:29,040 --> 00:06:31,920
+You explain who your guy is while I do this.
+
+164
+00:06:31,920 --> 00:06:34,900
+- Why the photo has to show up first.
+
+165
+00:06:34,900 --> 00:06:36,860
+it's the only way for it to make sense
+
+166
+00:06:36,860 --> 00:06:42,060
+okay give me one second
+
+167
+00:06:42,060 --> 00:06:44,740
+is it a bowl of water?
+
+168
+00:06:44,740 --> 00:06:46,340
+no
+
+169
+00:06:46,340 --> 00:06:53,340
+or a cup i guess? why do i think it's going to be a sperm? why am i guessing right now that it's about to be a sperm?
+
+170
+00:06:53,340 --> 00:06:57,740
+why would that be a water animal? i'm the water pig
+
+171
+00:06:57,740 --> 00:06:59,780
+what? ok...
+
+172
+00:06:59,780 --> 00:07:02,300
+water's a stupid idea for a pokemon
+
+173
+00:07:02,300 --> 00:07:03,020
+damn
+
+174
+00:07:03,020 --> 00:07:04,740
+what are you even doing?
+
+175
+00:07:04,740 --> 00:07:07,180
+I'm a pig that lives in water instead of mud.
+
+176
+00:07:07,180 --> 00:07:08,860
+Like a swimming pig?
+
+177
+00:07:08,860 --> 00:07:10,300
+Yeah, it's a pig that swims.
+
+178
+00:07:10,300 --> 00:07:11,660
+I guess that's kinda cool.
+
+179
+00:07:11,660 --> 00:07:17,660
+And his ability is eating.
+
+180
+00:07:17,660 --> 00:07:20,800
+Any animal eats.
+
+181
+00:07:20,800 --> 00:07:23,100
+Not like a pig.
+
+182
+00:07:23,100 --> 00:07:27,860
+So you're some kind of water pig.
+
+183
+00:07:27,860 --> 00:07:28,700
+Yeah, I'm going ahead.
+
+184
+00:07:28,700 --> 00:07:30,140
+He is a water pig, not some kind of water pig.
+
+185
+00:07:30,140 --> 00:07:32,620
+I'm sending my guy's icon to you right now,
+
+186
+00:07:32,620 --> 00:07:34,360
+Pat, just real quick. Yeah, please do.
+
+187
+00:07:34,360 --> 00:07:35,880
+just so you can tell. - Oh, oh, oh.
+
+188
+00:07:35,880 --> 00:07:38,320
+And I live, I'm from the Bahamas.
+
+189
+00:07:38,320 --> 00:07:41,000
+- Okay, this is getting to something.
+
+190
+00:07:41,000 --> 00:07:43,920
+- Okay, but your name is still just Waterpig?
+
+191
+00:07:43,920 --> 00:07:44,960
+- Yes.
+
+192
+00:07:44,960 --> 00:07:47,880
+- Which region is the Bahamas?
+
+193
+00:07:47,880 --> 00:07:49,320
+In like, the Bahama region? - Alola.
+
+194
+00:07:49,320 --> 00:07:50,720
+- Is that Alola also?
+
+195
+00:07:50,720 --> 00:07:51,560
+Yeah, okay.
+
+196
+00:07:51,560 --> 00:07:54,320
+- I would like to change my image to this.
+
+197
+00:07:54,320 --> 00:07:56,160
+- Yeah, I changed it already.
+
+198
+00:07:56,160 --> 00:07:58,040
+Are you giving me another image?
+
+199
+00:07:58,040 --> 00:08:01,120
+- I gave you another one, and it's even better.
+
+200
+00:08:01,120 --> 00:08:02,420
+- So you're still a pig?
+
+201
+00:08:04,080 --> 00:08:07,040
+- Why'd you send a pig wearing a human suit?
+
+202
+00:08:07,040 --> 00:08:08,520
+- I was gonna be the human pig,
+
+203
+00:08:08,520 --> 00:08:10,640
+then remembered that it had to be water.
+
+204
+00:08:10,640 --> 00:08:11,480
+- So you went water pig.
+
+205
+00:08:11,480 --> 00:08:12,300
+- So you changed to the water pig.
+
+206
+00:08:12,300 --> 00:08:14,680
+- So this was the other one, I said water pig.
+
+207
+00:08:14,680 --> 00:08:15,520
+So this is--
+
+208
+00:08:15,520 --> 00:08:17,120
+- That's a good one.
+
+209
+00:08:17,120 --> 00:08:17,960
+- Okay.
+
+210
+00:08:17,960 --> 00:08:19,800
+- That looks almost like a Pokemon.
+
+211
+00:08:19,800 --> 00:08:21,880
+- Are you both the pig, it's like--
+
+212
+00:08:21,880 --> 00:08:24,080
+- That's part of my body, yeah.
+
+213
+00:08:24,080 --> 00:08:25,440
+It's like Klefki.
+
+214
+00:08:25,440 --> 00:08:27,000
+- It's like a snail shell.
+
+215
+00:08:27,000 --> 00:08:29,520
+You have a water fountain attached to your back.
+
+216
+00:08:29,520 --> 00:08:30,360
+- Okay guys, I'm gonna create--
+
+217
+00:08:30,360 --> 00:08:31,200
+- Oh, my name is LK.
+
+218
+00:08:31,200 --> 00:08:33,480
+- I'm gonna create my point of orders.
+
+219
+00:08:33,480 --> 00:08:38,480
+Like the water company, like the water bubbler company.
+
+220
+00:08:38,480 --> 00:08:40,880
+LK the water pig.
+
+221
+00:08:40,880 --> 00:08:42,540
+- You should just be Bubbler.
+
+222
+00:08:42,540 --> 00:08:43,640
+- I'm water pig.
+
+223
+00:08:43,640 --> 00:08:46,840
+No, I'm gonna continue to be water pig.
+
+224
+00:08:46,840 --> 00:08:48,240
+- Go Bubbler!
+
+225
+00:08:48,240 --> 00:08:52,840
+- 'Cause he named me or Cameron.
+
+226
+00:08:52,840 --> 00:08:55,200
+- You know he named you Bubbler.
+
+227
+00:08:55,200 --> 00:08:56,040
+- Pokemon.
+
+228
+00:08:56,040 --> 00:08:57,940
+All right, I'm Bubbler, the pig.
+
+229
+00:08:57,940 --> 00:09:02,240
+I'm Bubbler the pig.
+
+230
+00:09:02,240 --> 00:09:03,120
+- Bubbler the pig.
+
+231
+00:09:03,120 --> 00:09:05,920
+- Well I'm fucking, I'm a flamer.
+
+232
+00:09:05,920 --> 00:09:07,960
+- Flame animal? - Charmander.
+
+233
+00:09:07,960 --> 00:09:09,440
+You're just a regular Charmander?
+
+234
+00:09:09,440 --> 00:09:11,240
+- No, I'm a flamer and I'm a fucking,
+
+235
+00:09:11,240 --> 00:09:12,880
+some kind of crazy god.
+
+236
+00:09:12,880 --> 00:09:16,400
+- So, okay, cool.
+
+237
+00:09:16,400 --> 00:09:18,520
+So now I know who you guys are.
+
+238
+00:09:18,520 --> 00:09:22,840
+So you're facing off against Dwight, Dwight Trainer.
+
+239
+00:09:22,840 --> 00:09:26,080
+- And, Dwight Trainer?
+
+240
+00:09:26,080 --> 00:09:28,680
+- No, Dwight, Dwight-- - Oh, now I see him.
+
+241
+00:09:28,680 --> 00:09:29,960
+- He's really hard to say.
+
+242
+00:09:29,960 --> 00:09:31,720
+Dwight Trainer. - Truth.
+
+243
+00:09:31,720 --> 00:09:34,360
+- No, 'cause he's not, no, it's a different guy.
+
+244
+00:09:34,360 --> 00:09:36,160
+- Okay. - Looks like Dwight Schrute.
+
+245
+00:09:36,160 --> 00:09:38,400
+- Yeah, looks a lot like Dwight Schrute.
+
+246
+00:09:38,400 --> 00:09:42,680
+- And he says, "You're never gonna beat my Pokemon."
+
+247
+00:09:42,680 --> 00:09:44,600
+And then Sullivan says he's going to beat him.
+
+248
+00:09:44,600 --> 00:09:46,600
+- So let's-- - What kind of line is that?
+
+249
+00:09:46,600 --> 00:09:48,200
+- He says he's-- - You're never gonna
+
+250
+00:09:48,200 --> 00:09:49,360
+beat my Pokemon?
+
+251
+00:09:49,360 --> 00:09:50,200
+(laughing)
+
+252
+00:09:50,200 --> 00:09:51,040
+- That's what he said. - That's what he sucks.
+
+253
+00:09:51,040 --> 00:09:53,480
+- Sometimes some trainers be saying that
+
+254
+00:09:53,480 --> 00:09:54,320
+in the Pokemon games. - That's literally
+
+255
+00:09:54,320 --> 00:09:55,680
+what they say, that I thought maybe you'd have a--
+
+256
+00:09:55,680 --> 00:09:57,320
+- Well, no, usually they say something more like,
+
+257
+00:09:57,320 --> 00:09:59,080
+"The sky is so blue," or something.
+
+258
+00:09:59,080 --> 00:10:00,440
+- Okay, I'd like to-- - Or they'll say--
+
+259
+00:10:00,440 --> 00:10:03,520
+- I like swimming with rubber pants on.
+
+260
+00:10:03,520 --> 00:10:04,680
+- Get back here, Flamer.
+
+261
+00:10:04,680 --> 00:10:08,360
+- We're rolling for initiative?
+
+262
+00:10:08,360 --> 00:10:10,280
+- Don't clip that, by the way.
+
+263
+00:10:10,280 --> 00:10:11,120
+- Yeah, sure.
+
+264
+00:10:11,120 --> 00:10:12,560
+Everyone roll for initiative.
+
+265
+00:10:12,560 --> 00:10:14,280
+- Okay, I got a 15.
+
+266
+00:10:14,280 --> 00:10:15,120
+- Okay.
+
+267
+00:10:15,120 --> 00:10:17,600
+- Okay, I have a character sheet.
+
+268
+00:10:17,600 --> 00:10:20,000
+- Why am I getting the wrong character sheet?
+
+269
+00:10:20,000 --> 00:10:22,920
+Under Pokemon, I'm getting this one that says weird stuff.
+
+270
+00:10:22,920 --> 00:10:23,920
+- Oh, I've got mine.
+
+271
+00:10:23,920 --> 00:10:26,200
+I got mine, y'all.
+
+272
+00:10:26,200 --> 00:10:27,040
+- You should be getting yours.
+
+273
+00:10:27,040 --> 00:10:28,000
+- It just looks weird.
+
+274
+00:10:28,000 --> 00:10:28,840
+- Yeah, it is weird.
+
+275
+00:10:28,840 --> 00:10:30,320
+It's a simpler one.
+
+276
+00:10:30,320 --> 00:10:32,480
+- I keep finding better pictures of the 12s.
+
+277
+00:10:32,480 --> 00:10:35,680
+- Can you, sorry, can you re-roll, Pat,
+
+278
+00:10:35,680 --> 00:10:37,580
+but make sure you have your character clicked?
+
+279
+00:10:37,580 --> 00:10:39,680
+'Cause then it shows up in the turn orders.
+
+280
+00:10:39,680 --> 00:10:41,440
+- Okay.
+
+281
+00:10:41,440 --> 00:10:42,260
+- And I will edit it.
+
+282
+00:10:42,260 --> 00:10:43,280
+It'll be 15 still.
+
+283
+00:10:43,280 --> 00:10:45,840
+- Why is White Spy rolling rolls?
+
+284
+00:10:45,840 --> 00:10:48,520
+- 'Cause he's confused.
+
+285
+00:10:48,520 --> 00:10:51,320
+- What's White Spy doing here?
+
+286
+00:10:51,320 --> 00:10:52,160
+- Did you ever--
+
+287
+00:10:52,160 --> 00:10:53,000
+- Get out of here, White Spy.
+
+288
+00:10:53,000 --> 00:10:54,560
+- White Spy at the bottom.
+
+289
+00:10:54,560 --> 00:10:57,880
+- Pat, you gotta have your character clicked.
+
+290
+00:10:57,880 --> 00:10:59,220
+- I did.
+
+291
+00:10:59,220 --> 00:11:00,900
+So click on the little initiative.
+
+292
+00:11:00,900 --> 00:11:02,220
+- Just rolling D20s.
+
+293
+00:11:02,220 --> 00:11:03,980
+- You have to roll the initiative.
+
+294
+00:11:03,980 --> 00:11:05,700
+- Click on the character sheet
+
+295
+00:11:05,700 --> 00:11:09,860
+and then there's initiative is a little dice,
+
+296
+00:11:09,860 --> 00:11:12,380
+a little die between actions and your name.
+
+297
+00:11:12,380 --> 00:11:13,820
+There we go.
+
+298
+00:11:13,820 --> 00:11:15,220
+- Crit one. - That's awesome.
+
+299
+00:11:15,220 --> 00:11:16,220
+Okay, that's fine.
+
+300
+00:11:16,220 --> 00:11:20,380
+It'll be what you want it to be this time.
+
+301
+00:11:20,380 --> 00:11:22,020
+Cameron, you're gonna go first.
+
+302
+00:11:22,020 --> 00:11:23,900
+- What does that mean?
+
+303
+00:11:23,900 --> 00:11:24,740
+- No, 15. - Okay.
+
+304
+00:11:24,740 --> 00:11:26,980
+- It's gonna be 15. - Okay.
+
+305
+00:11:26,980 --> 00:11:28,740
+- I'm going to use Smoker Beam.
+
+306
+00:11:28,740 --> 00:11:32,360
+- So you don't have, I did not give you,
+
+307
+00:11:32,360 --> 00:11:35,020
+what does Smoker Beam do?
+
+308
+00:11:35,020 --> 00:11:37,260
+(laughing)
+
+309
+00:11:37,260 --> 00:11:42,820
+- Basically my guy takes out a blunt and he smokes it
+
+310
+00:11:42,820 --> 00:11:44,500
+and he gets high as fuck.
+
+311
+00:11:44,500 --> 00:11:47,460
+- Where's the beam come from though?
+
+312
+00:11:47,460 --> 00:11:50,860
+- The beam is the light shining out of the TV
+
+313
+00:11:50,860 --> 00:11:51,700
+onto his face and he smiles at it.
+
+314
+00:11:51,700 --> 00:11:55,060
+- Oh, he like turns around and clicks on the TV
+
+315
+00:11:55,060 --> 00:11:56,700
+and it like blasts like a,
+
+316
+00:11:56,700 --> 00:11:59,380
+like it's a shadow almost of his entire body.
+
+317
+00:11:59,380 --> 00:12:02,100
+- Exactly, that's what I was thinking all along.
+
+318
+00:12:02,100 --> 00:12:02,940
+So it's like-- - See,
+
+319
+00:12:02,940 --> 00:12:03,760
+why am I so good at this Pokemon shit?
+
+320
+00:12:03,760 --> 00:12:04,700
+- Who are you shooting that at?
+
+321
+00:12:04,700 --> 00:12:06,900
+Which one are you shooting at?
+
+322
+00:12:06,900 --> 00:12:07,880
+- The water pig.
+
+323
+00:12:07,880 --> 00:12:10,140
+(laughing)
+
+324
+00:12:10,140 --> 00:12:11,740
+- Don't shoot at the water pig.
+
+325
+00:12:11,740 --> 00:12:13,660
+- I'm super effective against the water pig,
+
+326
+00:12:13,660 --> 00:12:15,260
+so I might as well shoot at it.
+
+327
+00:12:15,260 --> 00:12:17,200
+- Stop, he's on your team, mate.
+
+328
+00:12:17,200 --> 00:12:19,220
+- I'm not gonna shoot at the water pig.
+
+329
+00:12:19,220 --> 00:12:20,900
+So who's here, are these just normal Pokemon?
+
+330
+00:12:20,900 --> 00:12:21,740
+Whoa!
+
+331
+00:12:21,740 --> 00:12:23,300
+- How are you doing that blast?
+
+332
+00:12:23,300 --> 00:12:24,740
+- What the hell is that?
+
+333
+00:12:24,740 --> 00:12:26,540
+- I have a blast ability now.
+
+334
+00:12:26,540 --> 00:12:28,580
+- That's so fucking cool.
+
+335
+00:12:28,580 --> 00:12:30,520
+- What, are these just normal Pokemon
+
+336
+00:12:30,520 --> 00:12:31,700
+that we're fighting against?
+
+337
+00:12:31,700 --> 00:12:32,540
+- Yeah.
+
+338
+00:12:32,540 --> 00:12:34,660
+- An Onix and a Jamaican?
+
+339
+00:12:34,660 --> 00:12:36,580
+- An Onix and an Executor.
+
+340
+00:12:36,580 --> 00:12:39,220
+(laughing)
+
+341
+00:12:39,220 --> 00:12:42,700
+Okay, I will shoot my beam at the Onix.
+
+342
+00:12:42,700 --> 00:12:44,940
+- Oh!
+
+343
+00:12:44,940 --> 00:12:46,700
+- That is a critical.
+
+344
+00:12:46,700 --> 00:12:47,900
+- Did you get a critical hit?
+
+345
+00:12:47,900 --> 00:12:50,420
+- Yeah, but it doesn't do anything for the first turn.
+
+346
+00:12:50,420 --> 00:12:51,340
+- For this turn, yeah.
+
+347
+00:12:51,340 --> 00:12:55,100
+So this first turn, you start charging up your,
+
+348
+00:12:55,100 --> 00:12:56,060
+what did you call it?
+
+349
+00:12:56,060 --> 00:12:57,000
+- Smoker's beam.
+
+350
+00:12:57,000 --> 00:12:58,820
+- Well here's what it says about solar beam,
+
+351
+00:12:58,820 --> 00:12:59,660
+which I think we can--
+
+352
+00:12:59,660 --> 00:13:01,220
+- Smoker's beam. - Smoker's beam.
+
+353
+00:13:01,220 --> 00:13:04,020
+The user gathers light on the first turn,
+
+354
+00:13:04,020 --> 00:13:09,020
+then blasts a bundled beam on the next turn.
+
+355
+00:13:09,020 --> 00:13:09,860
+- Okay, that is from--
+
+356
+00:13:09,860 --> 00:13:12,020
+- So next turn I think I'll be blasting a bundled beam.
+
+357
+00:13:12,020 --> 00:13:14,480
+- Okay, that's just, that's what it said.
+
+358
+00:13:14,480 --> 00:13:17,620
+So I tried to find descriptions.
+
+359
+00:13:17,620 --> 00:13:18,460
+- A bundled beam.
+
+360
+00:13:18,460 --> 00:13:19,900
+- And they called it a bundled beam.
+
+361
+00:13:19,900 --> 00:13:21,740
+- What does that mean?
+
+362
+00:13:21,740 --> 00:13:25,900
+- Okay, but yeah, I don't do anything this turn.
+
+363
+00:13:25,900 --> 00:13:28,540
+- Okay, so you're gathering your charge here.
+
+364
+00:13:28,540 --> 00:13:31,100
+- But maybe we can use that attack roll next turn.
+
+365
+00:13:31,100 --> 00:13:32,500
+- Oh yeah, we can use that.
+
+366
+00:13:32,500 --> 00:13:38,220
+You are up now, PatrickPokemon.
+
+367
+00:13:38,220 --> 00:13:41,460
+- Okay, so I'm effective against,
+
+368
+00:13:41,460 --> 00:13:44,020
+or is it water against, or no, no, no, no.
+
+369
+00:13:44,020 --> 00:13:45,740
+Is it water, these are both,
+
+370
+00:13:45,740 --> 00:13:47,380
+I'm effective against both of them, right?
+
+371
+00:13:47,380 --> 00:13:48,220
+- No, you're not.
+
+372
+00:13:48,220 --> 00:13:50,940
+- You're effective against rock.
+
+373
+00:13:50,940 --> 00:13:54,200
+- Water's good against rock, but water's bad against grass.
+
+374
+00:13:54,200 --> 00:13:55,340
+Right, okay, that's what it was.
+
+375
+00:13:55,340 --> 00:13:59,380
+Okay, then I'm gonna go for the onyx.
+
+376
+00:13:59,380 --> 00:14:01,100
+- Okay, cool.
+
+377
+00:14:01,100 --> 00:14:02,940
+So what are you gonna do?
+
+378
+00:14:02,940 --> 00:14:04,900
+- I blasted it with wet pig shit.
+
+379
+00:14:04,900 --> 00:14:07,160
+(laughing)
+
+380
+00:14:07,160 --> 00:14:11,620
+- So is that muddy water?
+
+381
+00:14:11,620 --> 00:14:13,100
+- I don't have that.
+
+382
+00:14:13,100 --> 00:14:15,020
+- I gave him muddy water.
+
+383
+00:14:15,020 --> 00:14:16,300
+- No, it's not muddy.
+
+384
+00:14:16,300 --> 00:14:18,060
+I didn't even change muddy water.
+
+385
+00:14:18,060 --> 00:14:20,060
+he just updated it before i can change them
+
+386
+00:14:20,060 --> 00:14:22,060
+he changed, he changed, yeah he changed
+
+387
+00:14:22,060 --> 00:14:24,060
+yeah you can change it, this is what
+
+388
+00:14:24,060 --> 00:14:26,060
+yeah you can change the name of your moves
+
+389
+00:14:26,060 --> 00:14:28,060
+yeah so he changed
+
+390
+00:14:28,060 --> 00:14:30,060
+he changed water gun to wet pig shit
+
+391
+00:14:30,060 --> 00:14:32,060
+*laughter*
+
+392
+00:14:32,060 --> 00:14:34,060
+*laughter*
+
+393
+00:14:34,060 --> 00:14:36,060
+cool, wait, describe to me how does he shoot wet pig shit
+
+394
+00:14:36,060 --> 00:14:38,060
+how does bubbler shoot, and what sound does bubbler make
+
+395
+00:14:38,060 --> 00:14:40,060
+can you just imagine how he would shoot
+
+396
+00:14:40,060 --> 00:14:42,060
+wet pig shit
+
+397
+00:14:42,060 --> 00:14:44,060
+ok, so sullivan goes
+
+398
+00:14:44,060 --> 00:14:46,060
+bubbler use water gun
+
+399
+00:14:46,060 --> 00:14:48,060
+then instead... *burp*
+
+400
+00:14:48,060 --> 00:14:50,060
+yeah
+
+401
+00:14:50,060 --> 00:14:52,060
+*laughter*
+
+402
+00:14:52,060 --> 00:14:54,060
+I do that, turn around
+
+403
+00:14:54,060 --> 00:14:56,060
+and then the bubbler on my butt
+
+404
+00:14:56,060 --> 00:14:58,060
+shoots
+
+405
+00:14:58,060 --> 00:15:00,060
+wet pig shit out at
+
+406
+00:15:00,060 --> 00:15:02,060
+Onyx. And that was a... did I get a
+
+407
+00:15:02,060 --> 00:15:04,060
+20 or...
+
+408
+00:15:04,060 --> 00:15:06,060
+It looks like you rolled it with advantage
+
+409
+00:15:06,060 --> 00:15:08,060
+Oh. So let's take the...
+
+410
+00:15:08,060 --> 00:15:10,060
+what was the first one?
+
+411
+00:15:10,060 --> 00:15:12,060
+17? The first one was a 17. That still hits
+
+412
+00:15:12,060 --> 00:15:14,060
+for sure. So yeah, so now
+
+413
+00:15:14,060 --> 00:15:17,060
+So now you're gonna roll for damage now.
+
+414
+00:15:17,060 --> 00:15:21,220
+So you'll see there on your sheet, it'll say what to do.
+
+415
+00:15:21,220 --> 00:15:25,280
+- I roll 1d6 plus three.
+
+416
+00:15:25,280 --> 00:15:31,200
+- And that's gonna be doing double because of the type.
+
+417
+00:15:31,200 --> 00:15:32,040
+- Four.
+
+418
+00:15:32,040 --> 00:15:36,400
+- So it's doing eight damage to this rock snake creature
+
+419
+00:15:36,400 --> 00:15:40,580
+that writhes in pain as it's showered in your pig shit.
+
+420
+00:15:40,580 --> 00:15:42,820
+(pig snorting)
+
+421
+00:15:42,820 --> 00:15:45,060
+- He's like the nastiest Pokemon.
+
+422
+00:15:45,060 --> 00:15:46,860
+Nobody usually chooses him.
+
+423
+00:15:46,860 --> 00:15:48,820
+- He's gross.
+
+424
+00:15:48,820 --> 00:15:52,320
+- Maybe someone felt bad for him.
+
+425
+00:15:52,320 --> 00:15:55,960
+- Sullivan was bullied into picking him.
+
+426
+00:15:55,960 --> 00:15:58,760
+He did feel bad for him,
+
+427
+00:15:58,760 --> 00:16:00,880
+but he didn't necessarily want him either.
+
+428
+00:16:00,880 --> 00:16:03,260
+But now it is that Onix's turn.
+
+429
+00:16:03,260 --> 00:16:07,320
+And so he's gonna go after spying a type differential
+
+430
+00:16:07,320 --> 00:16:09,700
+using his keen Dwight senses.
+
+431
+00:16:09,700 --> 00:16:10,640
+- Bastard.
+
+432
+00:16:10,640 --> 00:16:12,340
+- He's just gonna go after Flamer.
+
+433
+00:16:12,340 --> 00:16:14,200
+- Uh-oh.
+
+434
+00:16:14,200 --> 00:16:16,080
+- Wait, he's gonna go after him specifically?
+
+435
+00:16:16,080 --> 00:16:17,120
+He's targeting him?
+
+436
+00:16:17,120 --> 00:16:17,960
+- He's targeting me?
+
+437
+00:16:17,960 --> 00:16:19,480
+I don't know about that, man.
+
+438
+00:16:19,480 --> 00:16:21,960
+- He's targeting the character.
+
+439
+00:16:21,960 --> 00:16:24,340
+- He kinda looks like me.
+
+440
+00:16:24,340 --> 00:16:27,360
+Both of these kinda look like me.
+
+441
+00:16:27,360 --> 00:16:29,480
+- You have kind of a moment of recognition.
+
+442
+00:16:29,480 --> 00:16:31,960
+- Okay, so what do I do?
+
+443
+00:16:31,960 --> 00:16:32,800
+I dodge it?
+
+444
+00:16:32,800 --> 00:16:34,460
+Okay, I dodge.
+
+445
+00:16:34,460 --> 00:16:36,000
+- You will have to roll, actually.
+
+446
+00:16:36,000 --> 00:16:36,920
+- Okay, I'll roll.
+
+447
+00:16:36,920 --> 00:16:38,960
+- Roll a D20 against your decks,
+
+448
+00:16:38,960 --> 00:16:43,080
+'cause as the onyx rears its head up.
+
+449
+00:16:43,080 --> 00:16:47,040
+- 13 with my dex bonus.
+
+450
+00:16:47,040 --> 00:16:48,640
+- 13 with your dex bonus.
+
+451
+00:16:48,640 --> 00:16:50,600
+Okay, that is not enough to save.
+
+452
+00:16:50,600 --> 00:16:51,520
+- Oh shit.
+
+453
+00:16:51,520 --> 00:16:54,120
+- It rears its head up and starts knocking around
+
+454
+00:16:54,120 --> 00:16:56,560
+and rocks, smaller rocks fall out of the crevices
+
+455
+00:16:56,560 --> 00:16:57,960
+of its bigger rocks.
+
+456
+00:16:57,960 --> 00:17:00,240
+I have no idea how else it would do that, to be honest.
+
+457
+00:17:00,240 --> 00:17:05,240
+But you end up taking 16 damage in that case.
+
+458
+00:17:05,240 --> 00:17:08,320
+- 16, man, oh crap.
+
+459
+00:17:08,320 --> 00:17:09,440
+- So here's the thing. - That's a lot.
+
+460
+00:17:09,440 --> 00:17:13,200
+- How do I change my damage, my health on this new version?
+
+461
+00:17:13,200 --> 00:17:15,520
+- Go to your, if you click on your icon,
+
+462
+00:17:15,520 --> 00:17:18,560
+you'll see the number on the top.
+
+463
+00:17:18,560 --> 00:17:20,760
+- Oh yes, I see this. - Just subtract, yeah.
+
+464
+00:17:20,760 --> 00:17:23,680
+So that'll be 19 you'll have.
+
+465
+00:17:23,680 --> 00:17:26,880
+Also, so next for you guys,
+
+466
+00:17:26,880 --> 00:17:31,120
+you have five potions you can use that will fully heal you
+
+467
+00:17:31,120 --> 00:17:34,080
+for this whole fight.
+
+468
+00:17:34,080 --> 00:17:36,520
+There are a couple other Pokemon you'll have to fight.
+
+469
+00:17:36,520 --> 00:17:39,520
+Three revives you can use as well.
+
+470
+00:17:39,520 --> 00:17:43,000
+And then three of each status effect healing item.
+
+471
+00:17:43,000 --> 00:17:44,680
+- Mr. Patches?
+
+472
+00:17:44,680 --> 00:17:46,320
+- Yes, Maya Califf.
+
+473
+00:17:46,320 --> 00:17:49,500
+- My life won't change.
+
+474
+00:17:49,500 --> 00:17:51,800
+- I'll do it.
+
+475
+00:17:51,800 --> 00:17:53,440
+- I don't know what-- - Thank you.
+
+476
+00:17:53,440 --> 00:17:54,920
+- I'm sorry.
+
+477
+00:17:54,920 --> 00:17:55,760
+- There you go.
+
+478
+00:17:55,760 --> 00:17:57,920
+Okay.
+
+479
+00:17:57,920 --> 00:18:01,820
+So now it is your turn, Flamer.
+
+480
+00:18:02,800 --> 00:18:07,060
+- Well, I want to use fire blast on the egg.
+
+481
+00:18:07,060 --> 00:18:09,400
+- Okay.
+
+482
+00:18:09,400 --> 00:18:10,760
+- 16.
+
+483
+00:18:10,760 --> 00:18:11,880
+- That hits the egg.
+
+484
+00:18:11,880 --> 00:18:13,360
+- Yes.
+
+485
+00:18:13,360 --> 00:18:14,680
+Oh yeah.
+
+486
+00:18:14,680 --> 00:18:16,460
+- 24.
+
+487
+00:18:16,460 --> 00:18:18,400
+- Yeah, you-- - 24?
+
+488
+00:18:18,400 --> 00:18:20,680
+- Yeah, so times two. - You kill my kill?
+
+489
+00:18:20,680 --> 00:18:22,760
+- Yeah, describe your kill on the egg.
+
+490
+00:18:22,760 --> 00:18:26,320
+You have five uses of this, so you have four now left.
+
+491
+00:18:26,320 --> 00:18:31,320
+- I close my eyes and I rumble around, I clench my fist.
+
+492
+00:18:32,000 --> 00:18:34,240
+(growling)
+
+493
+00:18:34,240 --> 00:18:38,360
+And then I flame it all over him.
+
+494
+00:18:38,360 --> 00:18:43,380
+- Yeah, and Dwight goes, "No, Jamaican!"
+
+495
+00:18:43,380 --> 00:18:46,160
+And he takes him back, and then he throws him out.
+
+496
+00:18:46,160 --> 00:18:47,480
+- He's fucking dead.
+
+497
+00:18:47,480 --> 00:18:49,500
+- Yeah, but he puts him back in the ball.
+
+498
+00:18:49,500 --> 00:18:52,480
+- They put the dead ones in the ball when they're done.
+
+499
+00:18:52,480 --> 00:18:53,600
+- Yeah, okay, yeah.
+
+500
+00:18:53,600 --> 00:18:55,720
+- Can I jump into the Pokeball?
+
+501
+00:18:55,720 --> 00:18:56,720
+- Yeah, you jump, yeah.
+
+502
+00:18:56,720 --> 00:18:59,440
+- I jump into the Pokeball too?
+
+503
+00:18:59,440 --> 00:19:02,900
+- Roll a d20 and we'll add your decks.
+
+504
+00:19:02,900 --> 00:19:03,740
+What'd you get?
+
+505
+00:19:03,740 --> 00:19:04,680
+- 12.
+
+506
+00:19:04,680 --> 00:19:07,280
+- Okay, cool, yeah, you land in the Pokeball with--
+
+507
+00:19:07,280 --> 00:19:08,120
+- Come here!
+
+508
+00:19:08,120 --> 00:19:09,360
+- Nope, just you.
+
+509
+00:19:09,360 --> 00:19:10,640
+- You land the executor.
+
+510
+00:19:10,640 --> 00:19:12,400
+You're out of the match now.
+
+511
+00:19:12,400 --> 00:19:13,240
+- I wanna just--
+
+512
+00:19:13,240 --> 00:19:14,760
+- I'm just beating the shit out of him.
+
+513
+00:19:14,760 --> 00:19:16,640
+(laughing)
+
+514
+00:19:16,640 --> 00:19:17,480
+- You see--
+
+515
+00:19:17,480 --> 00:19:19,000
+- Last nobody tried this tactic before.
+
+516
+00:19:19,000 --> 00:19:20,720
+- Yeah, chase him into the Pokeball, man.
+
+517
+00:19:20,720 --> 00:19:22,960
+- Yeah, just go in there with him.
+
+518
+00:19:22,960 --> 00:19:26,520
+- Dwight, please, please, please tell him to stop.
+
+519
+00:19:26,520 --> 00:19:30,060
+and Sullivan joins, return, Flamer!
+
+520
+00:19:30,060 --> 00:19:32,160
+- No.
+
+521
+00:19:32,160 --> 00:19:36,200
+- Didn't, Sullivan kinda just shrugs.
+
+522
+00:19:36,200 --> 00:19:40,240
+- Okay, I'm individually choking out every single head
+
+523
+00:19:40,240 --> 00:19:41,440
+on the executor. - Please!
+
+524
+00:19:41,440 --> 00:19:43,240
+Yeah, you're just, you're--
+
+525
+00:19:43,240 --> 00:19:44,800
+- I'm taking both of my hands
+
+526
+00:19:44,800 --> 00:19:48,160
+and I'm putting them between two sets of heads each
+
+527
+00:19:48,160 --> 00:19:50,320
+and slapping them front hand, back hand,
+
+528
+00:19:50,320 --> 00:19:52,640
+front hand, back hand, over and over and over again.
+
+529
+00:19:52,640 --> 00:19:54,200
+- Okay, yeah.
+
+530
+00:19:54,200 --> 00:19:59,200
+- Dwight makes executor, Dwight, oh no, I shit.
+
+531
+00:19:59,200 --> 00:20:00,560
+- There's nothing he can do, man.
+
+532
+00:20:00,560 --> 00:20:02,520
+He can't get in this Pokeball.
+
+533
+00:20:02,520 --> 00:20:03,680
+- I was trying to figure out what he can do.
+
+534
+00:20:03,680 --> 00:20:05,840
+- Okay guys, the strat here, we're all gonna get
+
+535
+00:20:05,840 --> 00:20:07,320
+into the other guy's Pokeballs
+
+536
+00:20:07,320 --> 00:20:09,720
+before he can even send out the other Pokemon.
+
+537
+00:20:09,720 --> 00:20:11,520
+- This is a new strategy I came up with.
+
+538
+00:20:11,520 --> 00:20:12,880
+- This is the perfect strategy.
+
+539
+00:20:12,880 --> 00:20:15,680
+- This is a strategy that's gonna change the way
+
+540
+00:20:15,680 --> 00:20:17,640
+that the game is played forever.
+
+541
+00:20:17,640 --> 00:20:19,240
+You're going to have to address this
+
+542
+00:20:19,240 --> 00:20:21,240
+in the next Pokemon game. - They will.
+
+543
+00:20:21,240 --> 00:20:25,300
+Dwight starts to plead with Sullivan and says,
+
+544
+00:20:25,300 --> 00:20:28,140
+"I concede, I concede, please!"
+
+545
+00:20:28,140 --> 00:20:28,980
+And Sullivan goes, "Okay, okay."
+
+546
+00:20:28,980 --> 00:20:30,680
+- Who's conceding?
+
+547
+00:20:30,680 --> 00:20:32,180
+- Yeah, sure, all right.
+
+548
+00:20:32,180 --> 00:20:34,260
+- I would like to destroy one of the,
+
+549
+00:20:34,260 --> 00:20:35,980
+I would like to cut off one of the heads.
+
+550
+00:20:35,980 --> 00:20:37,620
+The other two can live.
+
+551
+00:20:37,620 --> 00:20:39,580
+- Roll a strength check.
+
+552
+00:20:39,580 --> 00:20:42,180
+Let's just see if you can saw through it with your claws.
+
+553
+00:20:42,180 --> 00:20:43,300
+- No, I can't.
+
+554
+00:20:43,300 --> 00:20:44,140
+- Okay, yeah.
+
+555
+00:20:44,140 --> 00:20:46,260
+It's worse though, almost,
+
+556
+00:20:46,260 --> 00:20:48,340
+'cause you just kinda mangle it.
+
+557
+00:20:48,340 --> 00:20:50,340
+- It's kinda hanging off a little bit.
+
+558
+00:20:50,340 --> 00:20:51,580
+- Yeah, yeah.
+
+559
+00:20:51,580 --> 00:20:53,420
+- Okay, I'm done.
+
+560
+00:20:53,420 --> 00:20:54,980
+- Dwight does give up.
+
+561
+00:20:54,980 --> 00:20:56,560
+Dwight gives up.
+
+562
+00:20:56,560 --> 00:20:59,580
+- What, I didn't even get to use Smoker's Beam yet.
+
+563
+00:20:59,580 --> 00:21:01,340
+- Okay, you wanna use Smoker's Beam?
+
+564
+00:21:01,340 --> 00:21:02,180
+Or you wanna save it for the next?
+
+565
+00:21:02,180 --> 00:21:04,260
+- Yeah, we gotta take out the Onix.
+
+566
+00:21:04,260 --> 00:21:05,940
+- No, he gave up.
+
+567
+00:21:05,940 --> 00:21:07,240
+- Oh, wait, yeah, that's true.
+
+568
+00:21:07,240 --> 00:21:08,460
+We could save it for the next.
+
+569
+00:21:08,460 --> 00:21:11,580
+- It's super effective, and it's 17 plus 25,
+
+570
+00:21:11,580 --> 00:21:13,900
+which is 42 times two.
+
+571
+00:21:13,900 --> 00:21:14,720
+- Yeah, it's 84. - You could save it
+
+572
+00:21:14,720 --> 00:21:18,260
+for the next, the first Pokemon that he throws out.
+
+573
+00:21:18,260 --> 00:21:20,900
+- So I've used it on the Onix and I did 84 damage.
+
+574
+00:21:20,900 --> 00:21:21,740
+- He wants to see.
+
+575
+00:21:21,740 --> 00:21:23,740
+- I also climbed inside the Onix's mouth
+
+576
+00:21:23,740 --> 00:21:25,880
+so that when he takes a back on the Pokeball,
+
+577
+00:21:25,880 --> 00:21:28,020
+I'm going into the Pokeball with it.
+
+578
+00:21:28,020 --> 00:21:29,060
+- Okay, cool.
+
+579
+00:21:29,060 --> 00:21:29,900
+So, you're gonna--
+
+580
+00:21:29,900 --> 00:21:31,740
+- 'Cause listen, turn order and concede,
+
+581
+00:21:31,740 --> 00:21:33,160
+I already was charging this up.
+
+582
+00:21:33,160 --> 00:21:35,140
+It's gonna happen whether or not he concedes.
+
+583
+00:21:35,140 --> 00:21:36,620
+I can't keep the bungled beam inside my body.
+
+584
+00:21:36,620 --> 00:21:39,060
+- Just shoot it at Dwight.
+
+585
+00:21:39,060 --> 00:21:40,460
+You can shoot it at Dwight.
+
+586
+00:21:40,460 --> 00:21:41,460
+- Okay, I shoot at Dwight,
+
+587
+00:21:41,460 --> 00:21:44,220
+but then I also am still going inside Onix's mouth.
+
+588
+00:21:44,220 --> 00:21:45,800
+- Oh yeah, you kill Dwight.
+
+589
+00:21:47,380 --> 00:21:49,660
+and uh... yeah
+
+590
+00:21:49,660 --> 00:21:53,220
+the next day i don't worry i get all of the white spooky was a sir cracking them
+
+591
+00:21:53,220 --> 00:21:56,300
+like exit from the uh... you guys
+
+592
+00:21:56,300 --> 00:21:58,900
+guys are not over flame is body
+
+593
+00:21:58,900 --> 00:22:01,980
+i've got sullivan in a book you bought the
+
+594
+00:22:01,980 --> 00:22:04,580
+but i don't know
+
+595
+00:22:04,580 --> 00:22:06,420
+you're an animal
+
+596
+00:22:06,420 --> 00:22:07,380
+or a little bit
+
+597
+00:22:07,380 --> 00:22:08,740
+you know that i like
+
+598
+00:22:08,740 --> 00:22:11,220
+you know that really have some fun
+
+599
+00:22:11,220 --> 00:22:12,940
+okay cool
+
+600
+00:22:12,940 --> 00:22:17,300
+- All right, now the other trainer and the gym leader
+
+601
+00:22:17,300 --> 00:22:19,100
+are both throwing out their Pokemon
+
+602
+00:22:19,100 --> 00:22:21,420
+'cause they're terrified of you guys.
+
+603
+00:22:21,420 --> 00:22:22,340
+- They should be.
+
+604
+00:22:22,340 --> 00:22:24,300
+- Yeah, so here they come.
+
+605
+00:22:24,300 --> 00:22:27,100
+- Better not be Tarakion.
+
+606
+00:22:27,100 --> 00:22:30,140
+- I don't know what that is.
+
+607
+00:22:30,140 --> 00:22:32,020
+- Is that called Ekis?
+
+608
+00:22:32,020 --> 00:22:32,860
+Or Ekis?
+
+609
+00:22:32,860 --> 00:22:34,260
+- Arbok. - Arbok.
+
+610
+00:22:34,260 --> 00:22:35,400
+- Arbok. - Arbok.
+
+611
+00:22:35,400 --> 00:22:37,620
+- And that one's called My Arms?
+
+612
+00:22:37,620 --> 00:22:39,020
+- That's Machoke.
+
+613
+00:22:39,020 --> 00:22:41,020
+- Machoke. - God damn it.
+
+614
+00:22:41,020 --> 00:22:42,600
+- It's okay.
+
+615
+00:22:42,600 --> 00:22:44,640
+And then last but not least,
+
+616
+00:22:44,640 --> 00:22:51,280
+Raichu.
+
+617
+00:22:51,280 --> 00:22:52,120
+- Raichu.
+
+618
+00:22:52,120 --> 00:22:53,840
+Tell me why this old guy patch
+
+619
+00:22:53,840 --> 00:22:55,920
+is only using the first generation of Pokemon.
+
+620
+00:22:55,920 --> 00:22:56,760
+- Right?
+
+621
+00:22:56,760 --> 00:22:59,160
+- Come on, throw some Clefkies in there.
+
+622
+00:22:59,160 --> 00:23:01,200
+- I'm not gonna do that on the first,
+
+623
+00:23:01,200 --> 00:23:04,200
+this is like a trial run to see what I win.
+
+624
+00:23:04,200 --> 00:23:05,040
+- That's true.
+
+625
+00:23:05,040 --> 00:23:07,600
+- Can I put stuff on the map?
+
+626
+00:23:07,600 --> 00:23:09,800
+- Can I put an image on the map,
+
+627
+00:23:09,800 --> 00:23:11,920
+or is that only a DM thing?
+
+628
+00:23:11,920 --> 00:23:13,640
+- If you have the ability-- - I would like to throw
+
+629
+00:23:13,640 --> 00:23:15,440
+my Pokemon. - You might have the ability.
+
+630
+00:23:15,440 --> 00:23:17,120
+You wanna throw your, you can throw your own.
+
+631
+00:23:17,120 --> 00:23:18,880
+- I wanna throw my own Pokemon. - One of us needs to,
+
+632
+00:23:18,880 --> 00:23:21,120
+one of us needs to pretend to be the trainer
+
+633
+00:23:21,120 --> 00:23:22,760
+so they don't get wise. - I'll do it.
+
+634
+00:23:22,760 --> 00:23:24,120
+- We're stray Pokemon. - Yeah.
+
+635
+00:23:24,120 --> 00:23:25,700
+- You guys can-- - I got that sound.
+
+636
+00:23:25,700 --> 00:23:28,200
+- So I'm in the back, I mean I have a suit,
+
+637
+00:23:28,200 --> 00:23:30,040
+so I'm sitting in the back. - Yeah, sure.
+
+638
+00:23:30,040 --> 00:23:31,360
+- I'm pretending to be a normal--
+
+639
+00:23:31,360 --> 00:23:33,080
+- A pig? - Human, yeah.
+
+640
+00:23:33,080 --> 00:23:35,960
+Just a pig man. - What the fuck
+
+641
+00:23:35,960 --> 00:23:38,240
+is on the screen? - Big red block.
+
+642
+00:23:38,240 --> 00:23:39,160
+- Sorry y'all.
+
+643
+00:23:39,160 --> 00:23:41,800
+- What are you doing?
+
+644
+00:23:41,800 --> 00:23:42,880
+my b
+
+645
+00:23:42,880 --> 00:23:45,080
+does my son on your sorry about that
+
+646
+00:23:45,080 --> 00:23:45,920
+all right cool
+
+647
+00:23:45,920 --> 00:23:48,000
+we're back to the top of the order
+
+648
+00:23:48,000 --> 00:23:48,800
+uh...
+
+649
+00:23:48,800 --> 00:23:52,680
+array waits a long first okay you're pretending you're a guy
+
+650
+00:23:52,680 --> 00:23:54,240
+so i don't know
+
+651
+00:23:54,240 --> 00:23:56,640
+uh... and i think
+
+652
+00:23:56,640 --> 00:23:58,320
+i'm glad i did it
+
+653
+00:23:58,320 --> 00:24:00,160
+that i had a lot of these
+
+654
+00:24:00,160 --> 00:24:04,160
+i'm trying to be a a human i'm trying to speak so you can only say water pig
+
+655
+00:24:04,160 --> 00:24:08,440
+you know but what do you have a a a a a
+
+656
+00:24:08,440 --> 00:24:10,800
+you know you're going on your say your name
+
+657
+00:24:10,800 --> 00:24:11,800
+Oh my god!
+
+658
+00:24:11,800 --> 00:24:15,120
+So the trainer comes up to you, the gym leader.
+
+659
+00:24:15,120 --> 00:24:24,280
+He says, "Okay, I could have swore there was a frog here a little while ago."
+
+660
+00:24:24,280 --> 00:24:25,760
+I'm smelling his butt.
+
+661
+00:24:25,760 --> 00:24:28,600
+Are you getting rolled?
+
+662
+00:24:28,600 --> 00:24:32,840
+Roll to see how it smells.
+
+663
+00:24:32,840 --> 00:24:35,320
+What'd you get?
+
+664
+00:24:35,320 --> 00:24:36,320
+Six.
+
+665
+00:24:36,320 --> 00:24:37,320
+six
+
+666
+00:24:37,320 --> 00:24:39,320
+the case is that the
+
+667
+00:24:39,320 --> 00:24:40,320
+the
+
+668
+00:24:40,320 --> 00:24:43,320
+the
+
+669
+00:24:43,320 --> 00:24:44,320
+the
+
+670
+00:24:44,320 --> 00:24:45,320
+the
+
+671
+00:24:45,320 --> 00:24:47,320
+the
+
+672
+00:24:47,320 --> 00:24:49,320
+the
+
+673
+00:24:49,320 --> 00:24:51,320
+the
+
+674
+00:24:51,320 --> 00:24:53,320
+the
+
+675
+00:24:53,320 --> 00:24:55,320
+the
+
+676
+00:24:55,320 --> 00:24:57,320
+the
+
+677
+00:24:57,320 --> 00:24:59,320
+the
+
+678
+00:24:59,320 --> 00:25:01,320
+the
+
+679
+00:25:01,320 --> 00:25:03,320
+the
+
+680
+00:25:03,320 --> 00:25:05,320
+the
+
+681
+00:25:05,320 --> 00:25:08,040
+I know that Pokemon. Where's your train?
+
+682
+00:25:08,040 --> 00:25:09,560
+That's one of the original 153.
+
+683
+00:25:09,560 --> 00:25:11,080
+And I blast him with my udder.
+
+684
+00:25:11,080 --> 00:25:12,320
+Damn it.
+
+685
+00:25:12,320 --> 00:25:15,680
+Okay, I mean you still hit him, he's a normal guy.
+
+686
+00:25:15,680 --> 00:25:18,560
+Yeah. He's like, "Oh my god!"
+
+687
+00:25:18,560 --> 00:25:21,280
+And he starts to just blast him to the other side.
+
+688
+00:25:21,280 --> 00:25:24,520
+He just, yeah, he runs back there, he like sends out his Pokemon, he's like,
+
+689
+00:25:24,520 --> 00:25:27,960
+"Alright, I gotta take care of these rogue-ass Pokemon."
+
+690
+00:25:27,960 --> 00:25:32,800
+And, uh, yeah, uh, let's start from the top of the order again.
+
+691
+00:25:32,800 --> 00:25:34,460
+- You're up.
+
+692
+00:25:34,460 --> 00:25:36,780
+And then we'll see what happens after you beat him.
+
+693
+00:25:36,780 --> 00:25:38,860
+'Cause then you guys are gonna have the town
+
+694
+00:25:38,860 --> 00:25:41,140
+at your disposal, I guess.
+
+695
+00:25:41,140 --> 00:25:44,740
+- Is Grass effective against the strong guy?
+
+696
+00:25:44,740 --> 00:25:46,100
+- The strong?
+
+697
+00:25:46,100 --> 00:25:48,260
+Is Grass effective against the strong?
+
+698
+00:25:48,260 --> 00:25:49,820
+- I think so. - No.
+
+699
+00:25:49,820 --> 00:25:51,420
+Grass is not effective against fighting.
+
+700
+00:25:51,420 --> 00:25:54,420
+- What about the everything else that's on the screen?
+
+701
+00:25:54,420 --> 00:25:56,340
+- No, he's weak against poison.
+
+702
+00:25:56,340 --> 00:25:58,300
+- Weak against poison?
+
+703
+00:25:58,300 --> 00:25:59,380
+Okay, well, all you--
+
+704
+00:25:59,380 --> 00:26:00,220
+- These are guys,
+
+705
+00:26:00,220 --> 00:26:02,860
+These were supposed to be staggered out as you fought them,
+
+706
+00:26:02,860 --> 00:26:05,700
+but then you guys trapped your trainer in a pokeball.
+
+707
+00:26:05,700 --> 00:26:06,680
+- Well, we have new strategies where the effectiveness
+
+708
+00:26:06,680 --> 00:26:08,900
+barely even matters these days.
+
+709
+00:26:08,900 --> 00:26:09,740
+- Oh, okay.
+
+710
+00:26:09,740 --> 00:26:13,320
+- So first of all, I'm going to use my attack, Hulu,
+
+711
+00:26:13,320 --> 00:26:17,940
+which, I'll read this here,
+
+712
+00:26:17,940 --> 00:26:22,660
+Hulu shoots two to five seeds in a row to strike the foe.
+
+713
+00:26:22,660 --> 00:26:25,260
+- So roll one D6 to see how many seeds
+
+714
+00:26:25,260 --> 00:26:27,060
+when you do Hulu.
+
+715
+00:26:29,660 --> 00:26:30,500
+- Six.
+
+716
+00:26:30,500 --> 00:26:32,180
+Three.
+
+717
+00:26:32,180 --> 00:26:35,380
+- Okay, so you get three seeds, and so--
+
+718
+00:26:35,380 --> 00:26:37,580
+- One D4 each it looks like.
+
+719
+00:26:37,580 --> 00:26:38,780
+- Mm-hmm.
+
+720
+00:26:38,780 --> 00:26:39,820
+- Okay, so.
+
+721
+00:26:39,820 --> 00:26:43,980
+- And who are you shooting that at again?
+
+722
+00:26:43,980 --> 00:26:46,540
+- Now I'm shooting this directly at the gym leader.
+
+723
+00:26:46,540 --> 00:26:52,620
+So that's eight damage from my seeds.
+
+724
+00:26:52,620 --> 00:26:54,660
+And I'm aiming for his groin.
+
+725
+00:26:54,660 --> 00:26:56,260
+- He's--
+
+726
+00:26:56,260 --> 00:26:57,780
+- 'Cause I'm high, and when I'm high,
+
+727
+00:26:57,780 --> 00:27:00,460
+Honestly, I can't control myself.
+
+728
+00:27:00,460 --> 00:27:03,660
+- And how much damage did he get from Utter?
+
+729
+00:27:03,660 --> 00:27:04,500
+What did he get?
+
+730
+00:27:04,500 --> 00:27:05,860
+Oh, Christ.
+
+731
+00:27:05,860 --> 00:27:07,580
+- Dude, I don't even think he did any damage.
+
+732
+00:27:07,580 --> 00:27:10,300
+I think I was just blasting him away from me.
+
+733
+00:27:10,300 --> 00:27:11,140
+So you don't have to worry about that.
+
+734
+00:27:11,140 --> 00:27:12,980
+- So you weren't using, it says torn water.
+
+735
+00:27:12,980 --> 00:27:15,460
+- You were not using Hydro Pump then on this guy.
+
+736
+00:27:15,460 --> 00:27:18,580
+- No, no, I was using Utter, which is the foe is bla--
+
+737
+00:27:18,580 --> 00:27:20,140
+Oh, it is Hydro Pump, actually.
+
+738
+00:27:20,140 --> 00:27:23,500
+- Okay, so he's dead.
+
+739
+00:27:23,500 --> 00:27:26,300
+(laughing)
+
+740
+00:27:26,300 --> 00:27:29,980
+I was kinda like wondering how long it would take for you guys to attack traitors, but
+
+741
+00:27:29,980 --> 00:27:30,980
+this is immediate.
+
+742
+00:27:30,980 --> 00:27:35,060
+Alright you Arbok macho, macho Raichu, get it back in your balls.
+
+743
+00:27:35,060 --> 00:27:41,300
+Or join us and we will destroy all of the human civilization.
+
+744
+00:27:41,300 --> 00:27:43,540
+Stop Waterpig.
+
+745
+00:27:43,540 --> 00:27:45,040
+Stop copying me.
+
+746
+00:27:45,040 --> 00:27:48,500
+I thought that we were supposed to look menacing.
+
+747
+00:27:48,500 --> 00:27:49,500
+The snake is like...
+
+748
+00:27:49,500 --> 00:27:50,500
+I just got Deja vu, Waterpig.
+
+749
+00:27:50,500 --> 00:27:55,820
+I feel like I heard what you said before.
+
+750
+00:27:55,820 --> 00:27:57,820
+That's my character's voice and that's the first time he's talked to.
+
+751
+00:27:57,820 --> 00:28:02,820
+Arbok, Arbok says, "Uh, what's in it for us?"
+
+752
+00:28:02,820 --> 00:28:04,820
+Dude!
+
+753
+00:28:04,820 --> 00:28:07,820
+I will feed you this.
+
+754
+00:28:07,820 --> 00:28:10,820
+Snotilisp.
+
+755
+00:28:10,820 --> 00:28:11,820
+You sound gay.
+
+756
+00:28:11,820 --> 00:28:14,820
+Well, no, you're flamer.
+
+757
+00:28:14,820 --> 00:28:15,820
+What is that supposed to mean?
+
+758
+00:28:15,820 --> 00:28:16,820
+Whoa!
+
+759
+00:28:16,820 --> 00:28:18,820
+What the hell is that supposed to mean?
+
+760
+00:28:18,820 --> 00:28:20,820
+Okay, I'm going to attack him.
+
+761
+00:28:20,820 --> 00:28:22,820
+Arbok, I will feed you this.
+
+762
+00:28:22,820 --> 00:28:24,820
+I
+
+763
+00:28:24,820 --> 00:28:30,360
+Don't see it what I sent it to him I sent to him on this on discord
+
+764
+00:28:30,360 --> 00:28:38,380
+Oh, that's not a private message. You said this and private message. Yeah, I didn't think that through he sent me a hamtaro hamster
+
+765
+00:28:38,380 --> 00:28:44,780
+I have this in my back pocket. He's sent me one of the hamtaro
+
+766
+00:28:44,780 --> 00:28:48,260
+What's the deal with these guys?
+
+767
+00:28:48,940 --> 00:28:51,140
+- It's so small to hold a seed like that.
+
+768
+00:28:51,140 --> 00:28:54,260
+- Okay, here's what's in it for you, Arbok.
+
+769
+00:28:54,260 --> 00:28:58,860
+You don't have to live in a Pokeball anymore,
+
+770
+00:28:58,860 --> 00:29:01,280
+and you don't have to hide away and hide your true self.
+
+771
+00:29:01,280 --> 00:29:02,840
+You can be whoever you want.
+
+772
+00:29:02,840 --> 00:29:05,780
+- And you can eat this.
+
+773
+00:29:05,780 --> 00:29:07,620
+- You're calling me gay again, I think.
+
+774
+00:29:07,620 --> 00:29:10,100
+- I'm not, what is up with you being obsessed
+
+775
+00:29:10,100 --> 00:29:12,460
+with gay stuff, okay?
+
+776
+00:29:12,460 --> 00:29:13,300
+I'm just saying.
+
+777
+00:29:13,300 --> 00:29:15,060
+- You're playing the victim here, dude.
+
+778
+00:29:15,060 --> 00:29:17,900
+- Once we get rid of all the humans,
+
+779
+00:29:17,900 --> 00:29:19,440
+There's nobody to look down on you
+
+780
+00:29:19,440 --> 00:29:21,900
+for whatever kind of lifestyle you choose to live.
+
+781
+00:29:21,900 --> 00:29:27,160
+- Urgent as to whoever you want to spend your time with.
+
+782
+00:29:27,160 --> 00:29:30,560
+- And the snake goes over to the Raichu
+
+783
+00:29:30,560 --> 00:29:32,720
+and they start to confer.
+
+784
+00:29:32,720 --> 00:29:36,660
+And the Machoke goes over to you, Flamer,
+
+785
+00:29:36,660 --> 00:29:37,540
+and he says,
+
+786
+00:29:37,540 --> 00:29:40,460
+so,
+
+787
+00:29:40,460 --> 00:29:41,300
+me know
+
+788
+00:29:41,300 --> 00:29:43,180
+have to listen
+
+789
+00:29:43,180 --> 00:29:45,420
+to
+
+790
+00:29:45,420 --> 00:29:46,860
+puny humans.
+
+791
+00:29:46,860 --> 00:29:48,940
+(laughs)
+
+792
+00:29:48,940 --> 00:29:52,060
+- He's thinking about it.
+
+793
+00:29:52,060 --> 00:29:53,800
+And they go, okay.
+
+794
+00:29:53,800 --> 00:29:57,180
+They agree, all three of them agree
+
+795
+00:29:57,180 --> 00:29:58,420
+that that would be better. - Wow.
+
+796
+00:29:58,420 --> 00:29:59,820
+- The hamster-- - Okay, now we can launch
+
+797
+00:29:59,820 --> 00:30:02,020
+a surprise attack and kill them.
+
+798
+00:30:02,020 --> 00:30:04,420
+- Okay, I put the hamster back in my back pocket.
+
+799
+00:30:04,420 --> 00:30:06,140
+- Oh no, you guys are gonna attack them?
+
+800
+00:30:06,140 --> 00:30:09,500
+- Caleb said he's frozen, can we hear him?
+
+801
+00:30:09,500 --> 00:30:11,900
+- No, we can't hear him. - But he's not talking.
+
+802
+00:30:11,900 --> 00:30:14,700
+He's just looking around.
+
+803
+00:30:14,700 --> 00:30:17,340
+- Yeah, wait, is he actually frozen or is he lying?
+
+804
+00:30:17,340 --> 00:30:21,100
+- I think he's lying.
+
+805
+00:30:21,100 --> 00:30:23,100
+- It's a weird lie.
+
+806
+00:30:23,100 --> 00:30:24,220
+- He hasn't even tried to speak.
+
+807
+00:30:24,220 --> 00:30:26,320
+- He hasn't seen you, I haven't seen your mouth.
+
+808
+00:30:26,320 --> 00:30:27,620
+You're not moving at all.
+
+809
+00:30:27,620 --> 00:30:28,900
+You're not talking.
+
+810
+00:30:28,900 --> 00:30:30,740
+- He's gonna reload.
+
+811
+00:30:30,740 --> 00:30:32,260
+- He's just lying.
+
+812
+00:30:32,260 --> 00:30:34,220
+- Maybe we're frozen?
+
+813
+00:30:34,220 --> 00:30:37,140
+- Okay, so while he's doing this,
+
+814
+00:30:37,140 --> 00:30:39,500
+we should change his character token.
+
+815
+00:30:39,500 --> 00:30:40,340
+- Hello.
+
+816
+00:30:40,340 --> 00:30:41,180
+- Okay, he's back.
+
+817
+00:30:41,180 --> 00:30:42,020
+- We could see you, man,
+
+818
+00:30:42,020 --> 00:30:43,860
+when you weren't even trying to talk.
+
+819
+00:30:43,860 --> 00:30:45,860
+You were just looking around.
+
+820
+00:30:45,860 --> 00:30:47,860
+You guys were frozen.
+
+821
+00:30:47,860 --> 00:30:49,860
+I really just wanted to get your attention.
+
+822
+00:30:49,860 --> 00:30:51,860
+He said, "Can you hear me?"
+
+823
+00:30:51,860 --> 00:30:53,860
+I was trying to see if you guys were moving.
+
+824
+00:30:53,860 --> 00:30:55,860
+Can you hear me?
+
+825
+00:30:55,860 --> 00:30:57,860
+I don't know.
+
+826
+00:30:57,860 --> 00:30:59,860
+I knew you guys were frozen,
+
+827
+00:30:59,860 --> 00:31:01,860
+so I figured I was too.
+
+828
+00:31:01,860 --> 00:31:05,860
+Like a fucking baby.
+
+829
+00:31:05,860 --> 00:31:07,860
+What's that about?
+
+830
+00:31:07,860 --> 00:31:09,860
+What's that dig?
+
+831
+00:31:09,860 --> 00:31:11,860
+It's like a baby.
+
+832
+00:31:11,860 --> 00:31:19,020
+thinks how about your ball frozen patches so why would that it's not just on your
+
+833
+00:31:19,020 --> 00:31:27,420
+why would it just assumed what because I thought that my zinc castor crash that's
+
+834
+00:31:27,420 --> 00:31:33,300
+funny patches is call me a baby and I'm sorry man anyway what did you want to say
+
+835
+00:31:33,300 --> 00:31:38,260
+they agreed to - they're gonna say I think we should just kill them now though
+
+836
+00:31:38,260 --> 00:31:43,580
+So they have, now we know that we could basically have domination over them.
+
+837
+00:31:43,580 --> 00:31:44,580
+We might as well kill them.
+
+838
+00:31:44,580 --> 00:31:45,580
+Here's what we do.
+
+839
+00:31:45,580 --> 00:31:47,300
+Guys, guys, okay.
+
+840
+00:31:47,300 --> 00:31:48,420
+We're gonna do our plan.
+
+841
+00:31:48,420 --> 00:31:50,660
+We're gonna take over the human world.
+
+842
+00:31:50,660 --> 00:31:53,980
+But six Pokemon running around.
+
+843
+00:31:53,980 --> 00:31:54,980
+Listen, we don't have the numbers for this.
+
+844
+00:31:54,980 --> 00:31:55,980
+That's a whole team.
+
+845
+00:31:55,980 --> 00:31:56,980
+What are you talking about?
+
+846
+00:31:56,980 --> 00:31:57,980
+We don't have the numbers for this yet.
+
+847
+00:31:57,980 --> 00:31:59,700
+We don't have the numbers for this yet, okay?
+
+848
+00:31:59,700 --> 00:32:00,700
+They're gonna get wise.
+
+849
+00:32:00,700 --> 00:32:01,700
+We have no trainer.
+
+850
+00:32:01,700 --> 00:32:02,700
+We're gonna be running around.
+
+851
+00:32:02,700 --> 00:32:06,820
+We're gonna have to have you guys get into Pokeballs just for a little bit so that we
+
+852
+00:32:06,820 --> 00:32:09,420
+collect a bunch of Pokemon and then we'll let you all out
+
+853
+00:32:09,420 --> 00:32:11,420
+at the same time and we'll kill the mayor.
+
+854
+00:32:11,420 --> 00:32:15,740
+- Except for Machoke, we're gonna put you in human clothes
+
+855
+00:32:15,740 --> 00:32:19,860
+and we're also going to actually implant an explosive
+
+856
+00:32:19,860 --> 00:32:21,260
+into your body that we have a remote to,
+
+857
+00:32:21,260 --> 00:32:23,300
+but you don't have to worry about that.
+
+858
+00:32:23,300 --> 00:32:24,140
+- And a fake nose.
+
+859
+00:32:24,140 --> 00:32:25,660
+- But you're gonna be in human clothes
+
+860
+00:32:25,660 --> 00:32:27,060
+and a fake nose and a fake mustache.
+
+861
+00:32:27,060 --> 00:32:28,940
+- We're going to give you a disguise.
+
+862
+00:32:28,940 --> 00:32:30,460
+- And you will be our trainer.
+
+863
+00:32:30,460 --> 00:32:34,020
+- Mm, yay.
+
+864
+00:32:34,020 --> 00:32:38,140
+- So we have Sullivan in a Pokeball plus Raichu and--
+
+865
+00:32:38,140 --> 00:32:39,500
+- Put 'em all in the same one.
+
+866
+00:32:39,500 --> 00:32:40,340
+- Yeah.
+
+867
+00:32:40,340 --> 00:32:41,180
+- And we only have one ball.
+
+868
+00:32:41,180 --> 00:32:43,220
+- We'll see what they do to,
+
+869
+00:32:43,220 --> 00:32:45,300
+see what they do with Sullivan.
+
+870
+00:32:45,300 --> 00:32:47,100
+- You can just see a skeleton,
+
+871
+00:32:47,100 --> 00:32:49,200
+like, coming out the other side of that.
+
+872
+00:32:49,200 --> 00:32:51,380
+(laughing)
+
+873
+00:32:51,380 --> 00:32:53,580
+- Carrying around just a fat Pokeball,
+
+874
+00:32:53,580 --> 00:32:55,780
+a big, fat, bulging Pokeball.
+
+875
+00:32:55,780 --> 00:32:59,420
+- Yeah, so okay, so you put the snake away,
+
+876
+00:32:59,420 --> 00:33:01,300
+you put the mouse away,
+
+877
+00:33:01,300 --> 00:33:04,900
+You dress up the macho thing in this suit.
+
+878
+00:33:04,900 --> 00:33:06,100
+So you guys have your guys,
+
+879
+00:33:06,100 --> 00:33:09,240
+you guys are now done with this gym.
+
+880
+00:33:09,240 --> 00:33:12,180
+So you're in this town now.
+
+881
+00:33:12,180 --> 00:33:14,620
+Let's zoom out.
+
+882
+00:33:14,620 --> 00:33:15,560
+You're in the town.
+
+883
+00:33:15,560 --> 00:33:17,340
+What do you guys wanna go?
+
+884
+00:33:17,340 --> 00:33:20,180
+It's the first town, it's like the Pewter City town
+
+885
+00:33:20,180 --> 00:33:21,020
+kind of thing.
+
+886
+00:33:21,020 --> 00:33:22,420
+Is Pewter the first one in Kanto?
+
+887
+00:33:22,420 --> 00:33:24,820
+- I wanna go to Nurse Jackie's office.
+
+888
+00:33:24,820 --> 00:33:28,020
+- I think Pewter is the first one 'cause that's rock.
+
+889
+00:33:28,020 --> 00:33:29,340
+- Right, yeah, that's right.
+
+890
+00:33:29,340 --> 00:33:30,940
+Nurse Jock.
+
+891
+00:33:30,940 --> 00:33:33,780
+- Nurse Joe. - Nurse Jackie is the show.
+
+892
+00:33:33,780 --> 00:33:35,020
+- Nurse Jackie.
+
+893
+00:33:35,020 --> 00:33:37,860
+- All right, so you want, is that Carmella Soprano?
+
+894
+00:33:37,860 --> 00:33:39,180
+She's Nurse Jackie, right? - Yeah.
+
+895
+00:33:39,180 --> 00:33:40,460
+- Okay. - Oh my God.
+
+896
+00:33:40,460 --> 00:33:42,540
+Was that Carmella Soprano on the phone right now?
+
+897
+00:33:42,540 --> 00:33:44,380
+- Is this Carmella Soprano?
+
+898
+00:33:44,380 --> 00:33:46,620
+(laughing)
+
+899
+00:33:46,620 --> 00:33:50,660
+- All right, yeah, you wanna go to Nurse Jackie, okay.
+
+900
+00:33:50,660 --> 00:33:51,980
+You guys go to the-- - Yeah.
+
+901
+00:33:51,980 --> 00:33:55,260
+- The Poke, what's it, the Poke Center?
+
+902
+00:33:55,260 --> 00:33:57,860
+- Center. - Poke Center.
+
+903
+00:33:57,860 --> 00:34:00,740
+- Pokemon Center. - The Pokemon Center.
+
+904
+00:34:00,740 --> 00:34:02,300
+You guys go in with the Machoke.
+
+905
+00:34:02,300 --> 00:34:04,780
+The Machoke is still trying to figure out
+
+906
+00:34:04,780 --> 00:34:06,540
+like kind of how to do stuff.
+
+907
+00:34:06,540 --> 00:34:09,460
+So he kind of, he sort of, it's a push door.
+
+908
+00:34:09,460 --> 00:34:12,620
+He figures out that it's, he tries to pull it.
+
+909
+00:34:12,620 --> 00:34:14,340
+And you could feel the hinges coming off.
+
+910
+00:34:14,340 --> 00:34:16,980
+- The first thing he tries is pulling it.
+
+911
+00:34:16,980 --> 00:34:21,300
+- Does Nurse Jackie think, is she attracted to Machoke?
+
+912
+00:34:21,300 --> 00:34:24,380
+- Why don't you roll Insight?
+
+913
+00:34:24,380 --> 00:34:26,300
+- Okay.
+
+914
+00:34:26,300 --> 00:34:28,820
+- Probably girls would be.
+
+915
+00:34:28,820 --> 00:34:31,420
+- She should have to roll some kind of wisdom save
+
+916
+00:34:31,420 --> 00:34:32,820
+against those muscles.
+
+917
+00:34:32,820 --> 00:34:34,020
+I think she can't help herself.
+
+918
+00:34:34,020 --> 00:34:35,240
+- How do I roll insight?
+
+919
+00:34:35,240 --> 00:34:39,280
+- Oh, just roll intelligence.
+
+920
+00:34:39,280 --> 00:34:40,420
+I didn't give him skills.
+
+921
+00:34:40,420 --> 00:34:43,180
+- Why does Machoke have all these lines on his arms?
+
+922
+00:34:43,180 --> 00:34:44,500
+What's that supposed to represent?
+
+923
+00:34:44,500 --> 00:34:45,340
+I'm stupid.
+
+924
+00:34:45,340 --> 00:34:46,160
+- Tattoos.
+
+925
+00:34:46,160 --> 00:34:47,300
+- Self-harm, dude.
+
+926
+00:34:47,300 --> 00:34:48,140
+- Yeah, that's a nice thing.
+
+927
+00:34:48,140 --> 00:34:48,980
+- It's really sad.
+
+928
+00:34:48,980 --> 00:34:52,860
+- They made him have crazy hair as well.
+
+929
+00:34:52,860 --> 00:34:53,700
+- I'm stupid.
+
+930
+00:34:53,700 --> 00:34:54,700
+Inside is wisdom.
+
+931
+00:34:54,700 --> 00:34:57,180
+I just saw I and thought, yeah.
+
+932
+00:34:57,180 --> 00:34:58,220
+- Well, it's the same multiplier,
+
+933
+00:34:58,220 --> 00:34:59,240
+so I'll take my first one.
+
+934
+00:34:59,240 --> 00:35:00,940
+- Sure, yeah, that's fine with me.
+
+935
+00:35:00,940 --> 00:35:03,740
+What is the multiplier, plus one or something?
+
+936
+00:35:03,740 --> 00:35:04,580
+- Plus one, yeah.
+
+937
+00:35:04,580 --> 00:35:06,840
+- Okay, so 15, cool.
+
+938
+00:35:06,840 --> 00:35:08,680
+She's definitely looking him up and down,
+
+939
+00:35:08,680 --> 00:35:11,100
+like he looks, most of the trainers
+
+940
+00:35:11,100 --> 00:35:11,940
+that come in here are 10.
+
+941
+00:35:11,940 --> 00:35:13,580
+- Here's a question I have, I guess, real quick.
+
+942
+00:35:13,580 --> 00:35:15,380
+- You know, it's the first man trainer
+
+943
+00:35:15,380 --> 00:35:17,060
+she's seen in a while.
+
+944
+00:35:17,060 --> 00:35:18,220
+- Since you're kind of the master
+
+945
+00:35:18,220 --> 00:35:19,660
+of this Pokemon world right now,
+
+946
+00:35:19,660 --> 00:35:21,580
+you might be able to answer this for me, Patches.
+
+947
+00:35:21,580 --> 00:35:22,420
+- Yeah, I'll do my best.
+
+948
+00:35:22,420 --> 00:35:24,420
+- But is his underwear part of his body
+
+949
+00:35:24,420 --> 00:35:27,820
+or does he have a thing under it?
+
+950
+00:35:27,820 --> 00:35:31,220
+Is that the kind of thing I'm supposed to?
+
+951
+00:35:31,220 --> 00:35:32,060
+- You should know that.
+
+952
+00:35:32,060 --> 00:35:32,900
+- Well, I mean, right now,
+
+953
+00:35:32,900 --> 00:35:35,820
+you have power over everything, essentially.
+
+954
+00:35:35,820 --> 00:35:36,660
+- So this is your decision.
+
+955
+00:35:36,660 --> 00:35:38,140
+- So I'm gonna go ahead and pull down that--
+
+956
+00:35:38,140 --> 00:35:40,780
+I'm gonna go ahead and pull down that--
+
+957
+00:35:40,780 --> 00:35:41,620
+- Pants him.
+
+958
+00:35:41,620 --> 00:35:42,860
+- Speedo, real quick.
+
+959
+00:35:42,860 --> 00:35:45,860
+- And it's, yeah, 'cause they can breed, right?
+
+960
+00:35:45,860 --> 00:35:50,400
+- Can a Pokemon like Machoke breed with a human woman?
+
+961
+00:35:50,400 --> 00:35:52,980
+- Can they at least go on dates
+
+962
+00:35:52,980 --> 00:35:53,820
+if they're not gonna-- - Can we see--
+
+963
+00:35:53,820 --> 00:35:55,340
+- Whether or not they're gonna breed?
+
+964
+00:35:55,340 --> 00:35:57,660
+- Can they fall in love, at the very least?
+
+965
+00:35:57,660 --> 00:35:58,540
+- Yeah.
+
+966
+00:35:58,540 --> 00:35:59,540
+- At the very least.
+
+967
+00:35:59,540 --> 00:36:00,980
+- All these things are possible.
+
+968
+00:36:00,980 --> 00:36:02,340
+- Life partners.
+
+969
+00:36:02,340 --> 00:36:05,660
+- Okay, so what we need to do is try to have
+
+970
+00:36:05,660 --> 00:36:08,420
+Nurse Jackie to have sex with this animal.
+
+971
+00:36:08,420 --> 00:36:11,060
+- Right, then we create human Pokemon hybrids
+
+972
+00:36:11,060 --> 00:36:12,980
+and that's how we take over the world.
+
+973
+00:36:12,980 --> 00:36:15,740
+- Okay, so it's a long term plan.
+
+974
+00:36:15,740 --> 00:36:20,740
+- We need to breed Nurse Jackie with a giant lizard.
+
+975
+00:36:20,740 --> 00:36:25,740
+- From what I'm seeing on Google Images right now,
+
+976
+00:36:25,740 --> 00:36:29,260
+It seems like Machoke has sex with other men.
+
+977
+00:36:29,260 --> 00:36:30,820
+- Okay, so I tried to...
+
+978
+00:36:30,820 --> 00:36:33,260
+(laughing)
+
+979
+00:36:33,260 --> 00:36:36,020
+I tried to look up how long does breeding a Pokemon take
+
+980
+00:36:36,020 --> 00:36:37,340
+'cause I know it does it in game
+
+981
+00:36:37,340 --> 00:36:40,740
+and it says after every 256 steps.
+
+982
+00:36:40,740 --> 00:36:43,940
+- Okay, wait, this is, okay.
+
+983
+00:36:43,940 --> 00:36:47,780
+All right, so let's get these two rocketed and rolexed
+
+984
+00:36:47,780 --> 00:36:50,780
+and then we'll send her on a little, a brisk walk.
+
+985
+00:36:50,780 --> 00:36:55,700
+- Let's Google here, how long does it take to take 256?
+
+986
+00:36:55,700 --> 00:36:57,180
+- Yeah, so let's fight, can we find something
+
+987
+00:36:57,180 --> 00:36:58,860
+in between that and nine months?
+
+988
+00:36:58,860 --> 00:37:00,700
+Or is it like--
+
+989
+00:37:00,700 --> 00:37:02,500
+- No, it's 256 steps, dude, come on.
+
+990
+00:37:02,500 --> 00:37:03,340
+- Yeah. - Okay.
+
+991
+00:37:03,340 --> 00:37:06,020
+- Yeah, play it as it lies. - It's a dominant gene.
+
+992
+00:37:06,020 --> 00:37:08,120
+I guess I have been playing it as it lies.
+
+993
+00:37:08,120 --> 00:37:10,100
+- Come on.
+
+994
+00:37:10,100 --> 00:37:13,380
+- How long does Pokemon breeding take?
+
+995
+00:37:13,380 --> 00:37:15,380
+- 100 steps.
+
+996
+00:37:15,380 --> 00:37:19,260
+- You can get a new egg every couple minutes, smiley face.
+
+997
+00:37:19,260 --> 00:37:22,460
+- 100 steps a minute would be brisk walking.
+
+998
+00:37:22,460 --> 00:37:24,580
+- I can estimate it's roughly 1,000 steps,
+
+999
+00:37:24,580 --> 00:37:28,320
+spread about six eggs now and each time was on the spot.
+
+1000
+00:37:28,320 --> 00:37:31,060
+- Yeah, people can see this, Patrick.
+
+1001
+00:37:31,060 --> 00:37:32,200
+- What?
+
+1002
+00:37:32,200 --> 00:37:34,000
+- The thing you just said.
+
+1003
+00:37:34,000 --> 00:37:36,260
+(laughing)
+
+1004
+00:37:36,260 --> 00:37:38,500
+- So?
+
+1005
+00:37:38,500 --> 00:37:41,520
+- I guess you're right.
+
+1006
+00:37:41,520 --> 00:37:43,100
+(laughing)
+
+1007
+00:37:43,100 --> 00:37:44,400
+- Sucks.
+
+1008
+00:37:44,400 --> 00:37:47,860
+Hey, for those listening, those just listening--
+
+1009
+00:37:47,860 --> 00:37:49,100
+- Don't watch the video.
+
+1010
+00:37:49,100 --> 00:37:49,940
+- Yeah.
+
+1011
+00:37:49,940 --> 00:37:52,160
+- So Pokemon breed every two and a half minutes.
+
+1012
+00:37:53,140 --> 00:37:55,620
+- Okay, that's, okay.
+
+1013
+00:37:55,620 --> 00:37:57,820
+So, can we--
+
+1014
+00:37:57,820 --> 00:38:00,300
+- But then, so would that make the--
+
+1015
+00:38:00,300 --> 00:38:01,140
+- Well, all we have to do is--
+
+1016
+00:38:01,140 --> 00:38:02,740
+- Can we do like a ratatouille?
+
+1017
+00:38:02,740 --> 00:38:05,060
+Can we do a ratatouille thing first
+
+1018
+00:38:05,060 --> 00:38:07,420
+where you guys take her on a date?
+
+1019
+00:38:07,420 --> 00:38:09,700
+- Sure, but all we have to do is get them in the same room
+
+1020
+00:38:09,700 --> 00:38:11,540
+for about five minutes and they're gonna have a red twice.
+
+1021
+00:38:11,540 --> 00:38:13,140
+- They're definitely gonna fuck.
+
+1022
+00:38:13,140 --> 00:38:16,380
+- Here's my question.
+
+1023
+00:38:16,380 --> 00:38:22,460
+So, when the Pokemon puts the baby inside of her,
+
+1024
+00:38:22,460 --> 00:38:24,900
+(laughing)
+
+1025
+00:38:24,900 --> 00:38:27,980
+- So it takes 250, is that just to...
+
+1026
+00:38:27,980 --> 00:38:31,340
+So she's gonna have a baby.
+
+1027
+00:38:31,340 --> 00:38:32,820
+- That makes an egg.
+
+1028
+00:38:32,820 --> 00:38:35,860
+I don't know how long it takes for the egg to hatch.
+
+1029
+00:38:35,860 --> 00:38:37,880
+- But it takes like a full day.
+
+1030
+00:38:37,880 --> 00:38:42,580
+It basically takes a full day to hatch a Pokemon egg.
+
+1031
+00:38:42,580 --> 00:38:43,540
+- A whole day?
+
+1032
+00:38:43,540 --> 00:38:45,660
+We don't have that kind of time.
+
+1033
+00:38:45,660 --> 00:38:46,940
+- Hold on.
+
+1034
+00:38:46,940 --> 00:38:49,700
+- Look up how long it takes for an egg to hatch.
+
+1035
+00:38:49,700 --> 00:38:52,120
+So in the meantime, while you're looking that up,
+
+1036
+00:38:52,120 --> 00:38:55,320
+What are you guys telling to the Machoke to get the nurse to get interested in him?
+
+1037
+00:38:55,320 --> 00:38:59,520
+But it's also not gonna be an egg because this is a human woman and humans don't lay eggs.
+
+1038
+00:38:59,520 --> 00:39:00,720
+So what would it be like a...
+
+1039
+00:39:00,720 --> 00:39:01,220
+Hold on.
+
+1040
+00:39:01,220 --> 00:39:02,720
+She might have to care for this child.
+
+1041
+00:39:02,720 --> 00:39:04,720
+This will answer the question.
+
+1042
+00:39:04,720 --> 00:39:10,120
+10,240 steps or if it's a...
+
+1043
+00:39:10,120 --> 00:39:12,120
+The fastest...
+
+1044
+00:39:12,120 --> 00:39:16,720
+The fastest Pokemon egg to hatch is 1,280.
+
+1045
+00:39:16,720 --> 00:39:18,720
+So...
+
+1046
+00:39:20,120 --> 00:39:21,400
+How long does it take for a Machop?
+
+1047
+00:39:21,400 --> 00:39:25,080
+Look up how long it takes for a Machop egg to hatch then.
+
+1048
+00:39:25,080 --> 00:39:25,920
+Guys, we're getting,
+
+1049
+00:39:25,920 --> 00:39:27,120
+I think we're getting ahead of ourselves.
+
+1050
+00:39:27,120 --> 00:39:29,120
+We don't even know if she like likes him.
+
+1051
+00:39:29,120 --> 00:39:31,040
+We don't know.
+
+1052
+00:39:31,040 --> 00:39:32,040
+I just Googled here what happens
+
+1053
+00:39:32,040 --> 00:39:34,120
+when a Pokemon breeds with a human.
+
+1054
+00:39:34,120 --> 00:39:36,240
+Okay, what does it say?
+
+1055
+00:39:36,240 --> 00:39:40,840
+It says that there will never be a half-breed
+
+1056
+00:39:40,840 --> 00:39:42,960
+from a female Pokemon.
+
+1057
+00:39:42,960 --> 00:39:43,800
+Okay, but that's--
+
+1058
+00:39:43,800 --> 00:39:44,760
+Yeah, but we have a male Pokemon.
+
+1059
+00:39:44,760 --> 00:39:45,600
+Solved.
+
+1060
+00:39:45,600 --> 00:39:49,400
+Okay.
+
+1061
+00:39:49,400 --> 00:39:56,200
+DNA follows a different set of rules. It takes 10 minutes and 30 seconds.
+
+1062
+00:39:56,200 --> 00:40:01,720
+So apparently guys, Pokemon DNA follows a different set of rules y'all. So it takes two minutes.
+
+1063
+00:40:01,720 --> 00:40:05,080
+I would like to... Here's what it says. Human female and male Pokemon is a little more
+
+1064
+00:40:05,080 --> 00:40:11,440
+tricky. The offspring is full human with minimal Pokemon traits. The human
+
+1065
+00:40:11,440 --> 00:40:15,040
+would still give birth to a baby so the human offspring could gain some IV
+
+1066
+00:40:15,040 --> 00:40:19,360
+traits from the father, maybe be stronger than normal humans, or faster, or etc.
+
+1067
+00:40:19,360 --> 00:40:22,000
+- No, a human wouldn't be able to use Pokemon moves
+
+1068
+00:40:22,000 --> 00:40:23,960
+unless there was some other mutation.
+
+1069
+00:40:23,960 --> 00:40:24,800
+Maybe a human osprey could.
+
+1070
+00:40:24,800 --> 00:40:25,640
+- Wait, who's writing this?
+
+1071
+00:40:25,640 --> 00:40:26,460
+- So you're saying it would have hidden stat values.
+
+1072
+00:40:26,460 --> 00:40:27,760
+- This is on GameFAQs.
+
+1073
+00:40:27,760 --> 00:40:28,600
+- It would have hidden.
+
+1074
+00:40:28,600 --> 00:40:30,840
+(laughing)
+
+1075
+00:40:30,840 --> 00:40:34,120
+- Okay.
+
+1076
+00:40:34,120 --> 00:40:35,760
+- So it would have hidden stat values,
+
+1077
+00:40:35,760 --> 00:40:37,440
+but it can't use quick attack is what I'm getting at.
+
+1078
+00:40:37,440 --> 00:40:38,280
+- Right.
+
+1079
+00:40:38,280 --> 00:40:39,120
+- It would be a Pokemon in disguise.
+
+1080
+00:40:39,120 --> 00:40:42,700
+- And it does say maybe if you breed with a male psychic type
+
+1081
+00:40:42,700 --> 00:40:45,120
+that the Pokemon could have,
+
+1082
+00:40:45,120 --> 00:40:47,600
+the human could have psychic moves.
+
+1083
+00:40:47,600 --> 00:40:48,440
+- Okay, okay.
+
+1084
+00:40:48,440 --> 00:40:51,200
+- Okay, this guy's a fighting type though.
+
+1085
+00:40:51,200 --> 00:40:52,680
+- So he'll be able to fight.
+
+1086
+00:40:52,680 --> 00:40:53,520
+- Yeah.
+
+1087
+00:40:53,520 --> 00:40:54,340
+- So that's a good way to--
+
+1088
+00:40:54,340 --> 00:40:55,180
+- And he'll be strong.
+
+1089
+00:40:55,180 --> 00:40:56,520
+- That's sort of a good way to hide it too.
+
+1090
+00:40:56,520 --> 00:40:57,600
+These are just, you're basically making
+
+1091
+00:40:57,600 --> 00:40:59,200
+Master Chiefs right now, right?
+
+1092
+00:40:59,200 --> 00:41:02,000
+Like you're just making super soldiers basically.
+
+1093
+00:41:02,000 --> 00:41:03,520
+- Oh, somebody else said that they tried it
+
+1094
+00:41:03,520 --> 00:41:05,160
+for a while with Gardevoir and they proved
+
+1095
+00:41:05,160 --> 00:41:06,840
+that it can happen.
+
+1096
+00:41:06,840 --> 00:41:07,740
+- Interesting.
+
+1097
+00:41:07,740 --> 00:41:08,580
+- Oh, okay.
+
+1098
+00:41:08,580 --> 00:41:10,360
+- Do you have any footage of that?
+
+1099
+00:41:10,360 --> 00:41:11,520
+- Yeah, let me check their page.
+
+1100
+00:41:11,520 --> 00:41:13,680
+- What does that mean, a while?
+
+1101
+00:41:13,680 --> 00:41:17,320
+- I would like to set up a romantic spaghetti
+
+1102
+00:41:17,320 --> 00:41:19,920
+and meatballs dinner by candlelight
+
+1103
+00:41:19,920 --> 00:41:22,480
+in one of the checkup rooms.
+
+1104
+00:41:22,480 --> 00:41:23,600
+- Okay.
+
+1105
+00:41:23,600 --> 00:41:24,920
+- Yeah, that's a good idea.
+
+1106
+00:41:24,920 --> 00:41:25,760
+- Are you guys gonna--
+
+1107
+00:41:25,760 --> 00:41:27,560
+- Red tablecloth, all that.
+
+1108
+00:41:27,560 --> 00:41:29,520
+- You guys are gonna have to coach Machoke
+
+1109
+00:41:29,520 --> 00:41:31,480
+on how to talk to a woman.
+
+1110
+00:41:31,480 --> 00:41:32,920
+Usually Pokemon just bang
+
+1111
+00:41:32,920 --> 00:41:35,000
+when you put them in the house together.
+
+1112
+00:41:35,000 --> 00:41:36,720
+You gotta help him here.
+
+1113
+00:41:36,720 --> 00:41:37,960
+- Listen here, Machoke.
+
+1114
+00:41:37,960 --> 00:41:45,040
+You need to just smile, nod your head.
+
+1115
+00:41:45,040 --> 00:41:46,560
+Can you nod your head for me?
+
+1116
+00:41:46,560 --> 00:41:47,980
+Can you say yes?
+
+1117
+00:41:47,980 --> 00:41:48,820
+- Yeah.
+
+1118
+00:41:48,820 --> 00:41:49,640
+(laughs)
+
+1119
+00:41:49,640 --> 00:41:50,480
+- There we go.
+
+1120
+00:41:50,480 --> 00:41:51,400
+- It's horrible.
+
+1121
+00:41:51,400 --> 00:41:53,040
+- That's okay, yeah.
+
+1122
+00:41:53,040 --> 00:41:54,880
+Yay, yeah, perfect.
+
+1123
+00:41:54,880 --> 00:41:56,800
+All right, so I want you to go in there
+
+1124
+00:41:56,800 --> 00:41:59,440
+and do that maybe four or five times
+
+1125
+00:41:59,440 --> 00:42:01,240
+and then you'll pretty much make her move.
+
+1126
+00:42:01,240 --> 00:42:02,080
+- Uh-huh.
+
+1127
+00:42:02,080 --> 00:42:03,240
+- Yay.
+
+1128
+00:42:03,240 --> 00:42:04,080
+- Machoke.
+
+1129
+00:42:04,080 --> 00:42:04,900
+- Yeah, there we go.
+
+1130
+00:42:04,900 --> 00:42:08,360
+- Hold on.
+
+1131
+00:42:08,360 --> 00:42:09,760
+- Machoke, do you have five fingers
+
+1132
+00:42:09,760 --> 00:42:11,600
+or are you a four fingered cartoon?
+
+1133
+00:42:11,600 --> 00:42:13,280
+- Yeah, how many fingers do you have?
+
+1134
+00:42:14,160 --> 00:42:16,720
+- He starts shaking his head at the thought of counting.
+
+1135
+00:42:16,720 --> 00:42:19,080
+- I played this video on my pig phone.
+
+1136
+00:42:19,080 --> 00:42:21,680
+- What video?
+
+1137
+00:42:21,680 --> 00:42:23,680
+- How to use unspoken riz, okay.
+
+1138
+00:42:23,680 --> 00:42:24,720
+- Tutorial.
+
+1139
+00:42:24,720 --> 00:42:26,080
+- Oh, that could be useful for a Machoke.
+
+1140
+00:42:26,080 --> 00:42:26,920
+- Yeah, that would work.
+
+1141
+00:42:26,920 --> 00:42:28,520
+- Yeah, let's roll insight for Machoke
+
+1142
+00:42:28,520 --> 00:42:30,120
+to see how he does reading that.
+
+1143
+00:42:30,120 --> 00:42:33,080
+Or understanding that, rather.
+
+1144
+00:42:33,080 --> 00:42:35,400
+I guess it's really just an intelligence check.
+
+1145
+00:42:35,400 --> 00:42:40,000
+- I mean, he's an animal.
+
+1146
+00:42:40,000 --> 00:42:42,480
+- All right, he got a solid 11.
+
+1147
+00:42:42,480 --> 00:42:43,320
+- He's pretty good.
+
+1148
+00:42:43,320 --> 00:42:44,680
+- He gets most of it.
+
+1149
+00:42:44,680 --> 00:42:47,700
+He starts putting his hand in what he thinks is his pocket.
+
+1150
+00:42:47,700 --> 00:42:49,440
+He's trying that out to see--
+
+1151
+00:42:49,440 --> 00:42:51,200
+- His hand is down the front of his pants.
+
+1152
+00:42:51,200 --> 00:42:52,520
+(laughing)
+
+1153
+00:42:52,520 --> 00:42:53,800
+The front of his shorts.
+
+1154
+00:42:53,800 --> 00:42:55,560
+- She'll like that, man.
+
+1155
+00:42:55,560 --> 00:42:57,840
+Oh wait, wait, we need to give him a makeover.
+
+1156
+00:42:57,840 --> 00:42:59,680
+Can we make him sag his pants?
+
+1157
+00:42:59,680 --> 00:43:01,340
+- Yes. - Yes.
+
+1158
+00:43:01,340 --> 00:43:02,320
+- Girls love that shit.
+
+1159
+00:43:02,320 --> 00:43:04,080
+Okay, so we sag his pants.
+
+1160
+00:43:04,080 --> 00:43:05,560
+- Sag his speedo.
+
+1161
+00:43:05,560 --> 00:43:08,500
+- We sag his speedo so his butt cheeks are out
+
+1162
+00:43:08,500 --> 00:43:12,200
+like the Johnson and Johnson logo.
+
+1163
+00:43:12,200 --> 00:43:14,380
+And then we're going to,
+
+1164
+00:43:14,380 --> 00:43:18,000
+what's the male version of makeup?
+
+1165
+00:43:18,000 --> 00:43:19,420
+- Beard.
+
+1166
+00:43:19,420 --> 00:43:20,920
+- We are going to,
+
+1167
+00:43:20,920 --> 00:43:23,280
+there's gotta be some like biohazard,
+
+1168
+00:43:23,280 --> 00:43:25,880
+like pube trimming somewhere in this hospital, right?
+
+1169
+00:43:25,880 --> 00:43:28,920
+- Yes. - Yeah, there has to be.
+
+1170
+00:43:28,920 --> 00:43:30,240
+Yeah, I mean like,
+
+1171
+00:43:30,240 --> 00:43:32,040
+what kind of hospital would it be?
+
+1172
+00:43:32,040 --> 00:43:34,760
+- So we will spray him with some kind of adhesive,
+
+1173
+00:43:34,760 --> 00:43:36,360
+throw those on his face,
+
+1174
+00:43:36,360 --> 00:43:38,840
+kind of just like blow him into his face.
+
+1175
+00:43:38,840 --> 00:43:39,680
+- Yeah. - So there's just these
+
+1176
+00:43:39,680 --> 00:43:43,120
+- Little Pokemon just running around the hospital,
+
+1177
+00:43:43,120 --> 00:43:45,280
+like knocking shit over, grabbing pubes.
+
+1178
+00:43:45,280 --> 00:43:47,360
+- Wait, the babies are already there?
+
+1179
+00:43:47,360 --> 00:43:49,360
+- No, you're the little Pokemon.
+
+1180
+00:43:49,360 --> 00:43:51,160
+- Sorry, I got excited, little Pokemon.
+
+1181
+00:43:51,160 --> 00:43:52,600
+- We ain't that little, buddy.
+
+1182
+00:43:52,600 --> 00:43:55,680
+- I guess I was 100 feet tall, did I mention that?
+
+1183
+00:43:55,680 --> 00:43:57,600
+- So where are you guys telling him
+
+1184
+00:43:57,600 --> 00:43:59,000
+how to do this and stuff?
+
+1185
+00:43:59,000 --> 00:43:59,840
+You guys were like--
+
+1186
+00:43:59,840 --> 00:44:01,280
+- We're telling him in the lobby.
+
+1187
+00:44:01,280 --> 00:44:02,600
+- Oh, the lobby of the hospital.
+
+1188
+00:44:02,600 --> 00:44:04,400
+- Yeah, and then we come in and we say,
+
+1189
+00:44:04,400 --> 00:44:07,480
+nurse Jackie, nurse Jackie, this guy,
+
+1190
+00:44:07,480 --> 00:44:12,440
+whose name is Darren, needs a checkup.
+
+1191
+00:44:12,440 --> 00:44:13,920
+- Darren Chris.
+
+1192
+00:44:13,920 --> 00:44:18,000
+- He needs a checkup very, very badly in room 21B.
+
+1193
+00:44:18,000 --> 00:44:22,020
+- So his pants are all the way down.
+
+1194
+00:44:22,020 --> 00:44:24,100
+He's going, "Yay!"
+
+1195
+00:44:24,100 --> 00:44:27,720
+(laughing)
+
+1196
+00:44:27,720 --> 00:44:29,720
+Staring directly at her.
+
+1197
+00:44:29,720 --> 00:44:33,520
+We're gonna roll Riz for him.
+
+1198
+00:44:33,520 --> 00:44:34,360
+- Okay. - Yes!
+
+1199
+00:44:34,360 --> 00:44:35,960
+- Bovine eyes.
+
+1200
+00:44:35,960 --> 00:44:39,080
+- Can we always rename Charisma to Riz?
+
+1201
+00:44:39,080 --> 00:44:40,920
+As a meme for ourselves?
+
+1202
+00:44:40,920 --> 00:44:41,800
+- As a meme-y?
+
+1203
+00:44:41,800 --> 00:44:44,360
+He's gonna do it with advantage 'cause he's so fire.
+
+1204
+00:44:44,360 --> 00:44:46,600
+- Oh.
+
+1205
+00:44:46,600 --> 00:44:48,860
+- Okay, so that's 14.
+
+1206
+00:44:48,860 --> 00:44:50,960
+So she sort of like looks him up and down and goes,
+
+1207
+00:44:50,960 --> 00:44:52,960
+"Okay, I'll take him."
+
+1208
+00:44:52,960 --> 00:44:53,800
+(laughing)
+
+1209
+00:44:53,800 --> 00:44:55,080
+- Okay. - I'll take him.
+
+1210
+00:44:55,080 --> 00:44:56,080
+- Okay. - I'll take him,
+
+1211
+00:44:56,080 --> 00:44:56,920
+I'll check him up.
+
+1212
+00:44:56,920 --> 00:44:58,040
+So she goes back in the room.
+
+1213
+00:44:58,040 --> 00:44:59,440
+Do you guys follow?
+
+1214
+00:44:59,440 --> 00:45:00,760
+- Yes.
+
+1215
+00:45:00,760 --> 00:45:03,640
+- Yeah, but she does it in a way where nobody knows.
+
+1216
+00:45:03,640 --> 00:45:05,480
+- Yeah, I use sneak. - Roll stealth.
+
+1217
+00:45:05,480 --> 00:45:10,980
+Oh, I don't want to fuck this up actually. I kind of just want to, but we need one person who can coach him.
+
+1218
+00:45:10,980 --> 00:45:12,980
+Who has the highest charisma?
+
+1219
+00:45:12,980 --> 00:45:14,480
+I have plus one charisma.
+
+1220
+00:45:14,480 --> 00:45:15,480
+Mine's plus two.
+
+1221
+00:45:15,480 --> 00:45:18,480
+My, um, hold on.
+
+1222
+00:45:18,480 --> 00:45:23,480
+Oh, 14.
+
+1223
+00:45:23,480 --> 00:45:25,480
+So that's also plus two.
+
+1224
+00:45:25,480 --> 00:45:26,480
+I got a 19.
+
+1225
+00:45:26,480 --> 00:45:28,480
+Okay, well.
+
+1226
+00:45:28,480 --> 00:45:29,480
+I'm a crazy buddy.
+
+1227
+00:45:29,480 --> 00:45:32,480
+Okay, well you want to follow them and kind of coach him through it?
+
+1228
+00:45:32,480 --> 00:45:33,320
+- Can you guys hear it?
+
+1229
+00:45:33,320 --> 00:45:35,440
+'Cause it's gonna be harder if all three of us come.
+
+1230
+00:45:35,440 --> 00:45:37,680
+- I put my pig suit back on.
+
+1231
+00:45:37,680 --> 00:45:38,520
+- Yeah, there we go.
+
+1232
+00:45:38,520 --> 00:45:39,920
+- My human suit.
+
+1233
+00:45:39,920 --> 00:45:41,280
+And I'm walking behind them.
+
+1234
+00:45:41,280 --> 00:45:43,240
+- And so she says,
+
+1235
+00:45:43,240 --> 00:45:44,640
+"What kind of pain have you been feeling?"
+
+1236
+00:45:44,640 --> 00:45:47,000
+- It's no different than a dog being in the room
+
+1237
+00:45:47,000 --> 00:45:48,080
+when you're getting it on.
+
+1238
+00:45:48,080 --> 00:45:48,920
+- Exactly.
+
+1239
+00:45:48,920 --> 00:45:49,760
+(snorting)
+
+1240
+00:45:49,760 --> 00:45:51,100
+(laughing)
+
+1241
+00:45:51,100 --> 00:45:51,940
+Exactly.
+
+1242
+00:45:51,940 --> 00:45:54,540
+- What kind of pain have you been feeling?
+
+1243
+00:45:54,540 --> 00:45:56,800
+(grunting)
+
+1244
+00:45:56,800 --> 00:45:59,400
+He's like trying to...
+
+1245
+00:45:59,400 --> 00:46:01,600
+(laughing)
+
+1246
+00:46:01,600 --> 00:46:02,960
+Don't mess it up, bro.
+
+1247
+00:46:02,960 --> 00:46:04,460
+What are you saying to him?
+
+1248
+00:46:04,460 --> 00:46:05,960
+Um...
+
+1249
+00:46:05,960 --> 00:46:06,460
+Are you saying--
+
+1250
+00:46:06,460 --> 00:46:07,960
+Groin pain.
+
+1251
+00:46:07,960 --> 00:46:08,960
+Okay.
+
+1252
+00:46:08,960 --> 00:46:11,460
+Tell him to just point.
+
+1253
+00:46:11,460 --> 00:46:13,460
+Point to your groin.
+
+1254
+00:46:13,460 --> 00:46:14,960
+Day.
+
+1255
+00:46:14,960 --> 00:46:23,960
+[Laughter]
+
+1256
+00:46:23,960 --> 00:46:24,960
+Day.
+
+1257
+00:46:24,960 --> 00:46:25,960
+Pointing at his penis.
+
+1258
+00:46:25,960 --> 00:46:26,960
+Yes!
+
+1259
+00:46:26,960 --> 00:46:27,460
+Okay.
+
+1260
+00:46:27,460 --> 00:46:28,460
+Alright.
+
+1261
+00:46:28,460 --> 00:46:30,460
+[Laughter]
+
+1262
+00:46:30,460 --> 00:46:32,460
+That means the pain scale is at a nine.
+
+1263
+00:46:32,460 --> 00:46:33,460
+Yeah, you're saying that.
+
+1264
+00:46:33,460 --> 00:46:34,460
+He can't even talk.
+
+1265
+00:46:34,460 --> 00:46:35,460
+He can't even talk.
+
+1266
+00:46:35,460 --> 00:46:36,460
+Yeah.
+
+1267
+00:46:36,460 --> 00:46:39,260
+You're telling, you're this pig with a suit on, it's like leg to nurse though.
+
+1268
+00:46:39,260 --> 00:46:41,900
+Like, that means he's really hurt.
+
+1269
+00:46:41,900 --> 00:46:43,900
+I kicked him.
+
+1270
+00:46:43,900 --> 00:46:48,100
+I'm sorry.
+
+1271
+00:46:48,100 --> 00:46:50,980
+She takes him back to the room.
+
+1272
+00:46:50,980 --> 00:46:54,140
+She says, "Do you want to come in or should I?"
+
+1273
+00:46:54,140 --> 00:46:57,020
+To you, the pig.
+
+1274
+00:46:57,020 --> 00:46:58,020
+Don't go in then.
+
+1275
+00:46:58,020 --> 00:46:59,020
+Don't go in.
+
+1276
+00:46:59,020 --> 00:47:00,020
+Don't go in.
+
+1277
+00:47:00,020 --> 00:47:03,460
+that means I'm gonna stand outside and listen.
+
+1278
+00:47:03,460 --> 00:47:04,300
+- Okay, cool.
+
+1279
+00:47:04,300 --> 00:47:05,120
+- Don't say that.
+
+1280
+00:47:05,120 --> 00:47:07,360
+(laughing)
+
+1281
+00:47:07,360 --> 00:47:12,600
+- I mean, I'm actually not listening.
+
+1282
+00:47:12,600 --> 00:47:14,460
+I'm gonna not listen.
+
+1283
+00:47:14,460 --> 00:47:15,420
+- Cool, all right.
+
+1284
+00:47:15,420 --> 00:47:19,260
+So you're standing outside now and--
+
+1285
+00:47:19,260 --> 00:47:22,820
+- And I have a glass up to the door like this.
+
+1286
+00:47:22,820 --> 00:47:24,860
+- Do you have any words of encouragement
+
+1287
+00:47:24,860 --> 00:47:28,340
+before Darren Chris goes in there?
+
+1288
+00:47:29,420 --> 00:47:30,740
+- Any words of advice to-- - I hold him by the--
+
+1289
+00:47:30,740 --> 00:47:32,060
+- I hold him by the hands. - Give him a speech.
+
+1290
+00:47:32,060 --> 00:47:33,300
+Give him a Riz speech.
+
+1291
+00:47:33,300 --> 00:47:34,140
+- Yeah. - Okay.
+
+1292
+00:47:34,140 --> 00:47:35,860
+I hold him by the hands and I look at him and I go.
+
+1293
+00:47:35,860 --> 00:47:38,100
+(slurping)
+
+1294
+00:47:38,100 --> 00:47:40,380
+- Inhuman.
+
+1295
+00:47:40,380 --> 00:47:43,340
+Inhuman, please.
+
+1296
+00:47:43,340 --> 00:47:44,180
+- That means.
+
+1297
+00:47:44,180 --> 00:47:48,740
+- That means fucker right in the pussy.
+
+1298
+00:47:48,740 --> 00:47:51,140
+- Okay.
+
+1299
+00:47:51,140 --> 00:47:53,900
+Yep, I really should have gone, man.
+
+1300
+00:47:53,900 --> 00:47:54,940
+That's where I'm at.
+
+1301
+00:47:54,940 --> 00:47:55,900
+This one's on me, guys.
+
+1302
+00:47:55,900 --> 00:47:57,540
+We're not gonna get our baby.
+
+1303
+00:47:57,540 --> 00:47:58,380
+- Remember that one?
+
+1304
+00:47:58,380 --> 00:47:59,200
+Remember that one?
+
+1305
+00:47:59,200 --> 00:48:01,360
+- I know, I remember that, yep.
+
+1306
+00:48:01,360 --> 00:48:02,200
+- Pretty good.
+
+1307
+00:48:02,200 --> 00:48:03,040
+- I remember that.
+
+1308
+00:48:03,040 --> 00:48:05,000
+- Oh, I'm glad you remember that.
+
+1309
+00:48:05,000 --> 00:48:06,320
+- Remember that.
+
+1310
+00:48:06,320 --> 00:48:08,360
+- I'm glad you remember that.
+
+1311
+00:48:08,360 --> 00:48:10,680
+- So meanwhile, a doctor comes into the lobby
+
+1312
+00:48:10,680 --> 00:48:15,680
+and sees you two, Flamer and Smoker.
+
+1313
+00:48:15,680 --> 00:48:19,120
+- Sounds like Thanksgiving.
+
+1314
+00:48:19,120 --> 00:48:20,560
+- Yeah, my name's Smoku.
+
+1315
+00:48:20,560 --> 00:48:21,400
+- Smoku.
+
+1316
+00:48:21,400 --> 00:48:23,400
+- It's like a combination of Smoker and Roku.
+
+1317
+00:48:23,400 --> 00:48:26,920
+- It's actually an anglicization of the Japanese name
+
+1318
+00:48:26,920 --> 00:48:29,160
+of the Pokemon, which is Samoku.
+
+1319
+00:48:29,160 --> 00:48:30,760
+How are you two fellas doing?
+
+1320
+00:48:30,760 --> 00:48:32,320
+Where's your trainer?
+
+1321
+00:48:32,320 --> 00:48:35,560
+- He's in-- - Smoku, Smoku.
+
+1322
+00:48:35,560 --> 00:48:39,240
+- Smoku, Smoku. - Flamer, Flammy Flamer.
+
+1323
+00:48:39,240 --> 00:48:40,520
+- You're adorable.
+
+1324
+00:48:40,520 --> 00:48:42,120
+- Yeah, but-- - I'm a Flamer.
+
+1325
+00:48:42,120 --> 00:48:43,920
+(laughing)
+
+1326
+00:48:43,920 --> 00:48:44,920
+- Clip that.
+
+1327
+00:48:44,920 --> 00:48:50,240
+- Flamer. - Roll, just charisma.
+
+1328
+00:48:50,240 --> 00:48:51,640
+Roll Riz. - Riz.
+
+1329
+00:48:51,640 --> 00:48:54,480
+- 14. - Nice.
+
+1330
+00:48:54,480 --> 00:48:56,240
+- 15. - Cool, yeah.
+
+1331
+00:48:56,240 --> 00:48:58,520
+Yeah, he's like, oh, you're adorable.
+
+1332
+00:48:58,520 --> 00:49:00,420
+- Well if you guys don't mind just sitting over there
+
+1333
+00:49:00,420 --> 00:49:01,860
+by where the other Pokemon are,
+
+1334
+00:49:01,860 --> 00:49:04,420
+while we take a look at your trainer.
+
+1335
+00:49:04,420 --> 00:49:05,860
+- You guys, you guys bite.
+
+1336
+00:49:05,860 --> 00:49:07,140
+Bite right now, bite.
+
+1337
+00:49:07,140 --> 00:49:09,320
+- No!
+
+1338
+00:49:09,320 --> 00:49:12,660
+- Oh, oh, I'm rolling on my back as if I have an ache.
+
+1339
+00:49:12,660 --> 00:49:14,900
+- Oh no!
+
+1340
+00:49:14,900 --> 00:49:16,140
+- Flamer, flamer!
+
+1341
+00:49:16,140 --> 00:49:17,900
+- What does that mean?
+
+1342
+00:49:17,900 --> 00:49:20,500
+- I'm kind of, I'm like, help him!
+
+1343
+00:49:20,500 --> 00:49:21,340
+- Okay, yeah.
+
+1344
+00:49:21,340 --> 00:49:22,160
+- Flamer, flamer!
+
+1345
+00:49:22,160 --> 00:49:23,300
+Flamer, flamer!
+
+1346
+00:49:23,300 --> 00:49:26,900
+- Pokemon, the Pokemon doctor picks up Smoku and goes,
+
+1347
+00:49:26,900 --> 00:49:29,980
+- Oh, you poor little thing.
+
+1348
+00:49:29,980 --> 00:49:33,140
+And he goes to walk, he picks me up
+
+1349
+00:49:33,140 --> 00:49:35,580
+and I fucking come into the palm of his hand.
+
+1350
+00:49:35,580 --> 00:49:37,420
+(laughing)
+
+1351
+00:49:37,420 --> 00:49:39,500
+'Cause I'm an animal and I don't know any better
+
+1352
+00:49:39,500 --> 00:49:41,220
+and I'm just overstimulated.
+
+1353
+00:49:41,220 --> 00:49:43,460
+(laughing)
+
+1354
+00:49:43,460 --> 00:49:47,540
+I have jizz everywhere.
+
+1355
+00:49:47,540 --> 00:49:50,820
+And I look into his eyes and I go,
+
+1356
+00:49:50,820 --> 00:49:53,220
+smooch, and bat my eyes.
+
+1357
+00:49:53,220 --> 00:49:55,480
+(laughing)
+
+1358
+00:49:55,480 --> 00:49:57,740
+(laughing)
+
+1359
+00:49:57,740 --> 00:50:00,280
+- The doctor, he goes, "Oh."
+
+1360
+00:50:00,280 --> 00:50:01,640
+- I'm just trying to keep him out of work.
+
+1361
+00:50:01,640 --> 00:50:02,480
+- Here, oh.
+
+1362
+00:50:02,480 --> 00:50:03,320
+- He's going.
+
+1363
+00:50:03,320 --> 00:50:06,420
+- Why don't you wait right here and I'll,
+
+1364
+00:50:06,420 --> 00:50:09,760
+I'll be right back, I should just clean this up.
+
+1365
+00:50:09,760 --> 00:50:11,960
+- Wait, wait, point to like a napkin or something.
+
+1366
+00:50:11,960 --> 00:50:14,080
+Make him clean you up.
+
+1367
+00:50:14,080 --> 00:50:16,280
+He puts you, he puts you, he puts you.
+
+1368
+00:50:16,280 --> 00:50:17,120
+What did you say?
+
+1369
+00:50:17,120 --> 00:50:19,560
+- I started licking it up out of his hand.
+
+1370
+00:50:19,560 --> 00:50:21,560
+- And he maybe gets a little HP off that.
+
+1371
+00:50:21,560 --> 00:50:22,400
+(laughing)
+
+1372
+00:50:22,400 --> 00:50:23,240
+Uh-huh.
+
+1373
+00:50:23,240 --> 00:50:24,060
+- He's like, "Oh."
+
+1374
+00:50:24,060 --> 00:50:24,900
+- Definitely gets some HP.
+
+1375
+00:50:24,900 --> 00:50:27,100
+- Does he try to stop me?
+
+1376
+00:50:27,100 --> 00:50:28,260
+- No, he does, he puts you--
+
+1377
+00:50:28,260 --> 00:50:29,460
+- He doesn't try to stop me.
+
+1378
+00:50:29,460 --> 00:50:31,220
+- Well, he puts you on the--
+
+1379
+00:50:31,220 --> 00:50:33,940
+- Okay, so Flamer is videoing this whole thing.
+
+1380
+00:50:33,940 --> 00:50:36,580
+- Yeah, I have the whole thing on a flip camera.
+
+1381
+00:50:36,580 --> 00:50:39,420
+This guy, and I'm talking over it,
+
+1382
+00:50:39,420 --> 00:50:42,580
+oh no, y'all, this doctor just let this dog
+
+1383
+00:50:42,580 --> 00:50:43,980
+eat his own jizz.
+
+1384
+00:50:43,980 --> 00:50:45,860
+Y'all, this shit is disgusting.
+
+1385
+00:50:45,860 --> 00:50:47,820
+- Flamer, Flamer.
+
+1386
+00:50:47,820 --> 00:50:50,660
+- Flamer, Flamer, Flamer, Flamer, Flamer.
+
+1387
+00:50:50,660 --> 00:50:52,900
+(laughing)
+
+1388
+00:50:54,820 --> 00:50:58,580
+No, please, I just want to help this poor creature.
+
+1389
+00:50:58,580 --> 00:51:03,220
+And meanwhile, you...
+
+1390
+00:51:03,220 --> 00:51:07,420
+We just got to keep this guy occupied for two and a half minutes.
+
+1391
+00:51:07,420 --> 00:51:10,460
+Pig, pig, pig, pig man.
+
+1392
+00:51:10,460 --> 00:51:12,220
+Water bubbler.
+
+1393
+00:51:12,220 --> 00:51:13,220
+Water pig.
+
+1394
+00:51:13,220 --> 00:51:14,820
+Bubbler the water pig.
+
+1395
+00:51:14,820 --> 00:51:17,220
+You hear...
+
+1396
+00:51:17,220 --> 00:51:18,220
+Say the whole thing.
+
+1397
+00:51:18,220 --> 00:51:19,620
+Bubbler the water pig.
+
+1398
+00:51:19,620 --> 00:51:24,220
+You hear the nurse make sort of a surprise yelp.
+
+1399
+00:51:24,220 --> 00:51:26,480
+(laughing)
+
+1400
+00:51:26,480 --> 00:51:32,780
+- What do you mean a surprised Yelp?
+
+1401
+00:51:32,780 --> 00:51:35,920
+- Like a ah.
+
+1402
+00:51:35,920 --> 00:51:37,060
+- Yeah, like that.
+
+1403
+00:51:37,060 --> 00:51:40,660
+- And then you hear some other noises
+
+1404
+00:51:40,660 --> 00:51:42,320
+that you ain't never heard before.
+
+1405
+00:51:42,320 --> 00:51:47,300
+- I'm sniffing the crack in the door.
+
+1406
+00:51:47,300 --> 00:51:48,940
+(laughing)
+
+1407
+00:51:48,940 --> 00:51:49,780
+I'm just going.
+
+1408
+00:51:53,260 --> 00:51:54,940
+- Is he hitting it from the back?
+
+1409
+00:51:54,940 --> 00:51:57,220
+- I can smell it 'cause it smells like wing stop.
+
+1410
+00:51:57,220 --> 00:51:59,700
+- Roll to see if you can tell what he's doing.
+
+1411
+00:51:59,700 --> 00:52:02,580
+- Roll the smell check.
+
+1412
+00:52:02,580 --> 00:52:04,220
+- Roll insight, I guess.
+
+1413
+00:52:04,220 --> 00:52:06,620
+Or roll, yeah sure, insight.
+
+1414
+00:52:06,620 --> 00:52:08,140
+31, yeah.
+
+1415
+00:52:08,140 --> 00:52:09,540
+You rolled a D100.
+
+1416
+00:52:09,540 --> 00:52:10,380
+- Oh, I didn't mean to.
+
+1417
+00:52:10,380 --> 00:52:12,740
+I thought I'd get a D20.
+
+1418
+00:52:12,740 --> 00:52:15,020
+- Cool. - Oh, I got the reverse.
+
+1419
+00:52:15,020 --> 00:52:16,020
+I got 13.
+
+1420
+00:52:16,020 --> 00:52:19,940
+- He's doing something not very Christian,
+
+1421
+00:52:19,940 --> 00:52:24,940
+but everyone seems to be enjoying themselves.
+
+1422
+00:52:24,940 --> 00:52:28,820
+- Mommy don't know, dad is getting hot.
+
+1423
+00:52:28,820 --> 00:52:29,660
+- Yep.
+
+1424
+00:52:29,660 --> 00:52:33,940
+- I'm singing that in pig. - At the pokey stop.
+
+1425
+00:52:33,940 --> 00:52:35,280
+- Oh my god.
+
+1426
+00:52:35,280 --> 00:52:39,740
+- And meanwhile, the doctor now is bringing Yusmoku
+
+1427
+00:52:39,740 --> 00:52:41,860
+to the healing station.
+
+1428
+00:52:41,860 --> 00:52:46,560
+And he starts to hear loud noises going on
+
+1429
+00:52:46,560 --> 00:52:50,480
+in one of the rooms where people get attended to.
+
+1430
+00:52:50,480 --> 00:52:55,480
+- I shoot, I use my attack in a non-damaging way.
+
+1431
+00:52:55,480 --> 00:52:59,760
+I use smoke shoot and I shoot smoke into his mouth
+
+1432
+00:52:59,760 --> 00:53:01,000
+to get him high as fuck.
+
+1433
+00:53:01,000 --> 00:53:02,200
+- Okay, cool.
+
+1434
+00:53:02,200 --> 00:53:05,360
+- And then I turn on, I use my universal Roku remote
+
+1435
+00:53:05,360 --> 00:53:08,200
+to change all of the heart monitors in the hospital
+
+1436
+00:53:08,200 --> 00:53:09,800
+to be playing Planet Earth.
+
+1437
+00:53:09,800 --> 00:53:10,640
+- Damn.
+
+1438
+00:53:10,640 --> 00:53:13,520
+- You use the smoke shoot, it gets in his eyes,
+
+1439
+00:53:13,520 --> 00:53:18,360
+Oh! Nurse, can someone get this creature in a Pokeball quickly?
+
+1440
+00:53:18,360 --> 00:53:20,360
+I just need to...
+
+1441
+00:53:20,360 --> 00:53:24,720
+You see a nurse walk over to try to get you in a Pokeball.
+
+1442
+00:53:24,720 --> 00:53:30,200
+Meanwhile, you, Water Pig, see...
+
+1443
+00:53:30,200 --> 00:53:34,600
+The nurse walks out, she's kind of in a daze.
+
+1444
+00:53:34,600 --> 00:53:36,600
+Her hair is askew.
+
+1445
+00:53:36,600 --> 00:53:39,000
+She's pulling down her nurse's...
+
+1446
+00:53:39,000 --> 00:53:41,000
+Yeah, she's doing that.
+
+1447
+00:53:41,000 --> 00:53:48,560
+And you see he see the machoke and he is uh he is a like on the ceiling like spider-man
+
+1448
+00:53:48,560 --> 00:53:57,680
+And he falls he lands on his back and he's got a raging boner
+
+1449
+00:53:57,680 --> 00:54:00,920
+Still yeah - man
+
+1450
+00:54:00,920 --> 00:54:04,480
+Any I get I flick his boner till it goes away
+
+1451
+00:54:04,480 --> 00:54:07,780
+Okay, it slowly goes down and he
+
+1452
+00:54:08,480 --> 00:54:10,720
+He looks to you, and he goes do good
+
+1453
+00:54:10,720 --> 00:54:13,760
+and
+
+1454
+00:54:13,760 --> 00:54:16,160
+Just like that guys
+
+1455
+00:54:16,160 --> 00:54:18,360
+We are going to have an empire over this planet
+
+1456
+00:54:18,360 --> 00:54:22,860
+Yeah, well we need him to do it twice so so we can make them mate with each other
+
+1457
+00:54:22,860 --> 00:54:26,840
+That's a good point to make sure they're both women - or both
+
+1458
+00:54:26,840 --> 00:54:29,800
+Male and female or you need to get other Pokemon
+
+1459
+00:54:29,800 --> 00:54:34,360
+So that there's less because otherwise you're gonna start getting inbreeding shit, and they're gonna be all fine
+
+1460
+00:54:34,360 --> 00:54:36,000
+- They do in the Bible. - What's wrong with that?
+
+1461
+00:54:36,000 --> 00:54:37,400
+- Yeah, but you're not gonna get a good army out of that.
+
+1462
+00:54:37,400 --> 00:54:38,240
+- That's true, also.
+
+1463
+00:54:38,240 --> 00:54:39,880
+- It's not about an army, it's just about
+
+1464
+00:54:39,880 --> 00:54:42,240
+getting more people than the other people.
+
+1465
+00:54:42,240 --> 00:54:45,840
+- Exodus 620, Amorim as his wife,
+
+1466
+00:54:45,840 --> 00:54:47,920
+Jochebed his father's sister,
+
+1467
+00:54:47,920 --> 00:54:49,600
+and she bore him Aaron and Moses.
+
+1468
+00:54:49,600 --> 00:54:51,680
+You think Moses was fucking inbred?
+
+1469
+00:54:51,680 --> 00:54:52,520
+- He was. - It sounds like
+
+1470
+00:54:52,520 --> 00:54:54,520
+he literally was, yeah, just based on that.
+
+1471
+00:54:54,520 --> 00:54:58,320
+- But you mean that he was like stupid type of inbred?
+
+1472
+00:54:58,320 --> 00:55:00,560
+- I guess not, yeah.
+
+1473
+00:55:00,560 --> 00:55:02,200
+- He built a boat.
+
+1474
+00:55:02,200 --> 00:55:03,160
+- No, it's Noah.
+
+1475
+00:55:03,160 --> 00:55:04,000
+- He opened all the exits.
+
+1476
+00:55:04,000 --> 00:55:05,680
+- Ophosus did other stuff.
+
+1477
+00:55:05,680 --> 00:55:06,520
+He ran around the desert.
+
+1478
+00:55:06,520 --> 00:55:07,360
+- He parted the seas.
+
+1479
+00:55:07,360 --> 00:55:08,180
+- He parted the Red Sea.
+
+1480
+00:55:08,180 --> 00:55:09,020
+- So similar.
+
+1481
+00:55:09,020 --> 00:55:09,860
+- Yeah.
+
+1482
+00:55:09,860 --> 00:55:10,680
+- All right, I guess it's--
+
+1483
+00:55:10,680 --> 00:55:11,520
+- But you gotta be a genius
+
+1484
+00:55:11,520 --> 00:55:12,360
+to do something like that. - Maybe these guys
+
+1485
+00:55:12,360 --> 00:55:13,180
+will have magic powers then.
+
+1486
+00:55:13,180 --> 00:55:15,680
+(laughing)
+
+1487
+00:55:15,680 --> 00:55:16,960
+- They can learn--
+
+1488
+00:55:16,960 --> 00:55:18,840
+- Sorry, my fucking mic unplugged.
+
+1489
+00:55:18,840 --> 00:55:22,440
+What were we exactly in the middle of?
+
+1490
+00:55:22,440 --> 00:55:25,920
+- We were debating incest.
+
+1491
+00:55:25,920 --> 00:55:27,000
+- Right. - Yeah.
+
+1492
+00:55:27,000 --> 00:55:28,160
+- Yes.
+
+1493
+00:55:28,160 --> 00:55:29,600
+- But, so okay.
+
+1494
+00:55:29,600 --> 00:55:32,880
+So the nurse is now pregnant at the desk.
+
+1495
+00:55:32,880 --> 00:55:35,600
+That just like happened in the last two minutes.
+
+1496
+00:55:35,600 --> 00:55:36,440
+- So that happened.
+
+1497
+00:55:36,440 --> 00:55:38,360
+- She's like, I have to go to the bathroom.
+
+1498
+00:55:38,360 --> 00:55:41,320
+So she runs to go to the bathroom.
+
+1499
+00:55:41,320 --> 00:55:46,400
+So here's the thing, it's gonna be an egg.
+
+1500
+00:55:46,400 --> 00:55:49,000
+- Fine by me.
+
+1501
+00:55:49,000 --> 00:55:49,840
+- You guys--
+
+1502
+00:55:49,840 --> 00:55:52,000
+- It could be like children of men.
+
+1503
+00:55:52,000 --> 00:55:54,960
+We could be like protecting the first Pokemon
+
+1504
+00:55:54,960 --> 00:55:55,800
+human hybrid egg.
+
+1505
+00:55:55,800 --> 00:55:57,480
+- Oh my God, that's such a good idea.
+
+1506
+00:55:57,480 --> 00:56:00,080
+- I would just say, like you guys should be like,
+
+1507
+00:56:00,960 --> 00:56:03,440
+- She's gonna be like, "Oh God, I fucked a Pokemon.
+
+1508
+00:56:03,440 --> 00:56:05,520
+"That's why an egg came out."
+
+1509
+00:56:05,520 --> 00:56:06,360
+You guys really cannot think of that?
+
+1510
+00:56:06,360 --> 00:56:07,700
+- Somebody fucked up an egg.
+
+1511
+00:56:07,700 --> 00:56:10,080
+- That would be, listen, if I was a girl
+
+1512
+00:56:10,080 --> 00:56:12,600
+and I had sex with someone and I laid an egg,
+
+1513
+00:56:12,600 --> 00:56:14,840
+my first thought wouldn't be that's a Pokemon
+
+1514
+00:56:14,840 --> 00:56:16,400
+that I fucked, it would be that there's something
+
+1515
+00:56:16,400 --> 00:56:17,240
+wrong with me, but like--
+
+1516
+00:56:17,240 --> 00:56:19,960
+- I fucked a chicken. - Oh my God, I have an egg.
+
+1517
+00:56:19,960 --> 00:56:22,080
+- Yeah, an egg came out of me for some weird reason.
+
+1518
+00:56:22,080 --> 00:56:24,000
+- Yeah, she might think she is a Pokemon.
+
+1519
+00:56:24,000 --> 00:56:25,160
+- Yeah.
+
+1520
+00:56:25,160 --> 00:56:30,160
+- So instead of her realizing what happened,
+
+1521
+00:56:30,180 --> 00:56:32,500
+You think and said she would...
+
+1522
+00:56:32,500 --> 00:56:34,500
+- Well, she might just not just instantly think
+
+1523
+00:56:34,500 --> 00:56:35,340
+that's what happened.
+
+1524
+00:56:35,340 --> 00:56:38,180
+Maybe she got through a few other explanations.
+
+1525
+00:56:38,180 --> 00:56:40,100
+- Maybe she thought that guy she just had sex with
+
+1526
+00:56:40,100 --> 00:56:41,820
+used, put an egg in her.
+
+1527
+00:56:41,820 --> 00:56:44,980
+- That's actually maybe true.
+
+1528
+00:56:44,980 --> 00:56:48,900
+- 'Cause why would he be a Pokemon?
+
+1529
+00:56:48,900 --> 00:56:51,240
+- Right, yeah, he was a pleasant, polite guy.
+
+1530
+00:56:51,240 --> 00:56:53,160
+- Yeah, he's--
+
+1531
+00:56:53,160 --> 00:56:54,980
+- With a strong command of the English language.
+
+1532
+00:56:54,980 --> 00:56:57,500
+- Yeah, and his this hurt.
+
+1533
+00:56:57,500 --> 00:56:58,620
+- Oh, he--
+
+1534
+00:56:58,620 --> 00:56:59,780
+- His duh.
+
+1535
+00:56:59,780 --> 00:57:01,280
+- His dog. - His dog.
+
+1536
+00:57:01,280 --> 00:57:02,860
+- His dog. - His dog.
+
+1537
+00:57:02,860 --> 00:57:05,100
+(laughing)
+
+1538
+00:57:05,100 --> 00:57:10,340
+- Cool, she runs to the bathroom, you hear a--
+
+1539
+00:57:10,340 --> 00:57:11,180
+- Plop.
+
+1540
+00:57:11,180 --> 00:57:13,140
+- Oh, no!
+
+1541
+00:57:13,140 --> 00:57:16,060
+- Dude, she's shit.
+
+1542
+00:57:16,060 --> 00:57:17,580
+- Don't, why are you such a shit?
+
+1543
+00:57:17,580 --> 00:57:19,020
+Bro, this is like a TV show,
+
+1544
+00:57:19,020 --> 00:57:19,980
+you're trying to show the characters
+
+1545
+00:57:19,980 --> 00:57:21,220
+going to the bathroom, man.
+
+1546
+00:57:21,220 --> 00:57:22,340
+- True. - You hear a plop,
+
+1547
+00:57:22,340 --> 00:57:23,500
+and then you hear,
+
+1548
+00:57:23,500 --> 00:57:26,580
+and when you hear like a second later,
+
+1549
+00:57:26,580 --> 00:57:28,980
+she gets off the toilet and you hear an egg fall.
+
+1550
+00:57:28,980 --> 00:57:31,240
+(laughter)
+
+1551
+00:57:31,240 --> 00:57:34,200
+- You hear a plop.
+
+1552
+00:57:34,200 --> 00:57:35,740
+- Yeah, you hear a plop, a flush, and then--
+
+1553
+00:57:35,740 --> 00:57:37,580
+- The second it does--
+
+1554
+00:57:37,580 --> 00:57:38,640
+- Oh my god, wait, an egg.
+
+1555
+00:57:38,640 --> 00:57:40,480
+- Wait, I have to sit back down again.
+
+1556
+00:57:40,480 --> 00:57:42,740
+- The second the egg plops out,
+
+1557
+00:57:42,740 --> 00:57:47,200
+your friend, Darren, his eyes like
+
+1558
+00:57:47,200 --> 00:57:50,160
+light up and he starts shaking,
+
+1559
+00:57:50,160 --> 00:57:52,520
+and he fucking bum rushes to bathroom
+
+1560
+00:57:52,520 --> 00:57:54,920
+and paternal instinct's kicking in.
+
+1561
+00:57:54,920 --> 00:57:57,000
+- Okay. - I just let him go.
+
+1562
+00:57:57,000 --> 00:58:00,320
+kicks down the door and you hear, wait, no, I don't let him go.
+
+1563
+00:58:00,320 --> 00:58:02,560
+I don't let him go. Then I don't let him go. Actually.
+
+1564
+00:58:02,560 --> 00:58:07,480
+I'm realizing the error of my ways. I stopped him. I stopped him and I go,
+
+1565
+00:58:07,480 --> 00:58:09,720
+and that means
+
+1566
+00:58:09,720 --> 00:58:13,280
+you have to make her think she pooped an egg.
+
+1567
+00:58:13,280 --> 00:58:16,640
+Yeah. She's just a regular poop.
+
+1568
+00:58:16,640 --> 00:58:20,400
+Maybe she ate an egg earlier and did she didn't digest it like a kernel of corn.
+
+1569
+00:58:20,400 --> 00:58:23,760
+He's like sort of like looking around like, and then just like,
+
+1570
+00:58:24,360 --> 00:58:29,160
+Like he kind of looks at you, kind of nods, and then like dashes for the door.
+
+1571
+00:58:29,160 --> 00:58:30,120
+Uh-huh.
+
+1572
+00:58:30,120 --> 00:58:31,720
+And he goes, "EH POOP!"
+
+1573
+00:58:31,720 --> 00:58:35,820
+And like reaches into the toilet and pulls out the egg.
+
+1574
+00:58:35,820 --> 00:58:40,960
+And you hear her scream.
+
+1575
+00:58:40,960 --> 00:58:52,760
+Well, look, she probably is embarrassed by this whole situation.
+
+1576
+00:58:53,120 --> 00:58:57,120
+She probably just wants to be rid of this egg, right?
+
+1577
+00:58:57,120 --> 00:59:04,120
+And he's just like, sort of like, running to the bathroom and crapping his shit.
+
+1578
+00:59:04,120 --> 00:59:08,120
+This guy that just fucked craps his own crap on the sheet.
+
+1579
+00:59:08,120 --> 00:59:10,120
+And then he sits on it.
+
+1580
+00:59:10,120 --> 00:59:13,120
+Am I the asshole?
+
+1581
+00:59:13,120 --> 00:59:14,120
+That's funny.
+
+1582
+00:59:14,120 --> 00:59:15,120
+Yeah.
+
+1583
+00:59:15,120 --> 00:59:21,120
+Am I the asshole that craps the girl that I just hooked up with's poop out of the toilet?
+
+1584
+00:59:21,120 --> 00:59:28,120
+it
+
+1585
+00:59:28,120 --> 00:59:29,320
+She's like yelling.
+
+1586
+00:59:29,320 --> 00:59:31,420
+He's holding the egg in front of her and says,
+
+1587
+00:59:31,420 --> 00:59:32,620
+"Poop! You poop!"
+
+1588
+00:59:32,620 --> 00:59:33,820
+And then like...
+
+1589
+00:59:33,820 --> 00:59:38,020
+I grab the egg too.
+
+1590
+00:59:38,020 --> 00:59:40,520
+I also, I grab the egg out of his hand and I go...
+
+1591
+00:59:40,520 --> 00:59:44,720
+You're eating the poop, man?
+
+1592
+00:59:44,720 --> 00:59:46,420
+I'm not helping at all.
+
+1593
+00:59:46,420 --> 00:59:47,320
+Yeah, you...
+
+1594
+00:59:47,320 --> 00:59:48,920
+I'm grabbing it.
+
+1595
+00:59:48,920 --> 00:59:52,020
+I'm just like trying to make the whole situation seem normal.
+
+1596
+00:59:52,020 --> 00:59:54,020
+So I pick up the poop and I'm just like...
+
+1597
+00:59:54,020 --> 00:59:56,260
+(laughing)
+
+1598
+00:59:56,260 --> 01:00:00,260
+- Put the egg in a Pokeball, man.
+
+1599
+01:00:00,260 --> 01:00:01,100
+- Yeah.
+
+1600
+01:00:01,100 --> 01:00:01,940
+- Oh, that's a good idea.
+
+1601
+01:00:01,940 --> 01:00:02,760
+- Oh, I could do that.
+
+1602
+01:00:02,760 --> 01:00:03,820
+- Or an incubator.
+
+1603
+01:00:03,820 --> 01:00:04,660
+- Yeah.
+
+1604
+01:00:04,660 --> 01:00:06,220
+- They have incubators at the Poke place.
+
+1605
+01:00:06,220 --> 01:00:07,060
+- A Pokeball is safer though.
+
+1606
+01:00:07,060 --> 01:00:09,420
+- A Pokeball is basically the incubator, so.
+
+1607
+01:00:09,420 --> 01:00:10,340
+- Oh, okay.
+
+1608
+01:00:10,340 --> 01:00:11,180
+- Yeah.
+
+1609
+01:00:11,180 --> 01:00:13,540
+- So you put the egg in the Pokeball,
+
+1610
+01:00:13,540 --> 01:00:15,460
+and she sort of has an instinct of like,
+
+1611
+01:00:15,460 --> 01:00:16,300
+trying to reach out for it.
+
+1612
+01:00:16,300 --> 01:00:17,340
+- Putting her poop in the Pokeball.
+
+1613
+01:00:17,340 --> 01:00:18,180
+- She's like.
+
+1614
+01:00:18,180 --> 01:00:19,860
+(laughing)
+
+1615
+01:00:19,860 --> 01:00:21,740
+- Filling all my friends Pokeballs with shit
+
+1616
+01:00:21,740 --> 01:00:23,980
+- And then, Moriarty goes to his big gym battle.
+
+1617
+01:00:23,980 --> 01:00:25,660
+(laughing)
+
+1618
+01:00:25,660 --> 01:00:26,860
+- I do that.
+
+1619
+01:00:26,860 --> 01:00:29,300
+- Yeah, and she's just sort of like rattled,
+
+1620
+01:00:29,300 --> 01:00:33,620
+and he goes up to her and he puts his hand on her face
+
+1621
+01:00:33,620 --> 01:00:37,340
+and like, like, touches it and then runs
+
+1622
+01:00:37,340 --> 01:00:40,300
+and then crashes out the window of the bathroom.
+
+1623
+01:00:40,300 --> 01:00:42,740
+(laughing)
+
+1624
+01:00:42,740 --> 01:00:44,580
+- I'm a champ.
+
+1625
+01:00:44,580 --> 01:00:47,620
+- So yeah, you guys might wanna go see what he's up to.
+
+1626
+01:00:47,620 --> 01:00:48,460
+Or you guys can--
+
+1627
+01:00:48,460 --> 01:00:49,300
+- No, he doesn't matter much anymore.
+
+1628
+01:00:49,300 --> 01:00:50,980
+- He did his job, he did his job.
+
+1629
+01:00:50,980 --> 01:00:52,620
+- Yeah. - Okay, yeah.
+
+1630
+01:00:52,620 --> 01:00:54,820
+- And we're on the, what, 30th floor anyway?
+
+1631
+01:00:54,820 --> 01:00:55,820
+He's probably dead.
+
+1632
+01:00:55,820 --> 01:00:56,660
+- Yeah. - Yeah.
+
+1633
+01:00:56,660 --> 01:01:01,740
+- That's the sad truth.
+
+1634
+01:01:01,740 --> 01:01:04,040
+- You guys now have this egg.
+
+1635
+01:01:04,040 --> 01:01:08,140
+It is going to hatch in 1,000 steps, I think we calculated.
+
+1636
+01:01:08,140 --> 01:01:10,300
+- Yeah, that's 10 minutes of walking,
+
+1637
+01:01:10,300 --> 01:01:12,260
+according to my Google search. - Let's get our steps in, man.
+
+1638
+01:01:12,260 --> 01:01:13,460
+- Yeah. - Risk walking.
+
+1639
+01:01:13,460 --> 01:01:15,980
+- Yeah, you guys ready to see what happens
+
+1640
+01:01:15,980 --> 01:01:17,660
+when this thing hatches? - Yeah, let's just take
+
+1641
+01:01:17,660 --> 01:01:19,940
+really small steps really fast so that it goes quicker.
+
+1642
+01:01:19,940 --> 01:01:21,700
+- Oh yeah, like ding ding ding ding ding ding.
+
+1643
+01:01:21,700 --> 01:01:23,500
+- Oh my god, let's walk in a circle.
+
+1644
+01:01:23,500 --> 01:01:25,620
+You guys, we will walk in a circle.
+
+1645
+01:01:25,620 --> 01:01:27,100
+- And if we're all walking together,
+
+1646
+01:01:27,100 --> 01:01:28,980
+it's three times the steps.
+
+1647
+01:01:28,980 --> 01:01:30,340
+- People won't think it's weird.
+
+1648
+01:01:30,340 --> 01:01:32,900
+- And wait, most of us have four legs.
+
+1649
+01:01:32,900 --> 01:01:36,300
+- Oh my god, you guys, no no no no no.
+
+1650
+01:01:36,300 --> 01:01:40,060
+We will put on a special presentation for the hospital
+
+1651
+01:01:40,060 --> 01:01:41,660
+and we are all gonna do the game plan.
+
+1652
+01:01:41,660 --> 01:01:43,580
+- We don't want them to see this, oh.
+
+1653
+01:01:43,580 --> 01:01:46,100
+- No, they're gonna kill our baby if they see it.
+
+1654
+01:01:46,100 --> 01:01:49,380
+- Oh no wait, the Machamp jumped out the window.
+
+1655
+01:01:49,380 --> 01:01:51,600
+I was gonna say we could have him,
+
+1656
+01:01:51,600 --> 01:01:54,040
+we could have him come say like,
+
+1657
+01:01:54,040 --> 01:01:57,040
+and here I am with my traveling Pokemon.
+
+1658
+01:01:57,040 --> 01:01:59,080
+- He can't say that, you know he can't say that shit.
+
+1659
+01:01:59,080 --> 01:01:59,920
+- He would say, me duh duh.
+
+1660
+01:01:59,920 --> 01:02:03,680
+- We could say it, I mean we could roll to see
+
+1661
+01:02:03,680 --> 01:02:05,400
+if he says it and then--
+
+1662
+01:02:05,400 --> 01:02:07,560
+- No, we're outside, we're walking in a circle.
+
+1663
+01:02:07,560 --> 01:02:10,720
+- All right, well the can can was a good way
+
+1664
+01:02:10,720 --> 01:02:15,720
+to get all the steps in, but I guess just F me, I guess.
+
+1665
+01:02:15,720 --> 01:02:18,080
+- You can do the can can still, outside.
+
+1666
+01:02:18,080 --> 01:02:19,480
+- I'm gonna do the can-can, okay.
+
+1667
+01:02:19,480 --> 01:02:21,280
+- Away from the prime eyes of the humans
+
+1668
+01:02:21,280 --> 01:02:24,000
+who wanna take away our new genetic anomaly
+
+1669
+01:02:24,000 --> 01:02:24,840
+that we've developed. - Then I do it.
+
+1670
+01:02:24,840 --> 01:02:25,660
+Then I do it.
+
+1671
+01:02:25,660 --> 01:02:27,120
+I'm standing and I'm doing the can-can.
+
+1672
+01:02:27,120 --> 01:02:27,960
+- Why don't you roll performance?
+
+1673
+01:02:27,960 --> 01:02:29,720
+- Make him roll. - Roll Riz.
+
+1674
+01:02:29,720 --> 01:02:31,720
+Make him roll, Patches.
+
+1675
+01:02:31,720 --> 01:02:32,680
+- I roll Riz.
+
+1676
+01:02:32,680 --> 01:02:35,800
+- 11.
+
+1677
+01:02:35,800 --> 01:02:38,040
+- It's like a serviceable,
+
+1678
+01:02:38,040 --> 01:02:39,480
+sometimes you miss a,
+
+1679
+01:02:39,480 --> 01:02:42,840
+you're supposed to put up the knee, but you do the leg.
+
+1680
+01:02:42,840 --> 01:02:46,720
+- It's like I'm doing the can-can on Lip Sync Battle.
+
+1681
+01:02:46,720 --> 01:02:53,460
+Mm-hmm. No, you're gonna have to worry. It's just it's mostly it's like when Tom Holland did the
+
+1682
+01:02:53,460 --> 01:03:00,160
+Umbrella dance and it was just like, you know, he's missing. He's fucking up the choreo, but he's mostly got it
+
+1683
+01:03:00,160 --> 01:03:07,380
+Yeah, I haven't seen that. I hate to say it. Yeah, I mean so what you're saying is it's a bad dancing job is no
+
+1684
+01:03:07,380 --> 01:03:09,580
+No, no, no, no it cuz it impressed service
+
+1685
+01:03:09,580 --> 01:03:12,080
+It impressed
+
+1686
+01:03:12,640 --> 01:03:15,400
+Zendaya somewhere, her heart's aflutter.
+
+1687
+01:03:15,400 --> 01:03:17,760
+- Uh-huh, Zendaya is impressed.
+
+1688
+01:03:17,760 --> 01:03:18,600
+- By this pig.
+
+1689
+01:03:18,600 --> 01:03:21,280
+And you guys hatch.
+
+1690
+01:03:21,280 --> 01:03:23,240
+(laughing)
+
+1691
+01:03:23,240 --> 01:03:26,920
+- Somewhere Zendaya turned to Tom Holland and said,
+
+1692
+01:03:26,920 --> 01:03:28,940
+"I just got impressed by a pig."
+
+1693
+01:03:28,940 --> 01:03:31,840
+(laughing)
+
+1694
+01:03:31,840 --> 01:03:35,540
+- All right, okay, actually I kinda want this to be
+
+1695
+01:03:35,540 --> 01:03:38,000
+a collaborative thing.
+
+1696
+01:03:38,000 --> 01:03:41,080
+What do we think this guy looks like, this baby?
+
+1697
+01:03:41,080 --> 01:03:44,440
+- I think that he looks, he has no belly button,
+
+1698
+01:03:44,440 --> 01:03:46,240
+like KyleXY. - So it's a guy.
+
+1699
+01:03:46,240 --> 01:03:50,040
+- And he, it's definitely a guy,
+
+1700
+01:03:50,040 --> 01:03:51,960
+'cause Machamp is a guy.
+
+1701
+01:03:51,960 --> 01:03:53,560
+Oh wait, but his mom's a girl.
+
+1702
+01:03:53,560 --> 01:03:56,960
+- I guess then it would mix together
+
+1703
+01:03:56,960 --> 01:03:58,440
+and be something halfway.
+
+1704
+01:03:58,440 --> 01:04:01,560
+- Okay, so it's half guy, half girl.
+
+1705
+01:04:01,560 --> 01:04:02,840
+- Yeah. - Okay.
+
+1706
+01:04:02,840 --> 01:04:05,720
+- So it's girl from the-- - Like a Pokemon.
+
+1707
+01:04:05,720 --> 01:04:08,080
+- From the wheels up, the waist up.
+
+1708
+01:04:08,080 --> 01:04:08,920
+- Wheels. - It has wheels.
+
+1709
+01:04:08,920 --> 01:04:10,800
+- It has wheels. - It has wheels.
+
+1710
+01:04:10,800 --> 01:04:12,280
+- It's a handicap kid.
+
+1711
+01:04:12,280 --> 01:04:14,160
+- It's born and it does completely as wheels.
+
+1712
+01:04:14,160 --> 01:04:15,000
+It's a robot.
+
+1713
+01:04:15,000 --> 01:04:16,840
+(laughing)
+
+1714
+01:04:16,840 --> 01:04:19,360
+- It's a woman for the wheel.
+
+1715
+01:04:19,360 --> 01:04:21,500
+- It's like a two completely different species
+
+1716
+01:04:21,500 --> 01:04:23,600
+of Pokemon breed and they make a third
+
+1717
+01:04:23,600 --> 01:04:24,960
+completely different thing.
+
+1718
+01:04:24,960 --> 01:04:26,640
+We've just, it's a car.
+
+1719
+01:04:26,640 --> 01:04:28,900
+(laughing)
+
+1720
+01:04:28,900 --> 01:04:30,600
+It's a car with a human head.
+
+1721
+01:04:30,600 --> 01:04:33,440
+- It's the first ever car type Pokemon.
+
+1722
+01:04:33,440 --> 01:04:34,280
+- Yeah.
+
+1723
+01:04:34,280 --> 01:04:36,120
+- With a human head like an ornament,
+
+1724
+01:04:36,120 --> 01:04:37,760
+like a hood ornament on the top.
+
+1725
+01:04:37,760 --> 01:04:39,560
+- Looks sort of like a--
+
+1726
+01:04:39,560 --> 01:04:41,280
+- It looks like a baby's head because it was just born.
+
+1727
+01:04:41,280 --> 01:04:42,120
+- Yeah.
+
+1728
+01:04:42,120 --> 01:04:43,120
+- It looks sort of like a,
+
+1729
+01:04:43,120 --> 01:04:46,520
+what's the clown from Twisted Metal?
+
+1730
+01:04:46,520 --> 01:04:48,520
+- Yeah, Sweet Tooth.
+
+1731
+01:04:48,520 --> 01:04:49,360
+- Sweet Tooth, it looks like Sweet Tooth.
+
+1732
+01:04:49,360 --> 01:04:51,560
+- It looks like Sweet Tooth's car.
+
+1733
+01:04:51,560 --> 01:04:52,660
+- But a baby.
+
+1734
+01:04:52,660 --> 01:04:53,500
+- Yeah.
+
+1735
+01:04:53,500 --> 01:04:54,400
+- In the head.
+
+1736
+01:04:54,400 --> 01:04:56,080
+And so it's a really tiny car right now,
+
+1737
+01:04:56,080 --> 01:04:57,720
+so it's like a little Hot Wheel.
+
+1738
+01:04:57,720 --> 01:05:00,140
+- It's like one of the, yeah, perfect.
+
+1739
+01:05:00,140 --> 01:05:02,560
+Okay, he's going in the cookie bowl.
+
+1740
+01:05:02,560 --> 01:05:03,560
+- But it's gonna grow fast.
+
+1741
+01:05:03,560 --> 01:05:05,520
+No, come on, what does he actually look like?
+
+1742
+01:05:05,520 --> 01:05:06,920
+Come on, what does he look like?
+
+1743
+01:05:06,920 --> 01:05:07,760
+- That's what he looks like.
+
+1744
+01:05:07,760 --> 01:05:09,760
+It's just a Machamp with boobs.
+
+1745
+01:05:09,760 --> 01:05:10,760
+(laughter)
+
+1746
+01:05:10,760 --> 01:05:11,760
+Boobs?
+
+1747
+01:05:11,760 --> 01:05:13,760
+Patrick, that's a newborn baby.
+
+1748
+01:05:13,760 --> 01:05:14,760
+No, it's a Pokemon.
+
+1749
+01:05:14,760 --> 01:05:15,760
+Yeah, it's a Pokemon.
+
+1750
+01:05:15,760 --> 01:05:16,760
+It doesn't matter what it looks like.
+
+1751
+01:05:16,760 --> 01:05:18,760
+He's not saying he likes the boobs, man.
+
+1752
+01:05:18,760 --> 01:05:19,760
+No, no, I don't like it.
+
+1753
+01:05:19,760 --> 01:05:22,760
+It's just, yeah, I'm talking about genetics.
+
+1754
+01:05:22,760 --> 01:05:26,760
+(laughter)
+
+1755
+01:05:26,760 --> 01:05:27,760
+Yeah, it's got boobs.
+
+1756
+01:05:27,760 --> 01:05:28,760
+I don't like boobs.
+
+1757
+01:05:28,760 --> 01:05:29,760
+It's just sign us.
+
+1758
+01:05:29,760 --> 01:05:33,760
+It's a blue Machamp with long blonde hair and white boobs.
+
+1759
+01:05:33,760 --> 01:05:34,760
+Yeah.
+
+1760
+01:05:34,760 --> 01:05:36,760
+Plain, plain white boobs.
+
+1761
+01:05:36,760 --> 01:05:41,760
+There's nothing wrong with plain white boobs.
+
+1762
+01:05:41,760 --> 01:05:46,760
+Cool. Alright. I think it's either that or a car.
+
+1763
+01:05:46,760 --> 01:05:51,760
+Now the car is sounding pretty good to him, huh?
+
+1764
+01:05:51,760 --> 01:05:56,760
+Now you like the car.
+
+1765
+01:05:56,760 --> 01:06:01,760
+I just think that's the best Pokemon anyone came up with in a long time.
+
+1766
+01:06:01,760 --> 01:06:03,680
+- Car with a head.
+
+1767
+01:06:03,680 --> 01:06:06,200
+- All right, so this is the beginning of your guys' journey
+
+1768
+01:06:06,200 --> 01:06:10,220
+to, I guess, destroy all humans with your sort of like
+
+1769
+01:06:10,220 --> 01:06:14,360
+twisted metal Pokemon creations.
+
+1770
+01:06:14,360 --> 01:06:15,800
+- That's cool. - Okay.
+
+1771
+01:06:15,800 --> 01:06:18,400
+- Yeah, I think this is a good trial run.
+
+1772
+01:06:18,400 --> 01:06:19,720
+I wanted to see what this would play like.
+
+1773
+01:06:19,720 --> 01:06:21,200
+It kind of basically did exactly what I thought,
+
+1774
+01:06:21,200 --> 01:06:23,160
+which was take whatever I had planned
+
+1775
+01:06:23,160 --> 01:06:24,960
+and throw it in directly--
+
+1776
+01:06:24,960 --> 01:06:29,060
+- I bet you didn't think three buttoned up nerds like us
+
+1777
+01:06:29,060 --> 01:06:31,560
+would spend so much time breeding during a session
+
+1778
+01:06:31,560 --> 01:06:32,680
+like this, did you?
+
+1779
+01:06:32,680 --> 01:06:34,020
+And yet here we are.
+
+1780
+01:06:34,020 --> 01:06:36,840
+- I thought you guys were gonna do a lot more math,
+
+1781
+01:06:36,840 --> 01:06:38,400
+so that was really surprising.
+
+1782
+01:06:38,400 --> 01:06:39,240
+- No math, man.
+
+1783
+01:06:39,240 --> 01:06:43,200
+- But next time we do Pokemon though,
+
+1784
+01:06:43,200 --> 01:06:47,760
+maybe we'll do something a little bit more interesting.
+
+1785
+01:06:47,760 --> 01:06:49,800
+- Can we go to Poop Brown Town?
+
+1786
+01:06:49,800 --> 01:06:52,000
+- We can go to Poop Brown Town, for example.
+
+1787
+01:06:52,000 --> 01:06:54,920
+- Okay, I always wanted them to put that in the game.
+
+1788
+01:06:54,920 --> 01:06:56,360
+- That's just somebody's house.
+
+1789
+01:06:56,360 --> 01:06:58,420
+Poop Brown Town. - Yeah, it's your house.
+
+1790
+01:06:58,420 --> 01:06:59,760
+- Mr. Poop Brown Town.
+
+1791
+01:07:01,040 --> 01:07:04,520
+I was on your side and you went and you changed it.
+
+1792
+01:07:04,520 --> 01:07:07,200
+- I'm just telling you what nationality you are.
+
+1793
+01:07:07,200 --> 01:07:08,920
+- I'm not brown.
+
+1794
+01:07:08,920 --> 01:07:09,880
+- You're poop.
+
+1795
+01:07:09,880 --> 01:07:12,120
+- It's not a nationality anyway.
+
+1796
+01:07:12,120 --> 01:07:13,880
+- Give me a nation of brown.
+
+1797
+01:07:13,880 --> 01:07:15,140
+- Nation of brown.
+
+1798
+01:07:15,140 --> 01:07:17,280
+- I thought it was.
+
+1799
+01:07:17,280 --> 01:07:21,720
+- Now we can talk about, okay, bye guys.
+
+1800
+01:07:21,720 --> 01:07:22,560
+- Bye. - Bye.
+
+1801
+01:07:22,560 --> 01:07:29,760
+- Is it unattractive to women when you throw your back out?
+
+1802
+01:07:29,760 --> 01:07:30,600
+- Yes.
+
+1803
+01:07:30,600 --> 01:07:33,500
+Really? Man, if you hurt yourself, that sucks.
+
+1804
+01:07:33,500 --> 01:07:36,000
+If you ever stub your toe, this is what you should do.
+
+1805
+01:07:36,000 --> 01:07:37,400
+You say, "I didn't stub my toe."
+
+1806
+01:07:37,400 --> 01:07:38,000
+Yeah.
+
+1807
+01:07:38,000 --> 01:07:39,300
+"I didn't stub my toe."
+
+1808
+01:07:39,300 --> 01:07:41,300
+"I didn't stub my toe."
+
+1809
+01:07:41,300 --> 01:07:42,000
+Number two.
+
+1810
+01:07:42,000 --> 01:07:43,800
+Wait, can I just ask your fans real quick?
+
+1811
+01:07:43,800 --> 01:07:45,800
+Lady fans, what is more attractive?
+
+1812
+01:07:45,800 --> 01:07:50,300
+When a man peels off his shirt like this and then kind of drops it?
+
+1813
+01:07:50,300 --> 01:07:51,000
+And then, you know, he's shirtless?
+
+1814
+01:07:51,000 --> 01:07:52,600
+Well, you just did that gayly.
+
+1815
+01:07:52,600 --> 01:07:53,000
+Yeah.
+
+1816
+01:07:53,000 --> 01:07:53,400
+Right.
+
+1817
+01:07:53,400 --> 01:07:56,200
+Okay, well, if he did that straightly...
+
+1818
+01:07:56,200 --> 01:07:57,800
+If someone did that straightly...
+
+1819
+01:07:57,800 --> 01:08:00,300
+- When he peels off his shirt?
+
+1820
+01:08:00,300 --> 01:08:04,520
+- Or if you just pop out of it.
+
+1821
+01:08:04,520 --> 01:08:06,780
+(laughing)
+
+1822
+01:08:06,780 --> 01:08:10,580
+- Do you mean rip out of it or do you mean
+
+1823
+01:08:10,580 --> 01:08:12,460
+pop out of it as a different thing?
+
+1824
+01:08:12,460 --> 01:08:13,300
+- Like if you kind of flex.
+
+1825
+01:08:13,300 --> 01:08:14,800
+- Like you go like this, you go like this
+
+1826
+01:08:14,800 --> 01:08:16,560
+and then you're next to all your clothes
+
+1827
+01:08:16,560 --> 01:08:18,400
+falling in a pile next to you.
+
+1828
+01:08:18,400 --> 01:08:20,240
+- Do you get raptured out of your clothes?
+
+1829
+01:08:20,240 --> 01:08:22,840
+- Your nightcrawler bamps out of your clothes?
+
+1830
+01:08:22,840 --> 01:08:24,940
+Oh, like you have clothes that are on you
+
+1831
+01:08:24,940 --> 01:08:26,060
+with suction cups?
+
+1832
+01:08:26,060 --> 01:08:30,060
+Like there's a tear on your e-flexor bicep and then your bicep pops out of that.
+
+1833
+01:08:30,060 --> 01:08:33,060
+I don't think a single person has ever done that.
+
+1834
+01:08:33,060 --> 01:08:36,060
+That necessitates having a very tiny shirt on for anybody.
+
+1835
+01:08:36,060 --> 01:08:38,060
+Right, well that's what I mean.
+
+1836
+01:08:38,060 --> 01:08:41,060
+What is it? More sexy when you peel off a tiny shirt?
+
+1837
+01:08:41,060 --> 01:08:44,060
+If you're a woman, leave a comment down below.
+
+1838
+01:08:44,060 --> 01:08:46,060
+Address it to Pierce. Say "Dear Pierce."
+
+1839
+01:08:46,060 --> 01:08:51,060
+And then write what you think is sexy about a boy taking off his shirt or whatever.
+
+1840
+01:08:51,060 --> 01:08:54,060
+Is it sexy? Because I think it's sexy when a boy pops out.
+
+1841
+01:08:54,060 --> 01:09:04,060
+The question is, so your question is, women, do you think it's sexier when a man takes off his shirt or explodes his clothes?
+
+1842
+01:09:04,060 --> 01:09:10,060
+Do you think it's sexier if a man explodes his clothes or takes his shirt off?
+
+1843
+01:09:10,060 --> 01:09:13,060
+Women, do you like it when a man pops out?
+
+1844
+01:09:13,060 --> 01:09:15,060
+Pops out or takes his clothes out?
+
+1845
+01:09:15,060 --> 01:09:16,060
+Do you like it when a man pops out at you?
+
+1846
+01:09:16,060 --> 01:09:17,060
+Or slides?
+
+1847
+01:09:17,060 --> 01:09:18,060
+Slides or pops?
+
+1848
+01:09:18,060 --> 01:09:20,060
+Do you like it when a man slides on you?
+

@@ -9,7 +9,6 @@ import { useState, useEffect, useContext } from 'react'
 
 import { LoadingContext } from "@/app/colocation"
 
-
 export default function SearchResults() {
     
     const searchParams = useSearchParams()
@@ -20,7 +19,8 @@ export default function SearchResults() {
     const loadContext = useContext(LoadingContext);
 
     useEffect(() => {
-      fetch('https://ryxxxx.pythonanywhere.com/query?arg='+search)
+      setData(null)
+      fetch('https://ryxxxx.pythonanywhere.com/v2search?arg='+search)
         .then((res) => res.json())
         .then((data) => {
           setData(data)
@@ -32,19 +32,26 @@ export default function SearchResults() {
     if(data!=null)
     {
     
-      const matches = data["matches"]
-    
-      const output = []
+      const matches : Array<any> = data["matches"]
 
-      for(let i=0;i<10;i++)
-      {
-        output.push(<Result title={matches[i]["metadata"]["title"]} content={matches[i]["metadata"]["text"]} similarity={(parseFloat(matches[i]["score"])*100).toString()}/>)
-      }
       return (
-      <div id="test">
-        {output}
+      <div>
+      {
+        matches.map((value,key) => (
+          <Result 
+          title={value["metadata"]["title"]} 
+          content={value["metadata"]["text"]} 
+          similarity={(parseFloat(value["score"])*100).toFixed(3)}
+          start={value["metadata"]["start"]}
+          end={value["metadata"]["end"]}
+          search_string={String(search)}
+          link={value["metadata"]["link"]}
+          key={key}
+        />)
+        )
+      }
       </div>
-        );
+      )
     }
     else
     {

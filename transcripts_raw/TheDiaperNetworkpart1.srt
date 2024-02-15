@@ -1,0 +1,7132 @@
+﻿1
+00:00:00,000 --> 00:00:05,520
+The year is 2012.
+
+2
+00:00:05,520 --> 00:00:11,840
+We're in a musty courtroom in Palo Alto, San Francisco, where the trial of the century
+
+3
+00:00:11,840 --> 00:00:12,840
+is taking place.
+
+4
+00:00:12,840 --> 00:00:16,560
+I think I'm kissing my twin.
+
+5
+00:00:16,560 --> 00:00:24,800
+You see the bailiff, who barks, "All rise for Judge Sullivan!"
+
+6
+00:00:24,800 --> 00:00:25,800
+Everyone stands up.
+
+7
+00:00:25,800 --> 00:00:29,680
+There's a stout frog.
+
+8
+00:00:29,680 --> 00:00:33,220
+waddles his way to the judges podium.
+
+9
+00:00:33,220 --> 00:00:34,060
+I don't know what it's called.
+
+10
+00:00:34,060 --> 00:00:35,400
+I thought about it for a second.
+
+11
+00:00:35,400 --> 00:00:36,840
+- You don't need to stand up.
+
+12
+00:00:36,840 --> 00:00:37,920
+Don't worry. It's all good.
+
+13
+00:00:37,920 --> 00:00:39,380
+So thank you. Thank you.
+
+14
+00:00:39,380 --> 00:00:40,220
+You can sit.
+
+15
+00:00:40,220 --> 00:00:45,660
+Dearly beloved, we are gathered here today
+
+16
+00:00:45,660 --> 00:00:50,180
+to begin the trial of the three-way trial,
+
+17
+00:00:50,180 --> 00:00:52,200
+the first ever in American history
+
+18
+00:00:52,200 --> 00:00:56,100
+over the creation of the website Diaper Talk.
+
+19
+00:00:57,900 --> 00:01:02,900
+A website allegedly created by Mark Zuckerberg.
+
+20
+00:01:02,900 --> 00:01:07,540
+- Not really allegedly created by me.
+
+21
+00:01:07,540 --> 00:01:08,380
+- Oh yeah.
+
+22
+00:01:08,380 --> 00:01:10,460
+- It actually was created by me.
+
+23
+00:01:10,460 --> 00:01:12,220
+- We'll see about that, won't we?
+
+24
+00:01:12,220 --> 00:01:15,600
+- All right, quiet in the court.
+
+25
+00:01:15,600 --> 00:01:16,440
+Thank you.
+
+26
+00:01:16,440 --> 00:01:21,020
+Mr. Zuckerberg, I don't remember,
+
+27
+00:01:21,020 --> 00:01:23,020
+I didn't look up anything about how courts work.
+
+28
+00:01:23,020 --> 00:01:24,780
+Mr. Zuckerberg, how do you plead?
+
+29
+00:01:25,980 --> 00:01:28,240
+(laughing)
+
+30
+00:01:28,240 --> 00:01:32,900
+- I plead as the owner, operator, sole founder
+
+31
+00:01:32,900 --> 00:01:35,540
+and creator of DiaperTalk.com.
+
+32
+00:01:35,540 --> 00:01:37,580
+- The guilty owner and co-founder and creator.
+
+33
+00:01:37,580 --> 00:01:40,380
+- The not guilty owner, co-founder, founder, not co-founder.
+
+34
+00:01:40,380 --> 00:01:41,660
+- Not guilty of creating the website.
+
+35
+00:01:41,660 --> 00:01:45,060
+- The owner, I plead guilty of creating the website,
+
+36
+00:01:45,060 --> 00:01:46,620
+your honor. - Guilty to stealing money.
+
+37
+00:01:46,620 --> 00:01:47,460
+- I plead. - From the real creator
+
+38
+00:01:47,460 --> 00:01:48,880
+of the website. - I plead, shut up!
+
+39
+00:01:48,880 --> 00:01:50,980
+- Okay, order, order.
+
+40
+00:01:50,980 --> 00:01:53,340
+All right, the jury, you heard that.
+
+41
+00:01:53,340 --> 00:01:56,860
+So in this very unorthodox kind of court here
+
+42
+00:01:56,860 --> 00:01:58,440
+where we have Mr. Zuckerberg,
+
+43
+00:01:58,440 --> 00:02:01,740
+who is being accused of stealing the property
+
+44
+00:02:01,740 --> 00:02:05,940
+and of not giving credit to Mr. Eduardo Saverin,
+
+45
+00:02:05,940 --> 00:02:09,140
+his former business partner,
+
+46
+00:02:09,140 --> 00:02:12,140
+and of stealing the original idea from
+
+47
+00:02:12,140 --> 00:02:14,460
+- The Finger Bros.
+
+48
+00:02:14,460 --> 00:02:17,260
+The Finger Bros. Twins.
+
+49
+00:02:17,260 --> 00:02:19,220
+- From the Finger Bros. Twins.
+
+50
+00:02:19,220 --> 00:02:21,980
+Underwear conversation.
+
+51
+00:02:21,980 --> 00:02:23,980
+You said underwear.
+
+52
+00:02:23,980 --> 00:02:25,980
+Underwear?
+
+53
+00:02:25,980 --> 00:02:27,980
+You said underwear also.
+
+54
+00:02:27,980 --> 00:02:29,980
+Do I read this intro? I wrote the whole intro.
+
+55
+00:02:29,980 --> 00:02:31,980
+Well, we'll do that in a second.
+
+56
+00:02:31,980 --> 00:02:34,980
+So before we begin this three-way unorthodox trial,
+
+57
+00:02:34,980 --> 00:02:37,980
+I need each of you to choose your lawyers.
+
+58
+00:02:37,980 --> 00:02:41,980
+From who?
+
+59
+00:02:41,980 --> 00:02:44,980
+Three lawyers walk out in front.
+
+60
+00:02:44,980 --> 00:02:45,980
+Okay.
+
+61
+00:02:45,980 --> 00:02:49,980
+So to do this first, I need everyone to roll a d20.
+
+62
+00:02:49,980 --> 00:03:01,460
+me. Who got the highest? I got a 17. I got a plane around. I got a six. What'd you get?
+
+63
+00:03:01,460 --> 00:03:06,700
+Yeah, I changed it from a nine. I got a two. Okay. I saw you turn it. I thought I just wanted
+
+64
+00:03:06,700 --> 00:03:13,580
+to hear you say it. Okay. Mr. Saverin, you get the first pick of lawyer. You have a Southern
+
+65
+00:03:13,580 --> 00:03:17,580
+lawyer, a New York style lawyer.
+
+66
+00:03:17,580 --> 00:03:18,280
+What does that mean?
+
+67
+00:03:18,280 --> 00:03:20,140
+He's New York style.
+
+68
+00:03:20,140 --> 00:03:21,540
+I like the sound of that.
+
+69
+00:03:21,540 --> 00:03:22,020
+Like a bake.
+
+70
+00:03:22,020 --> 00:03:23,340
+I'll give you more descriptions.
+
+71
+00:03:23,340 --> 00:03:26,060
+Would you say that the New York style lawyer is the best one?
+
+72
+00:03:26,060 --> 00:03:27,540
+No, not necessarily.
+
+73
+00:03:27,540 --> 00:03:29,700
+And then, and then there's a girl lawyer.
+
+74
+00:03:29,700 --> 00:03:30,420
+You can go.
+
+75
+00:03:30,420 --> 00:03:30,780
+Yeah.
+
+76
+00:03:30,780 --> 00:03:33,260
+That's the, what do you, so there's Southern lawyer.
+
+77
+00:03:33,260 --> 00:03:37,180
+That's the sort of friendly, persuasive, insightful, maybe too forthright for his
+
+78
+00:03:37,180 --> 00:03:38,980
+own good though, all around very solid.
+
+79
+00:03:38,980 --> 00:03:43,300
+Well, due to my personal experience of having to doing an internship in
+
+80
+00:03:43,300 --> 00:03:49,200
+New York based on my character or my own history, which I know about.
+
+81
+00:03:49,200 --> 00:03:51,800
+I think I would have to go with the New York lawyer.
+
+82
+00:03:51,800 --> 00:03:53,920
+Nasty, direct and intimidating.
+
+83
+00:03:53,920 --> 00:03:55,560
+Great arguments.
+
+84
+00:03:55,560 --> 00:03:56,880
+Great arguments.
+
+85
+00:03:56,880 --> 00:03:59,280
+Raises your ceiling, but not your floor.
+
+86
+00:03:59,280 --> 00:03:59,880
+Wait, what?
+
+87
+00:03:59,880 --> 00:04:00,640
+The most friendly.
+
+88
+00:04:00,640 --> 00:04:02,080
+I forget you rolled this.
+
+89
+00:04:02,080 --> 00:04:02,400
+That's right.
+
+90
+00:04:02,400 --> 00:04:02,560
+Yeah.
+
+91
+00:04:02,560 --> 00:04:04,160
+And then there's the girl lawyer.
+
+92
+00:04:04,160 --> 00:04:05,160
+She will cry.
+
+93
+00:04:05,160 --> 00:04:11,680
+She will use her feminine wiles, but do we still need this music?
+
+94
+00:04:12,120 --> 00:04:14,820
+But you can't like execute that sort of her problem.
+
+95
+00:04:14,820 --> 00:04:16,320
+They each have specialties.
+
+96
+00:04:16,320 --> 00:04:17,920
+You chose the New York lawyer, though.
+
+97
+00:04:17,920 --> 00:04:18,420
+Yeah.
+
+98
+00:04:18,420 --> 00:04:20,420
+All right, but we're going to win this case.
+
+99
+00:04:20,420 --> 00:04:24,720
+Let me tell you it's going to be one to bada bing bada, but he's
+
+100
+00:04:24,720 --> 00:04:26,720
+still my friend, but he's still my friend.
+
+101
+00:04:26,720 --> 00:04:27,420
+That's good, too.
+
+102
+00:04:27,420 --> 00:04:27,920
+Okay.
+
+103
+00:04:27,920 --> 00:04:36,220
+Bada buddy is still my friend.
+
+104
+00:04:36,220 --> 00:04:40,520
+Bada bing bada, but he's still my friend.
+
+105
+00:04:40,720 --> 00:04:44,640
+Okay, now we'll go clockwise from here. Well, I mean, that's how the roles were.
+
+106
+00:04:44,640 --> 00:04:45,680
+Oh, it was. Yeah.
+
+107
+00:04:45,680 --> 00:04:50,720
+So we go. I guess I'm choosing a bang. What was your finger?
+
+108
+00:04:50,720 --> 00:04:55,320
+And I think that we will go with the southern lawyer.
+
+109
+00:04:55,320 --> 00:05:02,800
+Well, I'm quite familiar with the tops of I am a rooster. I need you to not be
+
+110
+00:05:02,800 --> 00:05:10,560
+frightened by that. But I know you're your accent. You're poor. Well,
+
+111
+00:05:10,560 --> 00:05:14,260
+I know I'm just from a region of the country where we talk a
+
+112
+00:05:14,260 --> 00:05:15,160
+certain way.
+
+113
+00:05:15,160 --> 00:05:17,560
+Ah, oh dear.
+
+114
+00:05:17,560 --> 00:05:18,660
+That was my other twin.
+
+115
+00:05:18,660 --> 00:05:22,160
+That was my twin who got he got scared because he was on his
+
+116
+00:05:22,160 --> 00:05:22,760
+phone.
+
+117
+00:05:22,760 --> 00:05:24,860
+Now he's looking up.
+
+118
+00:05:24,860 --> 00:05:26,560
+Well, I'm going to need you to pay attention.
+
+119
+00:05:26,560 --> 00:05:28,060
+So we are so we can win this.
+
+120
+00:05:28,060 --> 00:05:30,660
+Oh, you're going to keep that's a feather.
+
+121
+00:05:30,660 --> 00:05:33,560
+That is really that is really the kind of Saudi big thing.
+
+122
+00:05:33,560 --> 00:05:34,460
+Yeah, you're doing good.
+
+123
+00:05:34,460 --> 00:05:35,360
+It's really good.
+
+124
+00:05:35,360 --> 00:05:39,760
+And then I'm afraid you will have to have the girl lawyer.
+
+125
+00:05:40,360 --> 00:05:42,040
+It's actually kind of just like the movie.
+
+126
+00:05:42,040 --> 00:05:43,360
+Mrs. Zuckerberg.
+
+127
+00:05:43,360 --> 00:05:46,040
+Is it Rashida Jones?
+
+128
+00:05:46,040 --> 00:05:47,480
+It is Rashida Jones.
+
+129
+00:05:47,480 --> 00:05:47,920
+Oh yeah.
+
+130
+00:05:47,920 --> 00:05:50,160
+Whoa, whoa.
+
+131
+00:05:50,160 --> 00:05:52,640
+And holy shit.
+
+132
+00:05:52,640 --> 00:05:53,200
+Hello Rashida.
+
+133
+00:05:53,200 --> 00:05:56,200
+I did not know you had that impression in you.
+
+134
+00:05:56,200 --> 00:06:00,280
+Well, Mark, looks like we're going to be working together.
+
+135
+00:06:00,280 --> 00:06:00,920
+OK.
+
+136
+00:06:00,920 --> 00:06:02,880
+She does this face.
+
+137
+00:06:02,880 --> 00:06:03,840
+Yeah.
+
+138
+00:06:03,840 --> 00:06:06,320
+Yep, you're so awesome.
+
+139
+00:06:06,320 --> 00:06:08,520
+So excited to work with you.
+
+140
+00:06:08,520 --> 00:06:09,800
+Really looking forward to working with you.
+
+141
+00:06:09,800 --> 00:06:13,120
+The truth is, a fucking aunt could do your job.
+
+142
+00:06:13,120 --> 00:06:17,600
+Because this fucking case is so clear cut.
+
+143
+00:06:17,600 --> 00:06:19,880
+I can't believe I'm wasting my time here.
+
+144
+00:06:19,880 --> 00:06:24,880
+- And now, so you guys can do your opening statements
+
+145
+00:06:24,880 --> 00:06:27,000
+or you can have your lawyers do it.
+
+146
+00:06:27,000 --> 00:06:28,600
+You can kind of decide.
+
+147
+00:06:28,600 --> 00:06:30,800
+- I think that I will probably draw a circle
+
+148
+00:06:30,800 --> 00:06:32,900
+while my lawyer does my opening statement.
+
+149
+00:06:32,900 --> 00:06:36,680
+- Ladies and gentlemen, okay, also first,
+
+150
+00:06:36,680 --> 00:06:37,760
+the rules by the way.
+
+151
+00:06:37,760 --> 00:06:41,680
+So we're going to be doing a retelling of that's not really a
+
+152
+00:06:41,680 --> 00:06:44,000
+circle. It looks like more like a heart. Yeah, that's like a lump.
+
+153
+00:06:44,000 --> 00:06:46,520
+Then I'll try again. We're going to be doing a... That's a butt.
+
+154
+00:06:46,520 --> 00:06:50,360
+So we're going to be doing a retelling of... Your circle's got a,
+
+155
+00:06:50,360 --> 00:06:53,600
+like a turn. Your circle's more like a beat or a turn up. Why do you put a point on your circle?
+
+156
+00:06:53,600 --> 00:06:56,680
+We're going to be doing the retelling. I don't know why he does it.
+
+157
+00:06:56,680 --> 00:07:00,840
+It looks like a speech bubble. We're going to be doing a retelling of...
+
+158
+00:07:00,840 --> 00:07:04,080
+Why can't you draw a circle? Stop. That's an oval.
+
+159
+00:07:04,080 --> 00:07:06,240
+Well, now you got a little face. You know what you were doing there. You got a face there.
+
+160
+00:07:06,240 --> 00:07:07,240
+It looks like a face. Yeah.
+
+161
+00:07:07,240 --> 00:07:08,840
+We're going to be doing a retelling of
+
+162
+00:07:08,840 --> 00:07:10,520
+the events leading up to today.
+
+163
+00:07:10,520 --> 00:07:12,880
+And after each sort of juncture of
+
+164
+00:07:12,880 --> 00:07:13,880
+those events,
+
+165
+00:07:13,880 --> 00:07:16,760
+we're going to have sort of I can't
+
+166
+00:07:16,760 --> 00:07:17,400
+fucking win.
+
+167
+00:07:17,400 --> 00:07:18,700
+There's a circle right there that you
+
+168
+00:07:18,700 --> 00:07:19,720
+could be tracing the whole time.
+
+169
+00:07:19,720 --> 00:07:22,080
+Depending on how you perform in
+
+170
+00:07:22,080 --> 00:07:23,960
+these past events, we're
+
+171
+00:07:23,960 --> 00:07:25,560
+then going to roll dice.
+
+172
+00:07:25,560 --> 00:07:27,920
+This is you know, this is
+
+173
+00:07:27,920 --> 00:07:30,120
+more disrespectful than usual.
+
+174
+00:07:30,120 --> 00:07:33,400
+All right, teacher.
+
+175
+00:07:33,400 --> 00:07:34,240
+He's in character.
+
+176
+00:07:34,240 --> 00:07:35,240
+Teacher. He is.
+
+177
+00:07:35,360 --> 00:07:38,480
+He actually is a character in that sense.
+
+178
+00:07:38,480 --> 00:07:41,440
+No, so just very quickly, we're just
+
+179
+00:07:41,440 --> 00:07:44,240
+going to retell the whole story, very similar to the movie.
+
+180
+00:07:44,240 --> 00:07:48,280
+But each time that we reach an end point of the story,
+
+181
+00:07:48,280 --> 00:07:50,200
+it's going to be one of you getting called to the stand.
+
+182
+00:07:50,200 --> 00:07:51,780
+Your lawyer is going to interview you.
+
+183
+00:07:51,780 --> 00:07:53,920
+We're going to go back, flashback to that time.
+
+184
+00:07:53,920 --> 00:07:57,880
+Then another lawyer is going to cross-examine you,
+
+185
+00:07:57,880 --> 00:07:59,760
+one of the two other lawyers.
+
+186
+00:07:59,760 --> 00:08:01,880
+And then depending on how you performed in the past,
+
+187
+00:08:01,880 --> 00:08:04,520
+depending on a role from your lawyer and the bonus role
+
+188
+00:08:04,520 --> 00:08:09,960
+you will get based on your past performance, you will try to win over the jury.
+
+189
+00:08:09,960 --> 00:08:10,960
+Okay.
+
+190
+00:08:10,960 --> 00:08:16,920
+And after all of those, we'll sort of tally up the winners and losers and see who...
+
+191
+00:08:16,920 --> 00:08:21,640
+Just throw a beer at Pat.
+
+192
+00:08:21,640 --> 00:08:23,640
+Come on, man.
+
+193
+00:08:23,640 --> 00:08:27,440
+I better not have spilled it.
+
+194
+00:08:27,440 --> 00:08:29,520
+Okay, enough with the music.
+
+195
+00:08:29,520 --> 00:08:32,520
+I'm bringing the music back as many times as possible.
+
+196
+00:08:32,520 --> 00:08:33,920
+Perfect. Yeah, keep it up.
+
+197
+00:08:33,920 --> 00:08:35,440
+All right.
+
+198
+00:08:35,440 --> 00:08:37,840
+So because you won first, Mr.
+
+199
+00:08:37,840 --> 00:08:38,840
+Saverin,
+
+200
+00:08:38,840 --> 00:08:43,000
+we're going to start with your
+
+201
+00:08:43,000 --> 00:08:44,000
+New York lawyers.
+
+202
+00:08:44,000 --> 00:08:45,740
+We'll start with you. But first,
+
+203
+00:08:45,740 --> 00:08:46,720
+let's have all your opening
+
+204
+00:08:46,720 --> 00:08:48,340
+statements. So you start, Mr.
+
+205
+00:08:48,340 --> 00:08:49,340
+Saverin.
+
+206
+00:08:49,340 --> 00:08:54,420
+Honestly, I can't even believe
+
+207
+00:08:54,420 --> 00:08:55,440
+that I'm here doing
+
+208
+00:08:55,440 --> 00:08:57,480
+this because it
+
+209
+00:08:57,480 --> 00:09:00,200
+seems like I shouldn't have to be.
+
+210
+00:09:02,360 --> 00:09:07,120
+But because I am, I guess all I want to say is that Mark is still my best friend.
+
+211
+00:09:07,120 --> 00:09:09,560
+And I almost broke the monitor.
+
+212
+00:09:09,560 --> 00:09:10,800
+You almost broke the monitor.
+
+213
+00:09:10,800 --> 00:09:12,520
+That's not even something you would do.
+
+214
+00:09:12,520 --> 00:09:12,760
+Yeah.
+
+215
+00:09:12,760 --> 00:09:13,560
+Zuck wouldn't do it.
+
+216
+00:09:13,560 --> 00:09:16,400
+You're you're wait until like 45 minutes in.
+
+217
+00:09:16,400 --> 00:09:17,240
+You have to be playing.
+
+218
+00:09:17,240 --> 00:09:18,360
+You have to be playing a wimp.
+
+219
+00:09:18,360 --> 00:09:21,760
+They make him do his opening statement first.
+
+220
+00:09:21,760 --> 00:09:22,000
+Yeah.
+
+221
+00:09:22,000 --> 00:09:22,200
+Yeah.
+
+222
+00:09:22,200 --> 00:09:22,920
+He has to do his opening statement.
+
+223
+00:09:22,920 --> 00:09:23,960
+You do your opening statement first.
+
+224
+00:09:23,960 --> 00:09:24,240
+You do it first.
+
+225
+00:09:24,240 --> 00:09:25,760
+Here's that attention you ordered, buddy.
+
+226
+00:09:25,760 --> 00:09:26,240
+Yeah.
+
+227
+00:09:26,240 --> 00:09:27,160
+Ooh.
+
+228
+00:09:27,160 --> 00:09:28,360
+I actually hate attention.
+
+229
+00:09:28,360 --> 00:09:29,280
+From the movie.
+
+230
+00:09:29,280 --> 00:09:31,640
+Fatality.
+
+231
+00:09:32,000 --> 00:09:33,760
+Now he's opening statement
+
+232
+00:09:33,760 --> 00:09:36,800
+bitch
+
+233
+00:09:36,800 --> 00:09:38,700
+liar
+
+234
+00:09:38,700 --> 00:09:41,300
+two fat twins.
+
+235
+00:09:41,300 --> 00:09:44,900
+These are the people that I see in front of me today.
+
+236
+00:09:44,900 --> 00:09:46,900
+The bitch is your lawyer.
+
+237
+00:09:46,900 --> 00:09:52,300
+You
+
+238
+00:09:52,300 --> 00:09:55,900
+you should I should have let you kill yourself in freshman year
+
+239
+00:09:55,900 --> 00:09:57,900
+when I caught you in the bathroom
+
+240
+00:09:57,900 --> 00:10:00,000
+trying to overdose on Tums
+
+241
+00:10:00,000 --> 00:10:01,000
+you
+
+242
+00:10:01,900 --> 00:10:07,260
+Yeah. Keep rowing. You're really, really good at that. The business stuff is not
+
+243
+00:10:07,260 --> 00:10:12,860
+for you. It's almost it's honestly funny as fuck that two twins were so good at
+
+244
+00:10:12,860 --> 00:10:13,420
+rowing.
+
+245
+00:10:13,420 --> 00:10:18,580
+Well, one of us is right handed and I'm left handed.
+
+246
+00:10:18,580 --> 00:10:23,300
+My twin is right handed and I'm left handed. Is that true? Yeah.
+
+247
+00:10:23,300 --> 00:10:29,260
+See like this is crazy. What's your name? The Finger Bros. No, what's your
+
+248
+00:10:29,260 --> 00:10:29,980
+first name?
+
+249
+00:10:31,780 --> 00:10:35,780
+what the one I'm talking to right now. What's your first name? Your first name
+
+250
+00:10:35,780 --> 00:10:40,680
+figure? My name is the finger bros twins. So we've got do we have like sort of a
+
+251
+00:10:40,680 --> 00:10:45,740
+hive mind situation? No. So what then what's your name? The other one that I
+
+252
+00:10:45,740 --> 00:10:49,380
+wasn't talking to just now. What's your first name? It's hot and whoa,
+
+253
+00:10:49,380 --> 00:10:53,420
+it's fuk you and
+
+254
+00:10:53,420 --> 00:10:59,860
+well, I'm hun. This is
+
+255
+00:10:59,860 --> 00:11:00,360
+whoa
+
+256
+00:11:00,360 --> 00:11:06,960
+anyway. It's crazy that you were so genetically blessed and so good at one
+
+257
+00:11:06,960 --> 00:11:11,100
+thing, and then you decided that you wanted to make websites instead of do
+
+258
+00:11:11,100 --> 00:11:13,940
+that. I love web. I love web 2.0.
+
+259
+00:11:13,940 --> 00:11:20,700
+Yeah, I mean that's yeah, I'm sure you do anyway. This whole thing is bullshit
+
+260
+00:11:20,700 --> 00:11:26,380
+your honor. Yeah, you just said yeah, it's over. That's not you should address
+
+261
+00:11:26,420 --> 00:11:32,460
+the jury, really jury. This whole thing is bullshit. Hello. I think thank you. I
+
+262
+00:11:32,460 --> 00:11:37,220
+think that I will soon be proven to be guilty of starting the website and not
+
+263
+00:11:37,220 --> 00:11:39,540
+guilty of stealing the website from
+
+264
+00:11:39,540 --> 00:11:42,820
+my Hispanic friend over here,
+
+265
+00:11:42,820 --> 00:11:48,580
+who is Hispanic, by the way. I mean, this is what Cameron thinks a Hispanic guy
+
+266
+00:11:48,580 --> 00:11:50,260
+looks like. He dressed up like this
+
+267
+00:11:54,740 --> 00:11:59,440
+for those listening. I'm actually Jewish, by the way, look up Eduardo Saverin from
+
+268
+00:11:59,440 --> 00:12:04,460
+from the social network. He wears exactly. I know it's a perfect cost twins.
+
+269
+00:12:04,460 --> 00:12:06,720
+You don't need to look them up. Everyone knows that they look like you don't
+
+270
+00:12:06,720 --> 00:12:08,540
+look like the Winklevoss twins. Hello.
+
+271
+00:12:08,540 --> 00:12:12,940
+All right, all right. Anyway, that's the end of my state. Thank you. I'm going to
+
+272
+00:12:12,940 --> 00:12:16,580
+try this circle thing. I'm going to give it another. Yeah, it's sort of confusing,
+
+273
+00:12:16,580 --> 00:12:20,300
+but I think we got it. I missed us.
+
+274
+00:12:20,300 --> 00:12:29,120
+he's a frog. He rivets come on. It's he kind of those lack
+
+275
+00:12:29,120 --> 00:12:33,920
+mid a mid sentence ribbit
+
+276
+00:12:33,920 --> 00:12:39,780
+see the southern rooster like full shame.
+
+277
+00:12:39,780 --> 00:12:44,800
+Yeah, I'm really sorry.
+
+278
+00:12:45,780 --> 00:12:51,020
+Basically, I just can't even believe that we're here having this trial.
+
+279
+00:12:51,020 --> 00:12:57,500
+And honestly, Mark is still basically my best friend in the world, even though
+
+280
+00:12:57,500 --> 00:12:59,820
+he's trying to fucking steal all my stuff.
+
+281
+00:12:59,820 --> 00:13:01,060
+And I love him so much.
+
+282
+00:13:01,060 --> 00:13:06,700
+And honestly, I think he only made this billions of dollars website because he
+
+283
+00:13:06,700 --> 00:13:10,540
+was jealous of me and my internship and my friends that I had.
+
+284
+00:13:11,540 --> 00:13:17,620
+So I think the jury will see that Mark, he did not make the site and he did not
+
+285
+00:13:17,620 --> 00:13:19,100
+make any of the money rightfully.
+
+286
+00:13:19,100 --> 00:13:24,620
+And actually it was me, the guy who paid a thousand dollars worth of server time
+
+287
+00:13:24,620 --> 00:13:27,740
+who should get 50% of the company.
+
+288
+00:13:27,740 --> 00:13:28,640
+Yeah.
+
+289
+00:13:28,640 --> 00:13:31,420
+The jury nods.
+
+290
+00:13:31,420 --> 00:13:33,140
+They're like, God, that sounds good.
+
+291
+00:13:33,140 --> 00:13:33,420
+That's it.
+
+292
+00:13:33,420 --> 00:13:34,620
+It sounds like it makes sense.
+
+293
+00:13:34,620 --> 00:13:36,540
+Um, all right.
+
+294
+00:13:36,540 --> 00:13:37,260
+And Mr.
+
+295
+00:13:37,260 --> 00:13:37,620
+Mr.
+
+296
+00:13:37,620 --> 00:13:38,980
+And you have to put my name in the logo.
+
+297
+00:13:38,980 --> 00:13:40,460
+I'm whoa.
+
+298
+00:13:40,460 --> 00:13:41,460
+Hello.
+
+299
+00:13:41,460 --> 00:13:42,460
+Whoa.
+
+300
+00:13:42,460 --> 00:13:43,460
+Hello.
+
+301
+00:13:43,460 --> 00:13:45,460
+You're opening statement to the jury.
+
+302
+00:13:45,460 --> 00:13:46,460
+Okay.
+
+303
+00:13:46,460 --> 00:13:49,460
+An introduction to yourself.
+
+304
+00:13:49,460 --> 00:13:51,720
+Hello.
+
+305
+00:13:51,720 --> 00:13:55,260
+We are the Finger Bros Twins and we love social media.
+
+306
+00:13:55,260 --> 00:13:58,500
+From an early age we were completely enamored with website design.
+
+307
+00:13:58,500 --> 00:14:03,340
+By the age of 13 we had already purchased the website twinks.com.
+
+308
+00:14:03,340 --> 00:14:09,700
+A portmanteau of the two words that we love the most, twins and links.
+
+309
+00:14:09,700 --> 00:14:14,820
+Within a year, we had already sold the domain to an investor named Sean Cody.
+
+310
+00:14:14,820 --> 00:14:18,980
+We were raised in Westport, Connecticut, in a house bought by our two twin fathers.
+
+311
+00:14:18,980 --> 00:14:23,060
+I know you were wondering how we have twin fathers, but it's actually quite simple.
+
+312
+00:14:23,060 --> 00:14:27,220
+Our twin fathers split asexually in 1981, and then they had sex with our one mom who
+
+313
+00:14:27,220 --> 00:14:29,640
+gave birth to us 12 months later.
+
+314
+00:14:29,640 --> 00:14:33,540
+Our summers were spent learning how to row crew at Camp Two Creeks, an adult summer camp
+
+315
+00:14:33,540 --> 00:14:37,480
+exclusively made for twins to learn about twin culture.
+
+316
+00:14:37,480 --> 00:14:40,420
+But while we were there, we discovered something so incredible.
+
+317
+00:14:40,420 --> 00:14:42,180
+Our love of diapers.
+
+318
+00:14:42,180 --> 00:14:46,760
+Our love of diapers later merged with our love of website design, which inspired us to create
+
+319
+00:14:46,760 --> 00:14:52,800
+our magnum opus, abltwinks.com, a website for diaper lovers who are twins that also
+
+320
+00:14:52,800 --> 00:14:54,040
+love links.
+
+321
+00:14:54,040 --> 00:14:58,420
+We had our website, but we didn't know how to create it, so we hired Mark Zuckerberg to
+
+322
+00:14:58,420 --> 00:15:00,440
+design it, which he then stole.
+
+323
+00:15:00,440 --> 00:15:01,440
+Okay.
+
+324
+00:15:01,440 --> 00:15:02,440
+Hello.
+
+325
+00:15:02,440 --> 00:15:06,480
+Okay, hello, a little bit of an admission there, but we'll just
+
+326
+00:15:06,480 --> 00:15:10,640
+gloss over admission of what nothing. So I caught it and
+
+327
+00:15:10,640 --> 00:15:14,880
+Rashida definitely did. I did because she's an ace attorney.
+
+328
+00:15:14,880 --> 00:15:23,120
+What? Yeah, I'm pretty good at what I do. Hello. Okay, so let's
+
+329
+00:15:23,120 --> 00:15:27,280
+all that was all very thank you everybody. Mr. Zuckerberg, would
+
+330
+00:15:27,280 --> 00:15:31,240
+you please go to the stand? Oh, wait, hold on. Yeah. Would you
+
+331
+00:15:31,240 --> 00:15:34,440
+I'm going to go to the call on you to the stand. Nope, I'm not moving. You
+
+332
+00:15:34,440 --> 00:15:36,680
+have to bring the stand to me. Can I go to the stand?
+
+333
+00:15:36,680 --> 00:15:43,040
+Just once, how let's bring the stand or you have to pick me up and bring me
+
+334
+00:15:43,040 --> 00:15:46,040
+over to the stand because I'm not moving. I'll pick him up. Mark aren't
+
+335
+00:15:46,040 --> 00:15:50,000
+the finger bros brothers such dweebs. Remember how we used to laugh about
+
+336
+00:15:50,000 --> 00:15:54,200
+this kind of stuff finger bros brothers. Can you pick up mark and put him on
+
+337
+00:15:54,200 --> 00:15:58,840
+the stand? Absolutely okay. Let's pick him up. You pick him up with your left
+
+338
+00:15:58,880 --> 00:16:00,880
+and I'll pick him up with my right hand.
+
+339
+00:16:00,880 --> 00:16:01,880
+Okay.
+
+340
+00:16:01,880 --> 00:16:04,880
+Roll arm.
+
+341
+00:16:04,880 --> 00:16:08,880
+That's Nat 20.
+
+342
+00:16:08,880 --> 00:16:14,880
+You just like, you toss him in the air and he floats down and slots into the stand.
+
+343
+00:16:14,880 --> 00:16:15,880
+Much better.
+
+344
+00:16:15,880 --> 00:16:17,880
+Okay, what do you want to ask me?
+
+345
+00:16:17,880 --> 00:16:20,880
+And by the way, Eduardo, we're not friends. Stop talking to me like that, please.
+
+346
+00:16:20,880 --> 00:16:23,880
+Okay, Mark. It's me, Rashida, again.
+
+347
+00:16:23,880 --> 00:16:25,880
+Hello.
+
+348
+00:16:26,880 --> 00:16:33,880
+So, I want to ask you about your time back at Emerson University.
+
+349
+00:16:33,880 --> 00:16:38,880
+Bleep it.
+
+350
+00:16:38,880 --> 00:16:41,880
+The best school in Boston.
+
+351
+00:16:41,880 --> 00:16:43,880
+Yeah, whatever.
+
+352
+00:16:43,880 --> 00:16:44,880
+What about it?
+
+353
+00:16:44,880 --> 00:16:51,880
+Let's take us back to that day when you first came up with the idea of Diaper Talk.
+
+354
+00:16:51,880 --> 00:16:58,920
+talk. And so we're going to flash back now to you're on a date with a girl.
+
+355
+00:16:58,920 --> 00:17:02,440
+And I'm sitting one table over in a disguise.
+
+356
+00:17:02,440 --> 00:17:06,360
+Disguise is another girl.
+
+357
+00:17:06,360 --> 00:17:16,760
+And no, that's perfect. Yeah, yeah, hit it. And you're just this is going to be a series
+
+358
+00:17:16,760 --> 00:17:34,440
+is
+
+359
+00:17:34,440 --> 00:17:35,640
+Why are you talking to me like that?
+
+360
+00:17:35,640 --> 00:17:37,400
+We've been dating for four months.
+
+361
+00:17:37,400 --> 00:17:38,660
+Slut says what?
+
+362
+00:17:38,660 --> 00:17:41,880
+I can't do this anymore, Mark.
+
+363
+00:17:41,880 --> 00:17:42,720
+Can't do what?
+
+364
+00:17:42,720 --> 00:17:44,220
+Be a slutty bitch?
+
+365
+00:17:44,220 --> 00:17:47,500
+I'm breaking up with you.
+
+366
+00:17:47,500 --> 00:17:49,620
+And also you're dumb.
+
+367
+00:17:49,620 --> 00:17:52,520
+Roll a constitution saving throw.
+
+368
+00:17:52,520 --> 00:17:53,680
+Which circle is that?
+
+369
+00:17:53,680 --> 00:17:55,180
+Sorry, roll heart.
+
+370
+00:17:55,180 --> 00:17:57,400
+On the other side of the page.
+
+371
+00:17:57,400 --> 00:17:58,240
+Yeah.
+
+372
+00:17:58,240 --> 00:18:03,360
+Four, and then with my heart, it's four.
+
+373
+00:18:03,360 --> 00:18:08,360
+Um, you feel so upset by this break.
+
+374
+00:18:08,360 --> 00:18:13,360
+As much, as upset as Mark Zuckerberg in this iteration can feel.
+
+375
+00:18:13,360 --> 00:18:16,360
+It's starting to hurt your confidence.
+
+376
+00:18:16,360 --> 00:18:19,360
+I think I might be hungry or something.
+
+377
+00:18:19,360 --> 00:18:24,360
+Yeah, well, why don't you go get yourself something to eat then?
+
+378
+00:18:24,360 --> 00:18:27,360
+I think you will get me something to eat.
+
+379
+00:18:27,360 --> 00:18:34,360
+Behind her is a jock and he says, "Hello."
+
+380
+00:18:34,360 --> 00:18:37,360
+"Hey."
+
+381
+00:18:37,360 --> 00:18:43,360
+"Ahh! Ahh! Get away!"
+
+382
+00:18:43,360 --> 00:18:45,360
+"Is this guy bothering you?"
+
+383
+00:18:45,360 --> 00:18:55,360
+"Yes! She's bothering me! Get away! Ahh! Don't hurt me!"
+
+384
+00:18:55,360 --> 00:18:58,040
+And he takes the girl and he walks away.
+
+385
+00:18:58,040 --> 00:19:00,240
+Eduardo, you're watching all this?
+
+386
+00:19:00,240 --> 00:19:01,240
+Yeah.
+
+387
+00:19:01,240 --> 00:19:02,240
+Yeah.
+
+388
+00:19:02,240 --> 00:19:03,240
+Are you there?
+
+389
+00:19:03,240 --> 00:19:04,240
+I go like this.
+
+390
+00:19:04,240 --> 00:19:05,240
+Mark.
+
+391
+00:19:05,240 --> 00:19:17,600
+Eduardo, as the jock leaves, another strapping, handsome young man comes up to you and gives
+
+392
+00:19:17,600 --> 00:19:19,040
+you a card.
+
+393
+00:19:19,040 --> 00:19:21,640
+It's a foil Charizard card.
+
+394
+00:19:21,640 --> 00:19:23,640
+You've been tapped to join the Charizard Club.
+
+395
+00:19:23,640 --> 00:19:27,920
+The most exclusive club in Emerson University.
+
+396
+00:19:27,920 --> 00:19:29,920
+I jizz in my pants.
+
+397
+00:19:29,920 --> 00:19:31,920
+(Laughter)
+
+398
+00:19:31,920 --> 00:19:33,920
+(Laughter)
+
+399
+00:19:33,920 --> 00:19:35,920
+(Laughter)
+
+400
+00:19:35,920 --> 00:19:37,920
+(Laughter)
+
+401
+00:19:37,920 --> 00:19:39,920
+(Laughter)
+
+402
+00:19:39,920 --> 00:19:41,920
+(Laughter)
+
+403
+00:19:41,920 --> 00:19:43,920
+(Laughter)
+
+404
+00:19:43,920 --> 00:19:45,920
+(Laughter)
+
+405
+00:19:45,920 --> 00:19:47,920
+(Laughter)
+
+406
+00:19:47,920 --> 00:19:49,920
+(Laughter)
+
+407
+00:19:49,920 --> 00:19:51,460
+Oh, man.
+
+408
+00:19:51,460 --> 00:19:54,060
+Wait, what's that smell?
+
+409
+00:19:54,060 --> 00:19:57,060
+He knows my smell.
+
+410
+00:19:57,060 --> 00:20:02,060
+It smells like Eduardo's fucking jizz in this bar.
+
+411
+00:20:02,060 --> 00:20:05,060
+So we go back to the courtroom.
+
+412
+00:20:05,060 --> 00:20:08,060
+And after Eduardo jizzed his pants.
+
+413
+00:20:08,060 --> 00:20:09,060
+Yes, I did smell it.
+
+414
+00:20:09,060 --> 00:20:17,060
+(laughter)
+
+415
+00:20:17,060 --> 00:20:23,700
+You went back to your dorm room and you started to make a website.
+
+416
+00:20:23,700 --> 00:20:28,980
+What... and it was sort of a mean prank, some would say.
+
+417
+00:20:28,980 --> 00:20:34,100
+I took photos of my ex-girlfriend, then ex-girlfriend,
+
+418
+00:20:34,100 --> 00:20:38,380
+previously my girlfriend, then ex-girlfriend.
+
+419
+00:20:38,380 --> 00:20:39,380
+Cool.
+
+420
+00:20:39,380 --> 00:20:41,500
+Yeah.
+
+421
+00:20:41,500 --> 00:20:43,340
+And I used...
+
+422
+00:20:45,980 --> 00:20:52,380
+I used Photoshop to put her in different photos of diapers that I found.
+
+423
+00:20:52,380 --> 00:20:54,980
+Backgroundless PNGs, are you familiar?
+
+424
+00:20:54,980 --> 00:20:56,980
+Or is that too over your head?
+
+425
+00:20:56,980 --> 00:20:58,980
+Um, I got it, yeah.
+
+426
+00:20:58,980 --> 00:21:00,980
+Okay.
+
+427
+00:21:00,980 --> 00:21:04,980
+I put her in diapers and I posted them on a website called...
+
+428
+00:21:04,980 --> 00:21:08,980
+The... The Diaper Talk.
+
+429
+00:21:08,980 --> 00:21:12,980
+And some would say you... So, allegedly, and this is true,
+
+430
+00:21:12,980 --> 00:21:19,300
+truly this is recorded in the Emerson Gazette that you sent these links out to thousands
+
+431
+00:21:19,300 --> 00:21:23,900
+of different students to rate which diaper looked best on her.
+
+432
+00:21:23,900 --> 00:21:30,140
+I did. Yes, I had Huggies, pull-ups, kind of custom diapers that I found with pictures
+
+433
+00:21:30,140 --> 00:21:32,540
+of Batman on them.
+
+434
+00:21:32,540 --> 00:21:38,340
+Now I want to draw attention to this to the jury. This is somebody who was already thinking
+
+435
+00:21:38,340 --> 00:21:42,420
+about diapers even back then. Okay?
+
+436
+00:21:42,420 --> 00:21:45,340
+I was thinking of diapers way before that. I was thinking about diapers when I was like
+
+437
+00:21:45,340 --> 00:21:49,740
+7, 8 or 9 years old. You weren't thinking about diapers, you were wearing them Eduardo.
+
+438
+00:21:49,740 --> 00:21:54,820
+There's a difference. Objection your honor! What does this have to do with anything? I
+
+439
+00:21:54,820 --> 00:22:01,220
+don't know what objection means so I'm gonna... you guys just stop talking. I'm wearing the
+
+440
+00:22:01,220 --> 00:22:02,220
+diaper now.
+
+441
+00:22:02,220 --> 00:22:06,900
+Just one of you?
+
+442
+00:22:06,900 --> 00:22:07,900
+As am I.
+
+443
+00:22:07,900 --> 00:22:08,900
+Overruled.
+
+444
+00:22:08,900 --> 00:22:09,900
+Sorry.
+
+445
+00:22:09,900 --> 00:22:10,900
+What?
+
+446
+00:22:10,900 --> 00:22:15,300
+I was delayed reaction to my own sentence.
+
+447
+00:22:15,300 --> 00:22:22,460
+So now when you made this website, what was going through your mind, Mr. Zuckerberg?
+
+448
+00:22:22,460 --> 00:22:29,100
+I was imagining what kind of foods she was eating and what the poop would look like inside
+
+449
+00:22:29,100 --> 00:22:34,060
+the diapers if she was eating corn and peanuts or if she had a healthy diet and it's going
+
+450
+00:22:34,060 --> 00:22:36,100
+to be firm, thick brown logs.
+
+451
+00:22:36,100 --> 00:22:41,700
+Jerry, this sounds like somebody who is incredibly interested in the world of diapers.
+
+452
+00:22:41,700 --> 00:22:48,760
+Somebody who, even in their darkest moments, were still choosing to invest in building
+
+453
+00:22:48,760 --> 00:22:50,940
+something related to diapers.
+
+454
+00:22:50,940 --> 00:22:58,100
+While the accusing parties here, they're just sort of along for the ride.
+
+455
+00:22:58,100 --> 00:23:06,000
+Yeah. So you did fail being able to sustain yourself for the
+
+456
+00:23:06,000 --> 00:23:09,960
+breakup like you were upset by. I took some damage didn't I? You didn't take damage.
+
+457
+00:23:09,960 --> 00:23:14,140
+You're only going to be able to add a d4 to this next roll against the jury.
+
+458
+00:23:14,140 --> 00:23:20,780
+I'll reroll it. That would have been nice for you. It's CeeLo rules. As soon
+
+459
+00:23:20,780 --> 00:23:26,020
+as a die stops. It didn't stop. It didn't stop. I picked it up but it looked like
+
+460
+00:23:26,020 --> 00:23:27,120
+I was going to stop on 20.
+
+461
+00:23:27,120 --> 00:23:29,460
+So now I roll a d4?
+
+462
+00:23:29,460 --> 00:23:30,460
+Yeah.
+
+463
+00:23:30,460 --> 00:23:35,380
+Oh, my God, wait, you rolled a 12.
+
+464
+00:23:35,380 --> 00:23:36,820
+There's 12 people in a jury.
+
+465
+00:23:36,820 --> 00:23:37,900
+Holy shit.
+
+466
+00:23:37,900 --> 00:23:40,140
+This might be a unanimous decision.
+
+467
+00:23:40,140 --> 00:23:41,780
+So now, Eduardo,
+
+468
+00:23:41,780 --> 00:23:44,100
+your lawyer goes
+
+469
+00:23:44,100 --> 00:23:46,220
+up to talk to Zuck.
+
+470
+00:23:46,220 --> 00:23:50,220
+All right.
+
+471
+00:23:50,220 --> 00:23:53,140
+Sorry, I'm also a frog.
+
+472
+00:23:53,140 --> 00:23:53,640
+you
+
+473
+00:23:53,640 --> 00:24:00,280
+am so mark. Do I look like I got
+
+474
+00:24:00,280 --> 00:24:05,220
+yes, like you look like a I think I picked the wrong
+
+475
+00:24:05,220 --> 00:24:15,780
+this is on the record. Do I look like I like to get the ladies like
+
+476
+00:24:19,800 --> 00:24:27,760
+is a lady. Do I look like I like to get fucked? Yes. All right, shit. So I was trying to set
+
+477
+00:24:27,760 --> 00:24:32,340
+you up for something, but you're way too on top of it. I know I'm very smart. No objection,
+
+478
+00:24:32,340 --> 00:24:36,680
+your honor. He clearly doesn't look like he likes to get fucked. His hair's all messy and
+
+479
+00:24:36,680 --> 00:24:43,200
+his pants are halfway down his body. He looks like he fucks. So you can't tell just from
+
+480
+00:24:43,200 --> 00:24:48,560
+this. Can we look at your ass to see if it looks like you like to get fucked? Do you
+
+481
+00:24:48,560 --> 00:24:54,640
+or wait fucking can be in and out talking to the to the lawyer right.
+
+482
+00:24:54,640 --> 00:24:58,840
+Yeah, okay. Well, we might as well throw you in there. Can I request a
+
+483
+00:24:58,840 --> 00:25:03,080
+short recess to go look at my lawyer's ass before he shows it on the stand?
+
+484
+00:25:03,080 --> 00:25:06,680
+No, that would be tampering with evidence. That's tampering with
+
+485
+00:25:06,680 --> 00:25:10,320
+evidence. Can I can I request a recess to do the same thing with my lawyer,
+
+486
+00:25:10,320 --> 00:25:13,360
+your honor? I'd like to request a recess so that my lawyer can fuck me
+
+487
+00:25:13,360 --> 00:25:15,680
+so I can prove that he fucks and doesn't get fucked.
+
+488
+00:25:16,560 --> 00:25:18,760
+I can't really allow that,
+
+489
+00:25:18,760 --> 00:25:24,960
+but I guess just as once if you want your lawyer to go fuck you, but I guess
+
+490
+00:25:24,960 --> 00:25:29,300
+that can happen. Well, I don't want to write, but there are things we want to
+
+491
+00:25:29,300 --> 00:25:31,760
+have to do in the course of life.
+
+492
+00:25:31,760 --> 00:25:35,800
+Okay, we'll take a ten minute break for you to get fucked by. We don't need ten
+
+493
+00:25:35,800 --> 00:25:36,200
+minutes.
+
+494
+00:25:36,200 --> 00:25:39,760
+Take like an hour and a half break
+
+495
+00:25:39,760 --> 00:25:42,060
+for that sort of thing.
+
+496
+00:25:42,060 --> 00:25:45,960
+You I am tied back there and you we only need two minutes.
+
+497
+00:25:45,960 --> 00:25:53,920
+Now that I'm done fucking that Hispanic guy, look, I don't believe this fucking prick for
+
+498
+00:25:53,920 --> 00:25:54,920
+one second.
+
+499
+00:25:54,920 --> 00:25:55,920
+Now look at him.
+
+500
+00:25:55,920 --> 00:25:59,760
+Your honor, the lawyer has toilet paper on his foot.
+
+501
+00:25:59,760 --> 00:26:00,760
+That's not...
+
+502
+00:26:00,760 --> 00:26:02,280
+Did you guys fuck in the bathroom?
+
+503
+00:26:02,280 --> 00:26:04,480
+He has toilet paper on his shoe, on the bottom.
+
+504
+00:26:04,480 --> 00:26:07,040
+Oh I'm sorry, where were we supposed to fuck Mr. Genius?
+
+505
+00:26:07,040 --> 00:26:11,600
+We fucked in my car where I keep toilet paper in case I have to go when I'm driving because
+
+506
+00:26:11,600 --> 00:26:15,560
+I don't have a bathroom in my house because I can't afford one because of you.
+
+507
+00:26:15,560 --> 00:26:19,480
+for she to write this down. He keeps toilet paper in his car, write that down.
+
+508
+00:26:19,480 --> 00:26:23,620
+That'll be important later. If you wear diapers, you don't need toilet paper.
+
+509
+00:26:23,620 --> 00:26:28,280
+I don't wear diapers. I'm on the business end. I don't even know how to
+
+510
+00:26:28,280 --> 00:26:30,880
+send a friend request on diaper talk.
+
+511
+00:26:30,880 --> 00:26:39,840
+Now, look, you think that you know everything 'cause you wear a hoodie and
+
+512
+00:26:39,840 --> 00:26:40,600
+you got hair.
+
+513
+00:26:40,600 --> 00:26:43,880
+Yeah.
+
+514
+00:26:45,520 --> 00:26:46,840
+Let me tell you something about my client.
+
+515
+00:26:46,840 --> 00:26:50,160
+My client made sure that your website could exist.
+
+516
+00:26:50,160 --> 00:26:53,160
+He was there with you when he co-created it with you.
+
+517
+00:26:53,160 --> 00:26:55,400
+That's not true that you went home alone.
+
+518
+00:26:55,400 --> 00:26:57,440
+He was there, you smelled his jizz,
+
+519
+00:26:57,440 --> 00:26:59,600
+and you went back and you created it together.
+
+520
+00:26:59,600 --> 00:27:00,440
+- Okay.
+
+521
+00:27:00,440 --> 00:27:02,000
+- And I can prove that this is true.
+
+522
+00:27:02,000 --> 00:27:05,040
+- He came into my dorm room while I was writing
+
+523
+00:27:05,040 --> 00:27:06,760
+because I couldn't remember what a diaper looked like,
+
+524
+00:27:06,760 --> 00:27:08,160
+so he drew one on the window.
+
+525
+00:27:08,160 --> 00:27:10,800
+You're saying that that is tantamount
+
+526
+00:27:10,800 --> 00:27:12,640
+to being the co-founder of the website?
+
+527
+00:27:12,640 --> 00:27:14,700
+- Folks, jury, I wanna ask you.
+
+528
+00:27:14,700 --> 00:27:18,700
+You looked me in the eye and you told me that I would be the co founder of
+
+529
+00:27:18,700 --> 00:27:19,300
+Diaper Talk.
+
+530
+00:27:19,300 --> 00:27:22,580
+Why do you think... There's no proof for that. Why do you think Mr. Zuckerberg...
+
+531
+00:27:22,580 --> 00:27:26,020
+Oh yeah, I recorded the entire thing in this movie and I put this...
+
+532
+00:27:26,020 --> 00:27:33,060
+Well, some of the details were changed, I guess, to reach a broader audience.
+
+533
+00:27:33,060 --> 00:27:36,540
+Why do you think he would leave that part out until I pressed him?
+
+534
+00:27:36,540 --> 00:27:39,500
+First of all, it's 'cause I'm a very good lawyer from New York City.
+
+535
+00:27:39,500 --> 00:27:44,220
+Second of all... Who likes to get fucked? No, I fucked my client,
+
+536
+00:27:44,340 --> 00:27:45,740
+sold at through a point
+
+537
+00:27:45,740 --> 00:27:47,940
+and if he does get fucked he doesn't like it
+
+538
+00:27:47,940 --> 00:27:50,700
+precisely
+
+539
+00:27:50,700 --> 00:27:55,620
+and just like everyone who gets a lot of that and that's fair
+
+540
+00:27:55,620 --> 00:27:59,460
+the that with that admission i would just like to jury to reconsider maybe
+
+541
+00:27:59,460 --> 00:28:00,500
+think a little more
+
+542
+00:28:00,500 --> 00:28:03,860
+more with a little bit more a critical thinking
+
+543
+00:28:03,860 --> 00:28:05,180
+uh... a guy
+
+544
+00:28:05,180 --> 00:28:06,900
+who can admit what's true
+
+545
+00:28:06,900 --> 00:28:08,540
+who throws stuff
+
+546
+00:28:08,540 --> 00:28:12,980
+at the other other people here in this sort of generally kind of obnoxious in
+
+547
+00:28:12,980 --> 00:28:19,420
+deserves a fucking smack. Who did he throw something at? Right. All right. So he's going
+
+548
+00:28:19,420 --> 00:28:27,260
+to roll a d20. Huh? Where's my whoa. Where is it? It's over here. Oh my God. You it's
+
+549
+00:28:27,260 --> 00:28:35,140
+worth him. Rish buffoon lawyer. My Lord, you stay. It's just keep reaching. So that's Patrick.
+
+550
+00:28:35,140 --> 00:28:36,140
+Patrick's.
+
+551
+00:28:36,140 --> 00:28:39,300
+Oh, you got it.
+
+552
+00:28:39,300 --> 00:28:42,780
+You're going to you're going to add a D6
+
+553
+00:28:42,780 --> 00:28:43,780
+because because
+
+554
+00:28:43,780 --> 00:28:46,500
+he lost the last one.
+
+555
+00:28:46,500 --> 00:28:48,420
+OK, I just roll a D6.
+
+556
+00:28:48,420 --> 00:28:50,680
+You're going to add that to this roll.
+
+557
+00:28:50,680 --> 00:28:51,220
+What I get?
+
+558
+00:28:51,220 --> 00:28:52,220
+Seven.
+
+559
+00:28:52,220 --> 00:28:54,140
+Four.
+
+560
+00:28:54,140 --> 00:28:55,340
+Yes.
+
+561
+00:28:55,340 --> 00:28:56,700
+All right.
+
+562
+00:28:56,700 --> 00:28:59,420
+You are fail.
+
+563
+00:28:59,420 --> 00:29:00,420
+No, I'm not.
+
+564
+00:29:00,420 --> 00:29:01,580
+The dice are fail.
+
+565
+00:29:01,580 --> 00:29:03,640
+Now, I'm not responsible.
+
+566
+00:29:03,660 --> 00:29:08,660
+I'd like to call my client to the stand, Mr. Eduardo Severino.
+
+567
+00:29:08,660 --> 00:29:10,980
+Come on up, get over here.
+
+568
+00:29:10,980 --> 00:29:11,920
+I'm up.
+
+569
+00:29:11,920 --> 00:29:14,040
+All right, thank you for coming.
+
+570
+00:29:14,040 --> 00:29:14,880
+No problem.
+
+571
+00:29:14,880 --> 00:29:16,260
+I'm still here, you're sitting on my lap.
+
+572
+00:29:16,260 --> 00:29:17,700
+No, he's not.
+
+573
+00:29:17,700 --> 00:29:19,660
+You can't just say what's happening.
+
+574
+00:29:19,660 --> 00:29:21,020
+Stop grinding on me, Eduardo.
+
+575
+00:29:21,020 --> 00:29:22,220
+Only I could do that.
+
+576
+00:29:22,220 --> 00:29:23,940
+Stop grinding on me, we're not best friends anymore.
+
+577
+00:29:23,940 --> 00:29:24,780
+You can't do this anymore.
+
+578
+00:29:24,780 --> 00:29:25,600
+Stop, stop.
+
+579
+00:29:25,600 --> 00:29:26,740
+Well, best friends don't do this.
+
+580
+00:29:26,740 --> 00:29:28,620
+I'm gonna have my hand on your cheek.
+
+581
+00:29:28,620 --> 00:29:30,580
+I feel like I have to stop this,
+
+582
+00:29:30,580 --> 00:29:32,660
+but I don't really know what the rules are here.
+
+583
+00:29:32,660 --> 00:29:33,540
+Okay, I'll leave.
+
+584
+00:29:33,540 --> 00:29:37,660
+please stop grinding. Isn't that just like you? Why don't you run off to
+
+585
+00:29:37,660 --> 00:29:38,500
+California
+
+586
+00:29:38,500 --> 00:29:43,440
+and don't get grinded on my by Mr. Eduardo
+
+587
+00:29:43,440 --> 00:29:49,800
+Serino? You have a name of a foster's home for imaginary friends character. I
+
+588
+00:29:49,800 --> 00:29:54,940
+don't want to hear from you. Is it true that you got accepted into the Charizard
+
+589
+00:29:54,940 --> 00:29:58,980
+Club? Yes, and I just my pants when it happened right. We heard that from
+
+590
+00:29:59,020 --> 00:30:04,440
+to Zuckerberg earlier. So, is it now true that when you got invited into the club you had
+
+591
+00:30:04,440 --> 00:30:09,860
+to perform a series of, you had to perform in a series of games for full admittance?
+
+592
+00:30:09,860 --> 00:30:17,540
+Yes. The Charizard Club is very exclusive and what I had to do was I had to, and it's
+
+593
+00:30:17,540 --> 00:30:22,740
+probably one of the coolest clubs at the school. Everyone, the people in these clubs, they
+
+594
+00:30:22,740 --> 00:30:25,380
+going to become movie stars, TV stars.
+
+595
+00:30:25,380 --> 00:30:27,220
+- So we flash back to this time.
+
+596
+00:30:27,220 --> 00:30:30,700
+So you, after, and it's unclear,
+
+597
+00:30:30,700 --> 00:30:34,140
+but did you actually help Zuck?
+
+598
+00:30:34,140 --> 00:30:36,440
+I think so, we think so, maybe.
+
+599
+00:30:36,440 --> 00:30:39,300
+But we go back to you getting let into the child's art club.
+
+600
+00:30:39,300 --> 00:30:41,500
+- Well, if we're talking about the window scene,
+
+601
+00:30:41,500 --> 00:30:43,580
+what happened there is I busted into his room
+
+602
+00:30:43,580 --> 00:30:45,420
+and I saw a picture of a diaper on his computer
+
+603
+00:30:45,420 --> 00:30:46,900
+and I just drew it on the window.
+
+604
+00:30:46,900 --> 00:30:48,860
+- Yeah, that did happen.
+
+605
+00:30:48,860 --> 00:30:49,860
+- Look what I drew!
+
+606
+00:30:49,860 --> 00:30:52,260
+Look!
+
+607
+00:30:52,260 --> 00:30:57,060
+And in the Charizard Club, there's a series of games you have to play.
+
+608
+00:30:57,060 --> 00:30:58,260
+Okay.
+
+609
+00:30:58,260 --> 00:31:02,260
+There's the burlap sack race, the egg and spoon race.
+
+610
+00:31:02,260 --> 00:31:02,560
+Yeah.
+
+611
+00:31:02,560 --> 00:31:05,760
+There's a three-legged race and there's limbo.
+
+612
+00:31:05,760 --> 00:31:08,260
+Yeah, and you have to do all of those.
+
+613
+00:31:08,260 --> 00:31:10,660
+Okay, to get into the Charizard Club.
+
+614
+00:31:10,660 --> 00:31:11,060
+Right.
+
+615
+00:31:11,060 --> 00:31:15,660
+So you show up there and it's like, "Hi, welcome to the Charizard Club."
+
+616
+00:31:15,660 --> 00:31:16,560
+Oh my God.
+
+617
+00:31:16,560 --> 00:31:17,860
+I can't believe I'm here.
+
+618
+00:31:18,660 --> 00:31:23,460
+The only way you're gonna get in is if you complete our races.
+
+619
+00:31:23,460 --> 00:31:24,960
+What a Chad!
+
+620
+00:31:24,960 --> 00:31:29,860
+So first it's a burlap sack race.
+
+621
+00:31:29,860 --> 00:31:30,360
+Okay.
+
+622
+00:31:30,360 --> 00:31:34,060
+This is gonna be a series of balance ball checks.
+
+623
+00:31:34,060 --> 00:31:34,560
+Okay.
+
+624
+00:31:34,560 --> 00:31:35,860
+That you're gonna have to make.
+
+625
+00:31:35,860 --> 00:31:36,360
+Alright.
+
+626
+00:31:36,360 --> 00:31:38,160
+So you're all lined up.
+
+627
+00:31:38,160 --> 00:31:38,660
+Yep.
+
+628
+00:31:38,660 --> 00:31:42,060
+You have two other challengers in the burlap sacks.
+
+629
+00:31:42,060 --> 00:31:44,860
+And yeah, start rolling.
+
+630
+00:31:44,860 --> 00:31:45,360
+Okay.
+
+631
+00:31:45,360 --> 00:31:45,860
+Ready?
+
+632
+00:31:45,860 --> 00:31:46,560
+Go.
+
+633
+00:31:47,160 --> 00:31:48,760
+That's a 19 plus one.
+
+634
+00:31:48,760 --> 00:31:50,620
+Alright, you beat the beat.
+
+635
+00:31:50,620 --> 00:31:52,300
+The first racer like handedly.
+
+636
+00:31:52,300 --> 00:31:53,700
+You don't even need to like check.
+
+637
+00:31:53,700 --> 00:31:56,500
+He was trying to hop is like oh no.
+
+638
+00:31:56,500 --> 00:31:58,700
+Nice try, but actually calculated
+
+639
+00:31:58,700 --> 00:31:59,940
+the physics of the bag.
+
+640
+00:31:59,940 --> 00:32:02,340
+And then now you race against the other guy.
+
+641
+00:32:02,340 --> 00:32:05,040
+That's a three.
+
+642
+00:32:05,040 --> 00:32:07,280
+Oh no, so the other guy
+
+643
+00:32:07,280 --> 00:32:08,640
+is able to get out in front of you.
+
+644
+00:32:08,640 --> 00:32:10,380
+You get one more chance to beat him though.
+
+645
+00:32:10,380 --> 00:32:11,740
+He's like I'm going to win this
+
+646
+00:32:11,740 --> 00:32:14,780
+because I'm fucking killing you bitch.
+
+647
+00:32:14,780 --> 00:32:17,080
+OK, well, alright, that's his name.
+
+648
+00:32:17,080 --> 00:32:21,680
+I'm fucking killing you bitch. His name's fucking killing you bitch. Ten. Oh
+
+649
+00:32:21,680 --> 00:32:28,500
+Man, and he wins he gets out in front of you. So that's the first challenge. Okay, that's only the first one next challenge
+
+650
+00:32:28,500 --> 00:32:33,080
+Of course, I knew they were gonna be hard next challenge is the egg balancing challenge. Okay, I got this one in the bag
+
+651
+00:32:33,080 --> 00:32:35,080
+I do this every morning
+
+652
+00:32:35,080 --> 00:32:40,920
+Five okay, you win against that same guy. He's like no
+
+653
+00:32:41,960 --> 00:32:48,000
+Can I kind of throw the egg at him? Yeah, you do. Yeah, he's gonna try to catch it. He does not catch it
+
+654
+00:32:48,000 --> 00:32:50,000
+I say oh that's gotta hurt
+
+655
+00:32:50,000 --> 00:32:53,880
+Yeah that too
+
+656
+00:32:53,880 --> 00:32:56,400
+Shut up, man
+
+657
+00:32:56,400 --> 00:32:59,920
+That's egg on my face. I'm rolling the next whatever the next thing is
+
+658
+00:32:59,920 --> 00:33:03,320
+Eight you beat him
+
+659
+00:33:03,320 --> 00:33:05,360
+Those are some really bad rules
+
+660
+00:33:06,400 --> 00:33:07,400
+insanely low rolls.
+
+661
+00:33:07,400 --> 00:33:08,760
+It's an exclusive club.
+
+662
+00:33:08,760 --> 00:33:09,760
+It's tough to get in.
+
+663
+00:33:09,760 --> 00:33:10,760
+Yeah.
+
+664
+00:33:10,760 --> 00:33:12,760
+Now, you can't get in with just any d20 roll.
+
+665
+00:33:12,760 --> 00:33:13,760
+The three-legged race.
+
+666
+00:33:13,760 --> 00:33:14,760
+Oh, fuck.
+
+667
+00:33:14,760 --> 00:33:17,920
+I've never been able to do this.
+
+668
+00:33:17,920 --> 00:33:22,080
+So this, you get a partner.
+
+669
+00:33:22,080 --> 00:33:23,200
+I've been practicing this one.
+
+670
+00:33:23,200 --> 00:33:28,020
+I can never get it to work.
+
+671
+00:33:28,020 --> 00:33:30,920
+Each of you get a partner in this three-legged race.
+
+672
+00:33:30,920 --> 00:33:31,920
+Here we go.
+
+673
+00:33:31,920 --> 00:33:33,360
+All right, that's another 20.
+
+674
+00:33:33,360 --> 00:33:34,360
+Wow.
+
+675
+00:33:34,360 --> 00:33:36,080
+A crit one by this guy.
+
+676
+00:33:36,080 --> 00:33:38,080
+This guy is now out of the remaining competitions.
+
+677
+00:33:38,080 --> 00:33:39,080
+Okay.
+
+678
+00:33:39,080 --> 00:33:40,080
+Yeah, because he died.
+
+679
+00:33:40,080 --> 00:33:41,080
+He died.
+
+680
+00:33:41,080 --> 00:33:42,080
+That's a net 20.
+
+681
+00:33:42,080 --> 00:33:43,080
+A net 20?
+
+682
+00:33:43,080 --> 00:33:44,080
+You clear this, you clear Limbo.
+
+683
+00:33:44,080 --> 00:33:45,080
+Crit one.
+
+684
+00:33:45,080 --> 00:33:46,080
+I died in the three-second race.
+
+685
+00:33:46,080 --> 00:33:57,080
+And then the school had to shut down the Charizard Club for ages.
+
+686
+00:33:57,080 --> 00:34:00,080
+It's a dangerous club.
+
+687
+00:34:00,080 --> 00:34:01,080
+They know what they're getting into.
+
+688
+00:34:01,080 --> 00:34:03,080
+Not just anyone can get in.
+
+689
+00:34:03,080 --> 00:34:06,080
+Actually, anyone can get into the Charizard Club.
+
+690
+00:34:06,080 --> 00:34:09,080
+And anyone who's listening is thinking, "Oh, that's not that hard."
+
+691
+00:34:09,080 --> 00:34:12,080
+That whole time, we were drinking beers.
+
+692
+00:34:12,080 --> 00:34:14,080
+I had two beers before Limbo.
+
+693
+00:34:14,080 --> 00:34:16,080
+I could get into the Charizard Club.
+
+694
+00:34:16,080 --> 00:34:17,080
+Then why didn't you, Mark?
+
+695
+00:34:17,080 --> 00:34:18,080
+Watch me.
+
+696
+00:34:18,080 --> 00:34:23,080
+I rolled a 16.
+
+697
+00:34:23,080 --> 00:34:24,080
+Plus my Charizard.
+
+698
+00:34:24,080 --> 00:34:28,080
+The jury is all like, "Yeah, maybe he can get into the Charizard Club. They're writing it down."
+
+699
+00:34:28,080 --> 00:34:29,080
+Then why didn't you?
+
+700
+00:34:29,080 --> 00:34:33,080
+Because I was busy creating the diaper talk.com.
+
+701
+00:34:33,080 --> 00:34:35,080
+Oh great, here we go again.
+
+702
+00:34:35,080 --> 00:34:36,080
+You fucking moronic.
+
+703
+00:34:36,080 --> 00:34:37,080
+So then we flash back.
+
+704
+00:34:37,080 --> 00:34:41,080
+He's just jealous of this Charizard club and that's why he made diaper talk I guess.
+
+705
+00:34:41,080 --> 00:34:42,080
+[Laughter]
+
+706
+00:34:42,080 --> 00:34:44,080
+Based on the ending of this.
+
+707
+00:34:44,080 --> 00:34:45,080
+Makes no sense.
+
+708
+00:34:45,080 --> 00:34:47,080
+We flash back to the courtroom.
+
+709
+00:34:47,080 --> 00:34:52,080
+Now as you can see, my client handedly got into the Charizard club.
+
+710
+00:34:52,080 --> 00:34:56,080
+Was cool as fuck. Everybody liked him. Everyone in Emerson liked him.
+
+711
+00:34:56,080 --> 00:34:58,080
+Nobody had any problems with him.
+
+712
+00:34:58,080 --> 00:35:02,080
+him. And the guy who died, probably gay.
+
+713
+00:35:02,080 --> 00:35:09,080
+I don't think that was ever proven.
+
+714
+00:35:09,080 --> 00:35:11,080
+What does that have to do with anything?
+
+715
+00:35:11,080 --> 00:35:16,080
+The jury's like, "Okay." They're trying to figure out what that meant.
+
+716
+00:35:16,080 --> 00:35:18,080
+Two of the jurors are just like...
+
+717
+00:35:22,080 --> 00:35:25,080
+So, you get a D8.
+
+718
+00:35:25,080 --> 00:35:27,080
+A date.
+
+719
+00:35:27,080 --> 00:35:30,080
+Mark was on a D8 when?
+
+720
+00:35:30,080 --> 00:35:32,080
+5, 19.
+
+721
+00:35:32,080 --> 00:35:34,080
+That's 24.
+
+722
+00:35:34,080 --> 00:35:38,080
+Now, a southern lawyer arrives on the scene.
+
+723
+00:35:38,080 --> 00:35:40,080
+Well, well, well.
+
+724
+00:35:40,080 --> 00:35:43,080
+Mr. Eduardo Saveron.
+
+725
+00:35:43,080 --> 00:35:46,080
+Is it true that you are Latino?
+
+726
+00:35:46,080 --> 00:35:47,080
+No.
+
+727
+00:35:47,080 --> 00:35:49,080
+That is confusing.
+
+728
+00:35:49,080 --> 00:35:51,080
+You're not Argentinian.
+
+729
+00:35:51,080 --> 00:35:52,080
+I don't know.
+
+730
+00:35:52,080 --> 00:35:55,080
+Or Chilean or one of those.
+
+731
+00:35:55,080 --> 00:35:56,080
+Brazilian.
+
+732
+00:35:56,080 --> 00:35:57,080
+Brazilian.
+
+733
+00:35:57,080 --> 00:36:01,080
+All I know is that I'm Jewish and I like Asian girls.
+
+734
+00:36:01,080 --> 00:36:02,080
+Swag.
+
+735
+00:36:02,080 --> 00:36:03,080
+Let that enter into the record.
+
+736
+00:36:03,080 --> 00:36:09,080
+Sort of an axiomatic type of statement I would say.
+
+737
+00:36:09,080 --> 00:36:12,080
+Now, Mr. Sovereign.
+
+738
+00:36:12,080 --> 00:36:13,080
+He's Brazilian.
+
+739
+00:36:13,080 --> 00:36:15,080
+Now you will never be.
+
+740
+00:36:15,080 --> 00:36:17,080
+I don't think he's Jewish at all.
+
+741
+00:36:17,080 --> 00:36:18,080
+He is Jewish.
+
+742
+00:36:18,080 --> 00:36:19,080
+He could be Jewish.
+
+743
+00:36:19,080 --> 00:36:20,080
+He is Jewish.
+
+744
+00:36:20,080 --> 00:36:21,480
+He's a... I have seen it.
+
+745
+00:36:21,480 --> 00:36:23,780
+You saw it recently and you didn't know he was Jewish?
+
+746
+00:36:23,780 --> 00:36:25,580
+Your brain bleeped out the word Jewish.
+
+747
+00:36:25,580 --> 00:36:27,880
+His whole thing is he goes to the party and he says like,
+
+748
+00:36:27,880 --> 00:36:29,280
+"Why do Jewish guys like Asian girls?"
+
+749
+00:36:29,280 --> 00:36:30,480
+That's his whole thing.
+
+750
+00:36:30,480 --> 00:36:31,580
+How many dates Brenda Song?
+
+751
+00:36:31,580 --> 00:36:33,680
+I thought he was just talking about his friend.
+
+752
+00:36:33,680 --> 00:36:36,380
+No. Why would he be at the Jewish fraternity's party?
+
+753
+00:36:36,380 --> 00:36:38,580
+Mark Zuckerberg never hooks up with an Asian girl in the movie.
+
+754
+00:36:38,580 --> 00:36:39,480
+He only marries one in real life.
+
+755
+00:36:39,480 --> 00:36:41,580
+That's not true. No, he hooks up with her in the bathroom as well.
+
+756
+00:36:41,580 --> 00:36:42,880
+Yeah, next to each other.
+
+757
+00:36:42,880 --> 00:36:43,780
+Yeah, they are.
+
+758
+00:36:43,780 --> 00:36:44,780
+Yes, they are.
+
+759
+00:36:44,780 --> 00:36:45,280
+Yes.
+
+760
+00:36:45,280 --> 00:36:46,280
+They're both Asian.
+
+761
+00:36:46,280 --> 00:36:46,780
+No shit.
+
+762
+00:36:46,780 --> 00:36:47,680
+Yes, dude.
+
+763
+00:36:47,680 --> 00:36:49,680
+I can't see Chinese, I guess, man.
+
+764
+00:36:49,680 --> 00:36:50,680
+We didn't say Chinese.
+
+765
+00:36:50,680 --> 00:36:51,680
+We didn't even say Chinese.
+
+766
+00:36:51,680 --> 00:36:53,680
+You're throwing all these specifics at him.
+
+767
+00:36:53,680 --> 00:36:54,680
+What's wrong?
+
+768
+00:36:54,680 --> 00:36:57,520
+He gets racist one second end of just mentioning Asian girls?
+
+769
+00:36:57,520 --> 00:36:58,520
+No.
+
+770
+00:36:58,520 --> 00:36:59,520
+You got racist first.
+
+771
+00:36:59,520 --> 00:37:00,520
+How do we get racist?
+
+772
+00:37:00,520 --> 00:37:01,520
+You said she wasn't Asian.
+
+773
+00:37:01,520 --> 00:37:02,520
+What?
+
+774
+00:37:02,520 --> 00:37:03,520
+She wasn't Asian.
+
+775
+00:37:03,520 --> 00:37:04,520
+She was Asian.
+
+776
+00:37:04,520 --> 00:37:07,340
+It was an Asian girl and her friend, Jubio?
+
+777
+00:37:07,340 --> 00:37:08,560
+It's two Asian women.
+
+778
+00:37:08,560 --> 00:37:09,560
+It's not.
+
+779
+00:37:09,560 --> 00:37:13,020
+Look up Brenda Song and Brenda Song's friend in the social network.
+
+780
+00:37:13,020 --> 00:37:14,020
+It's two Asian women.
+
+781
+00:37:14,020 --> 00:37:15,240
+I saw this on a flight.
+
+782
+00:37:15,240 --> 00:37:17,640
+The social network bathroom scene.
+
+783
+00:37:17,640 --> 00:37:18,880
+I don't want to watch that scene.
+
+784
+00:37:18,880 --> 00:37:20,880
+bathroom stall scene
+
+785
+00:37:20,880 --> 00:37:22,880
+we don't have to watch this scene
+
+786
+00:37:22,880 --> 00:37:24,880
+bathroom kissing scene with brenda song
+
+787
+00:37:24,880 --> 00:37:26,880
+hd
+
+788
+00:37:26,880 --> 00:37:28,880
+laughing
+
+789
+00:37:28,880 --> 00:37:32,880
+she's asian
+
+790
+00:37:32,880 --> 00:37:34,880
+go back we want to see your friend
+
+791
+00:37:34,880 --> 00:37:38,880
+ok then go forward i guess
+
+792
+00:37:38,880 --> 00:37:40,880
+we're cutting this out
+
+793
+00:37:40,880 --> 00:37:42,880
+i guess they don't show it
+
+794
+00:37:42,880 --> 00:37:44,880
+it's implied it's her friend from earlier
+
+795
+00:37:44,880 --> 00:37:46,880
+this scene is gross
+
+796
+00:37:46,880 --> 00:37:53,900
+Just go just look at the cast. No, this is too much. Just trust this is three against one it is. Yeah, I remember it
+
+797
+00:37:53,900 --> 00:37:56,140
+I watch Asian descent this actress
+
+798
+00:37:56,140 --> 00:38:00,760
+Well, I would like to
+
+799
+00:38:00,760 --> 00:38:10,080
+Eduardo Saverin is a South American
+
+800
+00:38:11,480 --> 00:38:18,520
+uh never mind now look what is going on i don't even know regardless of the ethnicity or nationality
+
+801
+00:38:18,520 --> 00:38:25,960
+sure you will never be as cool as the finger bros is that not true uh play the music again
+
+802
+00:38:25,960 --> 00:38:35,800
+what oh what okay let's restart this scene let's we're gonna restart this whole scene
+
+803
+00:38:35,800 --> 00:38:40,840
+we're gonna chop this didn't happen no i may not i know listen no listen we're not cutting
+
+804
+00:38:40,840 --> 00:38:53,940
+any of that out. Listen, you southern lawyer, I may not be as cool as the Finger Bros twins,
+
+805
+00:38:53,940 --> 00:38:58,300
+but I'm friends with one of the coolest guys in the world. Isn't that enough?
+
+806
+00:38:58,300 --> 00:38:59,860
+And who would that be?
+
+807
+00:38:59,860 --> 00:39:00,860
+Mark Zuckerberg.
+
+808
+00:39:00,860 --> 00:39:01,860
+Whoa.
+
+809
+00:39:01,860 --> 00:39:03,040
+Now, you're not friends with me.
+
+810
+00:39:03,040 --> 00:39:06,480
+I'm best friends with Mark Zuckerberg. The Mark Zuckerberg.
+
+811
+00:39:06,480 --> 00:39:13,480
+such low self-esteem really have contributed anything to something as magnificent as DiaperTalk?
+
+812
+00:39:13,480 --> 00:39:18,880
+I know I love DiaperTalk. I didn't know self-esteem was what you needed to contribute to a website.
+
+813
+00:39:18,880 --> 00:39:25,880
+I thought it was almost $1,500 worth of funding. Huh? Now, DiaperTalk.com, look, I'm wearing
+
+814
+00:39:25,880 --> 00:39:33,840
+my diapers right now. We're all here loving DiaperTalk.com. But could somebody not wear
+
+815
+00:39:34,280 --> 00:39:41,080
+a diaper. Thank you in public unless they are confident and I would say Mr.
+
+816
+00:39:41,080 --> 00:39:46,400
+Severin here is not confident enough. He puts himself down. He thinks it's good
+
+817
+00:39:46,400 --> 00:39:52,040
+enough to get into the Charizard Club while the finger bros. What are you
+
+818
+00:39:52,040 --> 00:39:58,120
+about to wear my diaper right? Are you the alien from X-Men? Not X-Men. What's
+
+819
+00:39:58,120 --> 00:39:59,240
+that movie? Men in Black?
+
+820
+00:40:01,440 --> 00:40:04,240
+I guess those southern lawyer wouldn't have seen those movies.
+
+821
+00:40:04,240 --> 00:40:04,640
+Maybe
+
+822
+00:40:04,640 --> 00:40:10,440
+that up to date animal. Yeah, he's a bird. No, you I'm filling up my
+
+823
+00:40:10,440 --> 00:40:11,140
+diaper.
+
+824
+00:40:11,140 --> 00:40:14,340
+Now my client loves his diaper.
+
+825
+00:40:14,340 --> 00:40:16,940
+Which one?
+
+826
+00:40:16,940 --> 00:40:21,640
+Yeah, I said my client, which one they are. They are one in the same.
+
+827
+00:40:21,640 --> 00:40:22,940
+He has proven this.
+
+828
+00:40:22,940 --> 00:40:24,140
+So hello
+
+829
+00:40:24,140 --> 00:40:27,840
+and now I would just like you to reconsider
+
+830
+00:40:28,640 --> 00:40:32,900
+as cool as it was for a dwarves ever into kill one of the children
+
+831
+00:40:32,900 --> 00:40:34,920
+in that three-legged race
+
+832
+00:40:34,920 --> 00:40:36,400
+we have to consider
+
+833
+00:40:36,400 --> 00:40:40,780
+that he admitted himself he is not cool enough to wear a diaper in public
+
+834
+00:40:40,780 --> 00:40:43,520
+and some might say that spin but
+
+835
+00:40:43,520 --> 00:40:46,280
+i think we've been spun around enough today
+
+836
+00:40:46,280 --> 00:40:49,480
+you can say that again i still can't believe we're here
+
+837
+00:40:49,480 --> 00:40:51,180
+and uh...
+
+838
+00:40:51,180 --> 00:40:56,300
+you're all the six you didn't fail anything in this one
+
+839
+00:40:56,300 --> 00:40:58,120
+like twins
+
+840
+00:40:58,120 --> 00:40:59,620
+Two is the twins number.
+
+841
+00:40:59,620 --> 00:41:00,820
+Two is twins.
+
+842
+00:41:00,820 --> 00:41:04,220
+All right, you did quite well here, Eduardo.
+
+843
+00:41:04,220 --> 00:41:07,220
+I thought you were going to say, what, whoa and huh?
+
+844
+00:41:07,220 --> 00:41:08,020
+Me?
+
+845
+00:41:08,020 --> 00:41:10,180
+Whoa and huh, yeah.
+
+846
+00:41:10,180 --> 00:41:11,340
+You did fail.
+
+847
+00:41:11,340 --> 00:41:12,660
+Did whoa and huh fail?
+
+848
+00:41:12,660 --> 00:41:14,300
+What did you get on your die?
+
+849
+00:41:14,300 --> 00:41:15,180
+A 200.
+
+850
+00:41:15,180 --> 00:41:15,700
+Two.
+
+851
+00:41:15,700 --> 00:41:16,980
+You got a two.
+
+852
+00:41:16,980 --> 00:41:20,620
+Seems like not everything's working out for the finger
+
+853
+00:41:20,620 --> 00:41:22,380
+winkle-ers.
+
+854
+00:41:22,380 --> 00:41:24,060
+Finger bros.
+
+855
+00:41:24,060 --> 00:41:25,820
+We're called the Finger Bros twins.
+
+856
+00:41:25,820 --> 00:41:26,820
+The Finger Bros twins.
+
+857
+00:41:26,820 --> 00:41:28,220
+And we're named "huh" and "whoa."
+
+858
+00:41:28,220 --> 00:41:30,480
+(snickers)
+
+859
+00:41:30,480 --> 00:41:32,360
+All right.
+
+860
+00:41:32,360 --> 00:41:34,720
+Now, we're gonna--
+
+861
+00:41:34,720 --> 00:41:36,760
+And our lawyer is a bird.
+
+862
+00:41:36,760 --> 00:41:37,600
+I would like to--
+
+863
+00:41:37,600 --> 00:41:38,960
+And the judge is a frog.
+
+864
+00:41:38,960 --> 00:41:41,240
+I would like to call my client to the stand.
+
+865
+00:41:41,240 --> 00:41:43,080
+And one of the lawyers is a frog, too.
+
+866
+00:41:43,080 --> 00:41:44,200
+Enough with this farm animal--
+
+867
+00:41:44,200 --> 00:41:46,380
+Your lawyers are frogs.
+
+868
+00:41:46,380 --> 00:41:48,080
+Kind of shenanigans, please come to the stand.
+
+869
+00:41:48,080 --> 00:41:49,600
+And his lawyer is a woman.
+
+870
+00:41:49,600 --> 00:41:51,560
+Huh?
+
+871
+00:41:51,560 --> 00:41:52,640
+Come on!
+
+872
+00:41:52,640 --> 00:41:54,120
+Whoa, okay.
+
+873
+00:41:56,040 --> 00:42:00,360
+strokes aside, I would like to ask you now a few questions.
+
+874
+00:42:00,360 --> 00:42:01,360
+Huh?
+
+875
+00:42:01,360 --> 00:42:02,360
+Whoa.
+
+876
+00:42:02,360 --> 00:42:03,360
+Both of you.
+
+877
+00:42:03,360 --> 00:42:04,360
+Huh?
+
+878
+00:42:04,360 --> 00:42:05,360
+Whoa.
+
+879
+00:42:05,360 --> 00:42:08,720
+Hold on, you're literally confusing me in real life.
+
+880
+00:42:08,720 --> 00:42:09,840
+I'm trying to write something.
+
+881
+00:42:09,840 --> 00:42:13,120
+Sorry, we couldn't see each other because we're sitting next to each other and not face
+
+882
+00:42:13,120 --> 00:42:15,100
+to face.
+
+883
+00:42:15,100 --> 00:42:16,840
+Can we sit face to face?
+
+884
+00:42:16,840 --> 00:42:19,040
+You may sit however you need to.
+
+885
+00:42:19,040 --> 00:42:20,800
+I'll allow it.
+
+886
+00:42:20,800 --> 00:42:29,800
+Now, is it true, twins, that you met Mr. Zuckerberg after a regatta?
+
+887
+00:42:29,800 --> 00:42:30,800
+That's confusing. I can't do it.
+
+888
+00:42:30,800 --> 00:42:33,800
+You just turn back. You don't even have to look at that. You just turn back and forth,
+
+889
+00:42:33,800 --> 00:42:34,800
+and he'll switch it for you.
+
+890
+00:42:34,800 --> 00:42:36,800
+After a regatta.
+
+891
+00:42:36,800 --> 00:42:39,800
+Huh?
+
+892
+00:42:39,800 --> 00:42:42,800
+We flash back to the regatta. This is impossible.
+
+893
+00:42:42,800 --> 00:42:46,800
+We flash back to the regatta.
+
+894
+00:42:46,800 --> 00:42:48,800
+You are facing...
+
+895
+00:42:48,800 --> 00:42:49,800
+And we're all eating cheese.
+
+896
+00:42:49,800 --> 00:42:52,640
+Cheese is it all filmed in fucking tilt shift
+
+897
+00:42:52,640 --> 00:42:54,540
+and it looks like toys in a water?
+
+898
+00:42:54,540 --> 00:42:57,700
+Yes, it is all filmed in tilt shift and it's you.
+
+899
+00:42:57,700 --> 00:43:00,940
+It's Emerson University's regatta
+
+900
+00:43:00,940 --> 00:43:04,540
+crew team versus the venerable,
+
+901
+00:43:04,540 --> 00:43:08,840
+but much less intelligent Harvard University's regatta team.
+
+902
+00:43:08,840 --> 00:43:16,540
+Huh? Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa.
+
+903
+00:43:16,540 --> 00:43:23,540
+- 9 plus, that is 11.
+
+904
+00:43:23,540 --> 00:43:30,540
+- Okay. Roll bounce ball.
+
+905
+00:43:30,540 --> 00:43:33,540
+- 15.
+
+906
+00:43:33,540 --> 00:43:38,540
+- You just barely beat the Harvard team as you go by them.
+
+907
+00:43:38,540 --> 00:43:44,540
+It's your last push and that last ha and that last whoa gets you just over the edge.
+
+908
+00:43:44,540 --> 00:43:47,540
+You're feeling pretty good, you're feeling pretty high on that.
+
+909
+00:43:47,540 --> 00:43:51,540
+You get back to campus, sprawling Emerson campus.
+
+910
+00:43:51,540 --> 00:43:54,540
+Who wants to see me kiss my brother?
+
+911
+00:43:54,540 --> 00:43:58,540
+And who is, none other than, maybe one person does.
+
+912
+00:43:58,540 --> 00:44:00,540
+I guess I'd like to see that.
+
+913
+00:44:00,540 --> 00:44:02,540
+Whoa! Look who it is!
+
+914
+00:44:02,540 --> 00:44:03,540
+Now, is it-
+
+915
+00:44:03,540 --> 00:44:04,540
+That's Mark Zuckerberg!
+
+916
+00:44:04,540 --> 00:44:13,540
+Is it true that you then asked Mr. Zuckerberg to help you design a website that you called, I believe, ABL?
+
+917
+00:44:13,540 --> 00:44:16,540
+- Abdltwinks.com.
+
+918
+00:44:16,540 --> 00:44:19,020
+- Abdltwinks.com.
+
+919
+00:44:19,020 --> 00:44:23,700
+- Well, not before we asked him if he wants to watch us kiss.
+
+920
+00:44:23,700 --> 00:44:25,700
+- As we go back and you say,
+
+921
+00:44:25,700 --> 00:44:27,460
+- Do you want to watch us kiss?
+
+922
+00:44:27,460 --> 00:44:29,080
+We'll give you this sandwich.
+
+923
+00:44:29,080 --> 00:44:34,860
+- I guess I'm a little hungry.
+
+924
+00:44:34,860 --> 00:44:35,860
+Yeah, sure.
+
+925
+00:44:35,860 --> 00:44:37,540
+- Okay.
+
+926
+00:44:37,540 --> 00:44:38,860
+Now come here, huh?
+
+927
+00:44:41,220 --> 00:44:43,460
+(laughter)
+
+928
+00:44:43,460 --> 00:44:48,260
+- Please, overruled, please stop, please.
+
+929
+00:44:48,260 --> 00:44:50,660
+- Oh my God, we started kissing in court.
+
+930
+00:44:50,660 --> 00:44:51,880
+- I'm listening to this.
+
+931
+00:44:51,880 --> 00:44:54,360
+- I need to,
+
+932
+00:44:54,360 --> 00:44:58,820
+you're gonna make Rashida Jones leave, I need this to stop.
+
+933
+00:44:58,820 --> 00:45:00,220
+- No, Rashida Jones likes it.
+
+934
+00:45:00,220 --> 00:45:01,420
+- Girls like that kind of shit.
+
+935
+00:45:01,420 --> 00:45:02,260
+- Oh, they don't?
+
+936
+00:45:02,260 --> 00:45:03,080
+- Yeah.
+
+937
+00:45:03,080 --> 00:45:03,920
+- Do they like that?
+
+938
+00:45:03,920 --> 00:45:04,760
+- Girls like guys kissing like girls kissing.
+
+939
+00:45:04,760 --> 00:45:07,020
+- Girls like twin brothers kissing.
+
+940
+00:45:07,020 --> 00:45:07,860
+- Isn't that crazy?
+
+941
+00:45:07,860 --> 00:45:08,700
+- Do they actually?
+
+942
+00:45:08,700 --> 00:45:09,520
+- They actually do.
+
+943
+00:45:09,520 --> 00:45:10,860
+- Especially when it's twin brothers.
+
+944
+00:45:10,860 --> 00:45:26,540
+is
+
+945
+00:45:26,540 --> 00:45:27,540
+I'm eating my sandwich.
+
+946
+00:45:27,540 --> 00:45:28,780
+You're eating your sandwich, you're watching them kiss.
+
+947
+00:45:28,780 --> 00:45:30,420
+I'm not even really watching them kiss.
+
+948
+00:45:30,420 --> 00:45:35,340
+I think, actually I'm watching them kiss and I decide that I'm not hungry anymore so I put
+
+949
+00:45:35,340 --> 00:45:37,580
+the sandwich on the ground.
+
+950
+00:45:37,580 --> 00:45:41,500
+So I'm five blocks away and I'm looking through a telescope into this room.
+
+951
+00:45:41,500 --> 00:45:43,660
+We're in the Boston Com and me and the finger roast ones.
+
+952
+00:45:43,660 --> 00:45:50,460
+Is it not true then that you asked him to help you design a website after of course he had
+
+953
+00:45:50,460 --> 00:45:56,780
+put down his sandwich and after you had sucked face here to fall with your brother huh whoa
+
+954
+00:45:56,780 --> 00:46:02,860
+depending on which one I'm talking to right now which is unclear at all times. Can you
+
+955
+00:46:02,860 --> 00:46:07,900
+repeat the question? Did you then ask him to make a website? I asked him to design a
+
+956
+00:46:07,900 --> 00:46:20,380
+website. Could you let's go back in time together. Okay. Do you have a machine? No I'm
+
+957
+00:46:20,380 --> 00:46:24,280
+man. Oh shit. You're getting so confused. You're breaking the
+
+958
+00:46:24,280 --> 00:46:28,380
+whole thing. Please talk to Mr. Zuckerberg in the past. Now
+
+959
+00:46:28,380 --> 00:46:31,480
+talk to him in the past. Are we going to use a time machine?
+
+960
+00:46:31,480 --> 00:46:32,880
+Stupid in real life.
+
+961
+00:46:32,880 --> 00:46:35,480
+It's going to drive me crazy.
+
+962
+00:46:35,480 --> 00:46:38,280
+Hello.
+
+963
+00:46:38,280 --> 00:46:40,080
+What's up, man?
+
+964
+00:46:40,080 --> 00:46:46,980
+Whoa, I forgot what we were talking about. Do you want to
+
+965
+00:46:46,980 --> 00:46:48,580
+watch me kiss my brother again?
+
+966
+00:46:49,180 --> 00:46:53,980
+we already did that on I'm late. After, of course, we fast forward to you want
+
+967
+00:46:53,980 --> 00:46:56,020
+to watch us eat a sandwich together
+
+968
+00:46:56,020 --> 00:46:59,340
+and
+
+969
+00:46:59,340 --> 00:47:08,020
+then my brother eats the other end and then what happens when you meet in the
+
+970
+00:47:08,020 --> 00:47:08,300
+middle?
+
+971
+00:47:08,300 --> 00:47:09,860
+Huh?
+
+972
+00:47:09,860 --> 00:47:11,180
+What?
+
+973
+00:47:11,180 --> 00:47:14,220
+No, whoa, no, huh?
+
+974
+00:47:14,220 --> 00:47:15,860
+What?
+
+975
+00:47:16,980 --> 00:47:23,840
+Now Abbott and Costello routine aside, you do admit that Mr. Zuckerberg then
+
+976
+00:47:23,840 --> 00:47:29,560
+absconded with your design plans. Well, if we look at the flashback, that never
+
+977
+00:47:29,560 --> 00:47:30,000
+happened.
+
+978
+00:47:30,000 --> 00:47:34,540
+He is making it very difficult for me. That never once... I'd like to say this
+
+979
+00:47:34,540 --> 00:47:40,300
+to the jury, we did the whole flashback, that never even got close to happening.
+
+980
+00:47:40,300 --> 00:47:43,940
+He kissed his brother, they gave me a sandwich and I didn't eat the rest of
+
+981
+00:47:43,940 --> 00:47:45,300
+it. I remember.
+
+982
+00:47:45,300 --> 00:47:49,700
+"We're gonna need a time machine."
+
+983
+00:47:49,700 --> 00:47:53,140
+She doesn't even bother talking to him.
+
+984
+00:47:53,140 --> 00:47:58,300
+She's like, "As you can see, this man is not capable of, sorry, these men are not really
+
+985
+00:47:58,300 --> 00:48:01,340
+capable of doing much of anything."
+
+986
+00:48:01,340 --> 00:48:02,340
+"Huh?"
+
+987
+00:48:02,340 --> 00:48:03,340
+"Whoa."
+
+988
+00:48:03,340 --> 00:48:06,340
+"No, I'm huh."
+
+989
+00:48:06,340 --> 00:48:12,420
+"I want you to ask yourself, despite them winning a regatta, after that scene that, frankly,
+
+990
+00:48:12,420 --> 00:48:15,920
+I could never have anticipated being how that played out.
+
+991
+00:48:15,920 --> 00:48:18,560
+You really think they could make a website?
+
+992
+00:48:18,560 --> 00:48:21,560
+I think I bit off more than I could chew playing these characters.
+
+993
+00:48:21,560 --> 00:48:23,700
+You roll roll a D8.
+
+994
+00:48:23,700 --> 00:48:26,140
+That has to be with this me. Yeah. OK.
+
+995
+00:48:26,140 --> 00:48:29,300
+Yeah. You get to add a D8 to this roll.
+
+996
+00:48:29,300 --> 00:48:31,080
+Which is this. Yes.
+
+997
+00:48:31,080 --> 00:48:33,740
+One.
+
+998
+00:48:33,740 --> 00:48:37,840
+Damn, I got fucked.
+
+999
+00:48:37,840 --> 00:48:38,780
+I got actually fired.
+
+1000
+00:48:38,780 --> 00:48:41,320
+Everything. The jury just thinks the twins are handsome.
+
+1001
+00:48:42,080 --> 00:48:45,080
+The jury's just, the jury really wants to watch the kids.
+
+1002
+00:48:45,080 --> 00:48:48,080
+It's a jury of all women.
+
+1003
+00:48:48,080 --> 00:48:51,080
+[Laughter]
+
+1004
+00:48:51,080 --> 00:48:53,080
+It's the worst jury in history.
+
+1005
+00:48:53,080 --> 00:48:55,080
+It's a jury of all women who like that.
+
+1006
+00:48:55,080 --> 00:48:58,080
+Yeah, it's a jury of female anime fans.
+
+1007
+00:48:58,080 --> 00:49:00,080
+[Laughter]
+
+1008
+00:49:00,080 --> 00:49:03,080
+Um, cool. So...
+
+1009
+00:49:03,080 --> 00:49:06,080
+Um, sorry, Juvia, where are we at on time?
+
+1010
+00:49:06,080 --> 00:49:08,080
+49 minutes.
+
+1011
+00:49:08,080 --> 00:49:10,080
+49? Okay, cool, just making sure.
+
+1012
+00:49:10,080 --> 00:49:13,080
+He never started the timer like he said he was going to.
+
+1013
+00:49:13,080 --> 00:49:14,080
+No, that's not what I was trying to do.
+
+1014
+00:49:14,080 --> 00:49:15,080
+True.
+
+1015
+00:49:15,080 --> 00:49:16,080
+Should be his trial.
+
+1016
+00:49:16,080 --> 00:49:19,080
+We're going to shift this to the trial of Jubio.
+
+1017
+00:49:19,080 --> 00:49:20,080
+No, don't do that.
+
+1018
+00:49:20,080 --> 00:49:21,080
+Okay.
+
+1019
+00:49:21,080 --> 00:49:23,080
+So, okay, cool.
+
+1020
+00:49:23,080 --> 00:49:28,080
+So now I'm going to do some math here.
+
+1021
+00:49:28,080 --> 00:49:32,080
+Okay.
+
+1022
+00:49:32,080 --> 00:49:34,080
+Cool.
+
+1023
+00:49:34,080 --> 00:49:36,080
+Why don't you save the math for your free time?
+
+1024
+00:49:36,080 --> 00:49:37,080
+Sorry, yeah, I will.
+
+1025
+00:49:37,080 --> 00:49:38,080
+Okay, cool.
+
+1026
+00:49:38,080 --> 00:49:41,600
+cool. We're going to move on to, we're going to take a quick
+
+1027
+00:49:41,600 --> 00:49:45,400
+court recess and then they come back and Sullivan bangs on the
+
+1028
+00:49:45,400 --> 00:49:48,440
+gavel. He says, all right, that was the first part. That was
+
+1029
+00:49:48,440 --> 00:49:52,160
+pretty interesting. We learned a lot about everybody here. Um,
+
+1030
+00:49:52,160 --> 00:49:55,680
+now, uh, we're going to move forward in this, this here tale.
+
+1031
+00:49:55,680 --> 00:50:00,520
+So Mr. Mr. Um, Mr. Zuckerberg, if you can please take the stand
+
+1032
+00:50:00,520 --> 00:50:08,040
+once again. Okay. Now, Mark, I want you to tell me about
+
+1033
+00:50:08,040 --> 00:50:10,040
+Every lawyer is riveted.
+
+1034
+00:50:10,040 --> 00:50:12,040
+That was not me.
+
+1035
+00:50:12,040 --> 00:50:14,040
+It was you, we all saw it.
+
+1036
+00:50:14,040 --> 00:50:16,040
+We all saw it come out of your mouth.
+
+1037
+00:50:16,040 --> 00:50:18,040
+No, don't do that. He did that.
+
+1038
+00:50:18,040 --> 00:50:20,040
+I want to
+
+1039
+00:50:20,040 --> 00:50:22,040
+talk about the time when
+
+1040
+00:50:22,040 --> 00:50:24,040
+you've met superstar computer
+
+1041
+00:50:24,040 --> 00:50:26,040
+genius, Dylan
+
+1042
+00:50:26,040 --> 00:50:28,040
+in Palo Alto.
+
+1043
+00:50:28,040 --> 00:50:30,040
+(laughter)
+
+1044
+00:50:30,040 --> 00:50:32,040
+(laughter)
+
+1045
+00:50:32,040 --> 00:50:34,040
+(laughter)
+
+1046
+00:50:34,040 --> 00:50:36,040
+What do you want me to say?
+
+1047
+00:50:36,040 --> 00:50:40,740
+Dylan has to be the coolest guy I've ever met in my entire life. He's not
+
+1048
+00:50:40,740 --> 00:50:45,440
+even cool. Shut the fuck. You know he's cool. We've got star shirt is lame.
+
+1049
+00:50:45,440 --> 00:50:47,040
+The whole
+
+1050
+00:50:47,040 --> 00:50:52,520
+if you want to see what a real cool guy looks like. It's a guy who wears a
+
+1051
+00:50:52,520 --> 00:50:56,760
+black shirt and a black suit jacket and pulls the top button really far open
+
+1052
+00:50:56,760 --> 00:51:01,800
+and he wears that around all day every day with the collar popped. Yep, that
+
+1053
+00:51:01,820 --> 00:51:04,460
+is cool. I know Dylan from TV.
+
+1054
+00:51:04,460 --> 00:51:08,660
+So we flash back to a dinner between
+
+1055
+00:51:08,660 --> 00:51:15,020
+Zuck, Eduardo, and guess who shows up right on time, by the way,
+
+1056
+00:51:15,020 --> 00:51:18,340
+not late at all, he's early, actually, Dylan.
+
+1057
+00:51:18,340 --> 00:51:24,700
+Wow, you're the guy who's making diaper talk, right? Yeah. And me.
+
+1058
+00:51:24,700 --> 00:51:30,820
+That's great. And me. I do it really loud and everyone in the restaurant
+
+1059
+00:51:30,820 --> 00:51:36,820
+I put some money into it.
+
+1060
+00:51:36,820 --> 00:51:37,820
+That's awesome.
+
+1061
+00:51:37,820 --> 00:51:39,820
+So why don't you tell me about it?
+
+1062
+00:51:39,820 --> 00:51:42,820
+Well, basically I took some money that I had from my dad
+
+1063
+00:51:42,820 --> 00:51:46,820
+and I put it into a bank account and I was able to use that money
+
+1064
+00:51:46,820 --> 00:51:48,820
+to pay for some stuff.
+
+1065
+00:51:48,820 --> 00:51:49,820
+Okay.
+
+1066
+00:51:49,820 --> 00:51:50,820
+That's cool.
+
+1067
+00:51:50,820 --> 00:51:52,820
+What about you?
+
+1068
+00:51:52,820 --> 00:51:53,820
+He's my friend.
+
+1069
+00:51:53,820 --> 00:51:54,820
+I mean,
+
+1070
+00:51:54,820 --> 00:51:59,820
+Dylan starts to play with his fork a little bit.
+
+1071
+00:51:59,820 --> 00:52:03,820
+little bit. He's sort of like, um, uh, uh, I mean, what is there to say?
+
+1072
+00:52:03,820 --> 00:52:07,620
+We're changing the world. That's why I wanted to talk to you, man.
+
+1073
+00:52:07,620 --> 00:52:10,780
+I think you gotta come out to California.
+
+1074
+00:52:10,780 --> 00:52:15,580
+There's a lot of stars you can see out here, including me. That's, I mean,
+
+1075
+00:52:15,580 --> 00:52:19,420
+I do love movie stars, but I wait,
+
+1076
+00:52:19,420 --> 00:52:21,100
+I already live with my roommates.
+
+1077
+00:52:21,100 --> 00:52:24,540
+Isn't California like too warm?
+
+1078
+00:52:24,540 --> 00:52:27,660
+I don't think it's too warm.
+
+1079
+00:52:29,500 --> 00:52:32,700
+I don't want to leave my roommate wait is aren't the houses. They're really big.
+
+1080
+00:52:32,700 --> 00:52:41,000
+I might come to California, but as of right now, no man, there's movie stars
+
+1081
+00:52:41,000 --> 00:52:41,600
+there.
+
+1082
+00:52:41,600 --> 00:52:46,240
+Why do we want to live in California and where is making a lot of good points?
+
+1083
+00:52:46,240 --> 00:52:49,340
+Plus, I don't I don't want to leave my roommates Dante and Stan.
+
+1084
+00:52:49,340 --> 00:52:59,480
+Yeah, we won't be moving to California anytime soon, but in but I could be
+
+1085
+00:52:59,480 --> 00:53:05,880
+convinced on that was called sarcasm Dylan. No, I'm not being sarcastic.
+
+1086
+00:53:05,880 --> 00:53:10,180
+That's being sarcastic right now. That's his classic sarcastic wit. Okay,
+
+1087
+00:53:10,180 --> 00:53:12,180
+you roll.
+
+1088
+00:53:12,180 --> 00:53:17,080
+Sorry, you roll talking. Okay.
+
+1089
+00:53:17,080 --> 00:53:21,580
+That's a net 20. Fuck me.
+
+1090
+00:53:21,580 --> 00:53:29,380
+Every versus fucking campaign. I get fucking destroyed for no reason.
+
+1091
+00:53:29,380 --> 00:53:33,820
+It's okay though, because we're still friends, despite it all.
+
+1092
+00:53:33,820 --> 00:53:36,300
+If you don't want to go to California, I get it.
+
+1093
+00:53:36,300 --> 00:53:39,100
+I mean, it's pretty nice here though.
+
+1094
+00:53:39,100 --> 00:53:42,980
+I basically wear the same shirt every day.
+
+1095
+00:53:42,980 --> 00:53:43,980
+Okay.
+
+1096
+00:53:43,980 --> 00:53:49,260
+You wear the same shirt every day?
+
+1097
+00:53:49,260 --> 00:53:53,940
+Chicken fingers here are really good.
+
+1098
+00:53:53,940 --> 00:53:54,940
+Can I have a bite?
+
+1099
+00:53:54,940 --> 00:53:59,280
+Wait, could you get chicken fingers for the whole table?
+
+1100
+00:53:59,280 --> 00:54:00,280
+it.
+
+1101
+00:54:00,280 --> 00:54:01,840
+And uh, yeah, he said,
+
+1102
+00:54:01,840 --> 00:54:02,840
+Eduardo.
+
+1103
+00:54:02,840 --> 00:54:03,840
+Edmundo.
+
+1104
+00:54:03,840 --> 00:54:07,400
+Do you see how cool Dylan is?
+
+1105
+00:54:07,400 --> 00:54:09,680
+He's getting his chicken tenders with honey mustard for the entire table.
+
+1106
+00:54:09,680 --> 00:54:10,680
+The waiter goes by the table.
+
+1107
+00:54:10,680 --> 00:54:11,680
+He's not cool at all.
+
+1108
+00:54:11,680 --> 00:54:13,720
+He stands up to say hi to the waiter.
+
+1109
+00:54:13,720 --> 00:54:14,720
+What we need.
+
+1110
+00:54:14,720 --> 00:54:15,720
+He sits down.
+
+1111
+00:54:15,720 --> 00:54:19,280
+Look how fucking cool Dylan is.
+
+1112
+00:54:19,280 --> 00:54:22,400
+He like forgets for a second how he's supposed to do stuff.
+
+1113
+00:54:22,400 --> 00:54:26,120
+Dylan's shirt may be cool, but he's not business smart.
+
+1114
+00:54:26,120 --> 00:54:31,280
+What we need is ads for vacuums and sex.
+
+1115
+00:54:31,280 --> 00:54:32,600
+We don't need chicken fingers.
+
+1116
+00:54:32,600 --> 00:54:34,120
+Bro, I hate to say this.
+
+1117
+00:54:34,120 --> 00:54:37,120
+A whole bunch of chicken fingers come to the table.
+
+1118
+00:54:37,120 --> 00:54:38,120
+Oh great.
+
+1119
+00:54:38,120 --> 00:54:45,440
+And uh, I'm allergic to fucking chicken.
+
+1120
+00:54:45,440 --> 00:54:48,280
+I can't even be near that stuff.
+
+1121
+00:54:48,280 --> 00:54:50,320
+Send it back to the kitchen.
+
+1122
+00:54:50,320 --> 00:54:52,600
+I can get you fries.
+
+1123
+00:54:52,600 --> 00:54:53,880
+They usually come with fries.
+
+1124
+00:54:53,880 --> 00:54:56,000
+Okay, I'll have fries.
+
+1125
+00:54:56,000 --> 00:54:59,200
+I'll pay for them myself with my own bank account.
+
+1126
+00:54:59,200 --> 00:55:00,200
+Cheese fries!
+
+1127
+00:55:00,200 --> 00:55:01,200
+Cheese fries!
+
+1128
+00:55:01,200 --> 00:55:02,200
+You're so right, Dylan.
+
+1129
+00:55:02,200 --> 00:55:03,200
+Yeah!
+
+1130
+00:55:03,200 --> 00:55:07,880
+And he's so excited that cheese fries come.
+
+1131
+00:55:07,880 --> 00:55:10,760
+And so we go back to the courtroom.
+
+1132
+00:55:10,760 --> 00:55:17,600
+Now while Eduardo made a pretty good argument though, you did eventually head to California,
+
+1133
+00:55:17,600 --> 00:55:19,600
+that's correct, right?
+
+1134
+00:55:19,600 --> 00:55:22,300
+Eventually Dylan did convince me.
+
+1135
+00:55:22,300 --> 00:55:27,900
+That was when we started what we like to call our long distance best friendship.
+
+1136
+00:55:27,900 --> 00:55:29,540
+Let's see what that looked like.
+
+1137
+00:55:29,540 --> 00:55:31,540
+Okay, we cut.
+
+1138
+00:55:31,540 --> 00:55:32,540
+Cut to you're in New York.
+
+1139
+00:55:32,540 --> 00:55:33,540
+I'm in New York.
+
+1140
+00:55:33,540 --> 00:55:34,540
+You're in New York.
+
+1141
+00:55:34,540 --> 00:55:35,540
+I'm doing an internship.
+
+1142
+00:55:35,540 --> 00:55:36,540
+Where are you doing an internship?
+
+1143
+00:55:36,540 --> 00:55:37,540
+Where are you doing an internship?
+
+1144
+00:55:37,540 --> 00:55:40,540
+I'm doing an internship at the business.
+
+1145
+00:55:40,540 --> 00:55:41,540
+Barstool.
+
+1146
+00:55:41,540 --> 00:55:46,620
+You're selling ads at Barstool?
+
+1147
+00:55:46,620 --> 00:55:48,780
+Yeah, I'm selling.
+
+1148
+00:55:48,780 --> 00:55:49,780
+I'm on the phone.
+
+1149
+00:55:49,780 --> 00:55:54,860
+I'm like I'm doing some kind of job that I'm doing. I'm like a telephone switchboard operator.
+
+1150
+00:55:54,860 --> 00:55:59,020
+Like I have like the wires that you have to plug into stuff. I'm a job that doesn't exist
+
+1151
+00:55:59,020 --> 00:56:06,660
+anymore. Right. Yeah. And I'm like wow this is what it's really like. Oh my God. This
+
+1152
+00:56:06,660 --> 00:56:13,380
+is what it's like to run a business. I'm shoveling coal into it. We're cutting to California.
+
+1153
+00:56:13,380 --> 00:56:18,980
+You are just hanging out by the pool and you're in Dylan's pad now.
+
+1154
+00:56:18,980 --> 00:56:19,980
+Where is it?
+
+1155
+00:56:19,980 --> 00:56:20,980
+Except that pina colada.
+
+1156
+00:56:20,980 --> 00:56:21,980
+He's not a frog.
+
+1157
+00:56:21,980 --> 00:56:22,980
+What?
+
+1158
+00:56:22,980 --> 00:56:28,460
+Yeah, there's, well, first of all, Dylan has tons of like that canned pina colada stuff.
+
+1159
+00:56:28,460 --> 00:56:29,940
+It's so good.
+
+1160
+00:56:29,940 --> 00:56:30,940
+Yeah.
+
+1161
+00:56:30,940 --> 00:56:35,960
+His house has got, has a, he has a water slide.
+
+1162
+00:56:35,960 --> 00:56:37,260
+Now I'm going down the water slide.
+
+1163
+00:56:37,260 --> 00:56:39,380
+Going down the water slide.
+
+1164
+00:56:39,380 --> 00:56:40,380
+And uh...
+
+1165
+00:56:40,380 --> 00:56:41,380
+Head first.
+
+1166
+00:56:41,380 --> 00:56:42,380
+On the belly.
+
+1167
+00:56:42,380 --> 00:56:46,820
+that but not me. He brings you into his his theater and he's like every single
+
+1168
+00:56:46,820 --> 00:56:53,900
+Star Wars movie in order. Let's do it Dylan press play right now. Press play
+
+1169
+00:56:53,900 --> 00:56:58,300
+up but we got to start with the Clone Wars animated series. I love that shit.
+
+1170
+00:56:58,300 --> 00:57:03,340
+Yeah okay and then right then the doorbell rings. Yep ding dong. Wait I'll
+
+1171
+00:57:03,340 --> 00:57:07,380
+go get the door. Okay you open the door it's a beautiful sunny California day.
+
+1172
+00:57:07,380 --> 00:57:10,320
+way I'm soaking wet covered in coal,
+
+1173
+00:57:10,320 --> 00:57:17,960
+and I'm like Mark, you haven't replied to my emojis. Wait, Eduardo, I thought
+
+1174
+00:57:17,960 --> 00:57:19,980
+you were chilling with a little Sasquatch at the bar.
+
+1175
+00:57:19,980 --> 00:57:27,620
+Chilling with little set, chilling with little set. Mark, I quit that
+
+1176
+00:57:27,620 --> 00:57:29,680
+internship after nine months,
+
+1177
+00:57:29,680 --> 00:57:33,600
+which was what like a couple of days ago.
+
+1178
+00:57:34,660 --> 00:57:38,420
+yeah. How am I supposed to know you didn't call me? I sent you emojis.
+
+1179
+00:57:38,420 --> 00:57:42,660
+What let's look take a look at these emojis. Okay, I open up my five
+
+1180
+00:57:42,660 --> 00:57:44,000
+fifty
+
+1181
+00:57:44,000 --> 00:57:54,660
+it comes upstairs. Oh, Eduardo, you made it. I slap him. Oh, he thought that
+
+1182
+00:57:54,660 --> 00:57:58,380
+you were in a homeless guy because we're in California. He didn't mean anything
+
+1183
+00:57:58,380 --> 00:57:59,980
+by that. I should roll talking.
+
+1184
+00:58:03,340 --> 00:58:06,740
+Let's see, with my talking, I have minus one talking.
+
+1185
+00:58:06,740 --> 00:58:08,060
+He's Zuckerberg.
+
+1186
+00:58:08,060 --> 00:58:10,980
+He's literally one of the biggest geniuses in the world.
+
+1187
+00:58:10,980 --> 00:58:12,180
+That doesn't mean he's good at talking.
+
+1188
+00:58:12,180 --> 00:58:13,020
+Seven.
+
+1189
+00:58:13,020 --> 00:58:15,820
+I don't think he thinks I'm homeless.
+
+1190
+00:58:15,820 --> 00:58:17,060
+Yeah. What's going on Eduardo?
+
+1191
+00:58:17,060 --> 00:58:19,620
+So Mark said that I didn't mean anything by that,
+
+1192
+00:58:19,620 --> 00:58:21,780
+but I actually did mean something by that.
+
+1193
+00:58:21,780 --> 00:58:23,780
+And I'm gonna tell you what I meant right now.
+
+1194
+00:58:23,780 --> 00:58:28,260
+What I meant by that slap is I'm changing my credit card pin
+
+1195
+00:58:28,260 --> 00:58:31,500
+or debit card pin from one, one, one, one,
+
+1196
+00:58:31,500 --> 00:58:34,500
+until 1112 and I'm not going to tell you the new pin.
+
+1197
+00:58:34,500 --> 00:58:39,000
+Wait, how are we going to use that credit card if we don't know the pin?
+
+1198
+00:58:39,000 --> 00:58:43,000
+You're not going to be able to use it at all because I'm taking all my money
+
+1199
+00:58:43,000 --> 00:58:46,500
+that I've contributed to this thing and you're probably not even going to be
+
+1200
+00:58:46,500 --> 00:58:50,000
+able to pay rent without my $50-$60 a month.
+
+1201
+00:58:50,000 --> 00:58:55,000
+We got to the courtroom now and Rashida Jones goes,
+
+1202
+00:58:55,000 --> 00:59:01,000
+"So as you can see here, Eduardo was pretty bitter and acted in a
+
+1203
+00:59:01,000 --> 00:59:03,880
+really just not very nice way and
+
+1204
+00:59:03,880 --> 00:59:07,360
+doesn't sound like somebody who could have invented a website sounds like
+
+1205
+00:59:07,360 --> 00:59:11,760
+somebody who just holds a grudge because of a inferiority complex.
+
+1206
+00:59:11,760 --> 00:59:13,400
+I'm not the one that holds a grudge.
+
+1207
+00:59:13,400 --> 00:59:18,280
+He's holding a grudge because he's jealous that I got to be in the
+
+1208
+00:59:18,280 --> 00:59:20,720
+background of an episode of call her daddy.
+
+1209
+00:59:20,720 --> 00:59:26,440
+And he was also the cameraman for one of the pizza reviews.
+
+1210
+00:59:26,440 --> 00:59:27,480
+I just like to put that out there.
+
+1211
+00:59:27,480 --> 00:59:28,720
+See, he knew he knew.
+
+1212
+00:59:28,720 --> 00:59:29,680
+I didn't even tell him.
+
+1213
+00:59:29,680 --> 00:59:33,820
+Oh yeah, I for keeping up with my fucking friend, so we are friends
+
+1214
+00:59:33,820 --> 00:59:36,440
+and I immediately go to hug you
+
+1215
+00:59:36,440 --> 00:59:41,040
+slowly. No really fat
+
+1216
+00:59:41,040 --> 00:59:43,640
+because I know he's going to stop
+
+1217
+00:59:43,640 --> 00:59:50,480
+a little press to get in between you. I like a taste for out there. I hand on
+
+1218
+00:59:50,480 --> 00:59:56,560
+the taser. Yeah, whoa, whoa, try that listen just trying to hug him all day
+
+1219
+00:59:56,560 --> 00:59:59,000
+just because we're suing each other doesn't mean we're not the best of
+
+1220
+00:59:59,040 --> 01:00:02,200
+best friends. She or not the best of friends. Why don't you be a friend over
+
+1221
+01:00:02,200 --> 01:00:02,440
+there?
+
+1222
+01:00:02,440 --> 01:00:05,520
+Isn't that just fucking typical?
+
+1223
+01:00:05,520 --> 01:00:09,520
+Well, I guess you don't want this. I hold up a five dollar bill
+
+1224
+01:00:09,520 --> 01:00:21,240
+I'm jumping up because he's taller than me. Give me that right now, so
+
+1225
+01:00:21,240 --> 01:00:26,320
+you are because he got in that twenty you're not going to be able to add
+
+1226
+01:00:26,320 --> 01:00:27,360
+anything to this role.
+
+1227
+01:00:28,440 --> 01:00:30,440
+Okay, so thanks for pointing at me. Just roll.
+
+1228
+01:00:30,440 --> 01:00:32,240
+Okay.
+
+1229
+01:00:32,240 --> 01:00:34,240
+The...tain.
+
+1230
+01:00:34,240 --> 01:00:37,240
+Stop looking at my notes, hoe.
+
+1231
+01:00:37,240 --> 01:00:39,240
+He was sneaking a peek.
+
+1232
+01:00:39,240 --> 01:00:41,240
+I don't have many scenes.
+
+1233
+01:00:41,240 --> 01:00:43,740
+I think you just fell asleep. You could have been talking this whole time.
+
+1234
+01:00:43,740 --> 01:00:44,740
+He drew.
+
+1235
+01:00:44,740 --> 01:00:46,740
+I thought he did not fall asleep, he drew.
+
+1236
+01:00:46,740 --> 01:00:48,740
+Give me Cam's camera.
+
+1237
+01:00:48,740 --> 01:00:51,240
+I don't want to put myself, I'm trying to be true to the story.
+
+1238
+01:00:51,240 --> 01:00:53,740
+He spit the last 20 minutes drawing this.
+
+1239
+01:00:53,740 --> 01:00:56,740
+That is the lawyer from New York.
+
+1240
+01:00:56,740 --> 01:00:58,240
+Because he's a frog.
+
+1241
+01:00:58,240 --> 01:01:00,440
+And speaking of which, how is that?
+
+1242
+01:01:00,440 --> 01:01:03,280
+Anti-Semitic because his penis is small.
+
+1243
+01:01:03,280 --> 01:01:04,880
+You said that.
+
+1244
+01:01:04,880 --> 01:01:06,780
+Penis is small.
+
+1245
+01:01:06,780 --> 01:01:08,120
+That's him hard.
+
+1246
+01:01:08,120 --> 01:01:09,080
+That's him hard.
+
+1247
+01:01:09,080 --> 01:01:10,520
+Yeah. It points straight down.
+
+1248
+01:01:10,520 --> 01:01:12,880
+Points straight down because of his frog body.
+
+1249
+01:01:12,880 --> 01:01:15,120
+Can you imagine the mechanics of that?
+
+1250
+01:01:15,120 --> 01:01:17,160
+We cut to.
+
+1251
+01:01:17,160 --> 01:01:18,960
+But it'd be easy to pee in the morning, though.
+
+1252
+01:01:18,960 --> 01:01:20,920
+The scene. The winkle.
+
+1253
+01:01:20,920 --> 01:01:24,360
+The sorry, the penis bros. Finger bros. Finger bros.
+
+1254
+01:01:24,360 --> 01:01:28,100
+The finger bros twins are incensed at this point.
+
+1255
+01:01:28,100 --> 01:01:30,500
+I guess maybe they are hard to tell.
+
+1256
+01:01:30,500 --> 01:01:33,640
+They do talk to the president of Emerson University either way.
+
+1257
+01:01:33,640 --> 01:01:36,600
+Jeffrey Epstein.
+
+1258
+01:01:36,600 --> 01:01:37,680
+I don't know what his name is.
+
+1259
+01:01:37,680 --> 01:01:38,440
+I didn't give him a name.
+
+1260
+01:01:38,440 --> 01:01:40,940
+Hello, Dad. Tell me.
+
+1261
+01:01:40,940 --> 01:01:42,640
+OK, yeah, he's finger bros.
+
+1262
+01:01:42,640 --> 01:01:45,280
+Mr. Finger Bros, president of Emerson University.
+
+1263
+01:01:45,280 --> 01:01:46,420
+No, he's still Epstein.
+
+1264
+01:01:46,420 --> 01:01:48,320
+OK, he's still Epstein. Yeah, I didn't give him a name.
+
+1265
+01:01:48,320 --> 01:01:50,960
+So, yeah. OK, it is.
+
+1266
+01:01:50,960 --> 01:01:52,220
+I guess it can be my father.
+
+1267
+01:01:52,220 --> 01:01:55,460
+Yeah, but I'll be your dad. OK.
+
+1268
+01:01:55,460 --> 01:01:57,300
+What do you guys want from me?
+
+1269
+01:01:57,300 --> 01:02:04,440
+wait sorry hello hello hello hello whoa whoa huh hi what's going on hello
+
+1270
+01:02:04,440 --> 01:02:09,900
+fathers yeah the fathers start to spin in place and clip in their chair
+
+1271
+01:02:09,900 --> 01:02:11,100
+clipping through the desk
+
+1272
+01:02:11,100 --> 01:02:17,060
+hello to be so bad can I peter in this year either in the seed they're just
+
+1273
+01:02:17,060 --> 01:02:21,360
+clipping through the desk they're like we made a new website but somebody took
+
+1274
+01:02:21,360 --> 01:02:22,160
+it from us
+
+1275
+01:02:25,760 --> 01:02:28,300
+that alarm start going off in the office.
+
+1276
+01:02:28,300 --> 01:02:40,000
+You see like smaller versions of you guys like slide down into the
+
+1277
+01:02:40,000 --> 01:02:42,800
+open pool. Yeah, like fireman poles.
+
+1278
+01:02:42,800 --> 01:02:46,940
+We need to use the army, dad. I don't know if we can...
+
+1279
+01:02:46,940 --> 01:02:53,620
+Somebody took our new website
+
+1280
+01:02:55,500 --> 01:02:57,000
+And we need to use the army.
+
+1281
+01:02:57,000 --> 01:03:00,100
+I don't know if we could do that.
+
+1282
+01:03:00,100 --> 01:03:04,100
+Oh, oh, oh, oh roll.
+
+1283
+01:03:04,100 --> 01:03:06,200
+The dad's name is oh yeah.
+
+1284
+01:03:06,200 --> 01:03:07,200
+Oh and no.
+
+1285
+01:03:07,200 --> 01:03:12,000
+Nine plus what?
+
+1286
+01:03:12,000 --> 01:03:14,200
+I don't want an okay 10.
+
+1287
+01:03:14,200 --> 01:03:14,900
+Okay.
+
+1288
+01:03:14,900 --> 01:03:16,700
+Okay.
+
+1289
+01:03:16,700 --> 01:03:19,800
+Can we please use the army?
+
+1290
+01:03:19,800 --> 01:03:21,200
+I don't know.
+
+1291
+01:03:21,200 --> 01:03:21,900
+Okay.
+
+1292
+01:03:21,900 --> 01:03:24,600
+16.
+
+1293
+01:03:24,600 --> 01:03:25,100
+Okay.
+
+1294
+01:03:25,100 --> 01:03:28,000
+This is a battle of- a battle of wits.
+
+1295
+01:03:28,000 --> 01:03:29,600
+[laughter]
+
+1296
+01:03:29,600 --> 01:03:30,100
+Okay.
+
+1297
+01:03:30,100 --> 01:03:31,800
+Please!
+
+1298
+01:03:31,800 --> 01:03:33,500
+Maybe...
+
+1299
+01:03:33,500 --> 01:03:36,900
+[laughter]
+
+1300
+01:03:36,900 --> 01:03:37,500
+Seven.
+
+1301
+01:03:37,500 --> 01:03:38,500
+Alright.
+
+1302
+01:03:38,500 --> 01:03:39,500
+Okay!
+
+1303
+01:03:39,500 --> 01:03:40,600
+[laughter]
+
+1304
+01:03:40,600 --> 01:03:41,200
+Yay!
+
+1305
+01:03:41,200 --> 01:03:43,900
+We're gonna use the army to get our website back.
+
+1306
+01:03:43,900 --> 01:03:45,100
+Let's get the army involved.
+
+1307
+01:03:45,100 --> 01:03:45,700
+Yay!
+
+1308
+01:03:45,700 --> 01:03:47,500
+We're gonna use our army to get our website back.
+
+1309
+01:03:47,500 --> 01:03:48,400
+I love you, sons.
+
+1310
+01:03:48,400 --> 01:03:49,500
+I love you, dads.
+
+1311
+01:03:49,500 --> 01:03:50,600
+Yay!
+
+1312
+01:03:50,600 --> 01:03:51,400
+Let's make out.
+
+1313
+01:03:51,400 --> 01:03:52,400
+Okay!
+
+1314
+01:03:52,400 --> 01:03:52,900
+The dads-
+
+1315
+01:03:52,900 --> 01:03:55,620
+They make out with "huh" and I'll make out with "whoa".
+
+1316
+01:03:55,620 --> 01:03:56,620
+Nice.
+
+1317
+01:03:56,620 --> 01:03:59,020
+And you two make out with each other.
+
+1318
+01:03:59,020 --> 01:04:00,020
+Okay.
+
+1319
+01:04:00,020 --> 01:04:01,020
+And we'll record it.
+
+1320
+01:04:01,020 --> 01:04:02,020
+We'll record it.
+
+1321
+01:04:02,020 --> 01:04:03,020
+Whoa.
+
+1322
+01:04:03,020 --> 01:04:04,020
+Whoa.
+
+1323
+01:04:04,020 --> 01:04:05,020
+Yay.
+
+1324
+01:04:05,020 --> 01:04:06,020
+And they make out.
+
+1325
+01:04:06,020 --> 01:04:07,620
+Now, after you were all done making out.
+
+1326
+01:04:07,620 --> 01:04:09,060
+We went to London.
+
+1327
+01:04:09,060 --> 01:04:10,660
+You went to London.
+
+1328
+01:04:10,660 --> 01:04:11,660
+That did happen.
+
+1329
+01:04:11,660 --> 01:04:13,940
+With our army.
+
+1330
+01:04:13,940 --> 01:04:17,740
+You accidentally invaded England.
+
+1331
+01:04:17,740 --> 01:04:20,420
+Now after you were finished invading England.
+
+1332
+01:04:20,420 --> 01:04:23,140
+Now I want the jury to pay attention here for one second.
+
+1333
+01:04:23,140 --> 01:04:24,140
+Okay.
+
+1334
+01:04:24,140 --> 01:04:25,140
+Think of the enterprise in...
+
+1335
+01:04:25,140 --> 01:04:29,180
+Wait, sorry, my middle name's the jury and I'm woe.
+
+1336
+01:04:29,180 --> 01:04:30,180
+I would like to...
+
+1337
+01:04:30,180 --> 01:04:36,400
+The group of people, the 12 or so people in front of me, whose name I shall not be referring
+
+1338
+01:04:36,400 --> 01:04:39,600
+to out loud as to not confuse my client.
+
+1339
+01:04:39,600 --> 01:04:42,840
+Sometimes I go by my middle name.
+
+1340
+01:04:42,840 --> 01:04:50,560
+The coordination it takes to be able to hire the entire US military to invade England on
+
+1341
+01:04:50,560 --> 01:04:53,500
+behalf of a diaper website.
+
+1342
+01:04:53,500 --> 01:05:00,920
+That takes a kind of intellect and resources that could only be procured through my clients,
+
+1343
+01:05:00,920 --> 01:05:03,160
+not Mr. Zuckerberg.
+
+1344
+01:05:03,160 --> 01:05:12,200
+I only know websites and diapers and war and rowing and kissing my brother and watching
+
+1345
+01:05:12,200 --> 01:05:14,240
+my dad kiss his brother.
+
+1346
+01:05:14,240 --> 01:05:20,320
+And now knowing of course that this here jury are all women, we must consider how hot would
+
+1347
+01:05:20,320 --> 01:05:23,480
+it be if the dads kissed two.
+
+1348
+01:05:23,480 --> 01:05:25,480
+What if I kissed my dad?
+
+1349
+01:05:25,480 --> 01:05:28,560
+Let's think about it, you guys like that sort of shit.
+
+1350
+01:05:28,560 --> 01:05:29,840
+Come here dad.
+
+1351
+01:05:29,840 --> 01:05:32,600
+The dad is not in the room right now.
+
+1352
+01:05:32,600 --> 01:05:35,200
+Oh that's my wallpaper on my phone.
+
+1353
+01:05:35,200 --> 01:05:40,400
+Okay I'm going to roll a d20, you get a d6 for that.
+
+1354
+01:05:40,400 --> 01:05:41,400
+Okay.
+
+1355
+01:05:41,400 --> 01:05:42,400
+I got a 5.
+
+1356
+01:05:42,400 --> 01:05:43,400
+You got a 2.
+
+1357
+01:05:43,400 --> 01:05:46,400
+This son of a lawyer sucks.
+
+1358
+01:05:46,400 --> 01:05:48,280
+Wait, is that good or bad?
+
+1359
+01:05:48,280 --> 01:05:49,280
+I got a 5.
+
+1360
+01:05:49,280 --> 01:05:52,680
+Yeah, but you only add the 5 to it.
+
+1361
+01:05:52,680 --> 01:05:54,920
+I don't understand how the rolls really work.
+
+1362
+01:05:54,920 --> 01:05:57,600
+I really weighted the lawyer rolls too much as a problem.
+
+1363
+01:05:57,600 --> 01:05:58,600
+Yeah?
+
+1364
+01:05:58,600 --> 01:05:59,600
+Yeah.
+
+1365
+01:05:59,600 --> 01:06:00,600
+Why don't you unweight them?
+
+1366
+01:06:00,600 --> 01:06:01,600
+I won't do that.
+
+1367
+01:06:01,600 --> 01:06:02,600
+Okay.
+
+1368
+01:06:02,600 --> 01:06:03,600
+Nice try, buddy.
+
+1369
+01:06:03,600 --> 01:06:04,600
+I almost had them.
+
+1370
+01:06:04,600 --> 01:06:07,040
+You did almost have them.
+
+1371
+01:06:07,040 --> 01:06:11,320
+It's purely my fault, so I get it.
+
+1372
+01:06:11,320 --> 01:06:17,360
+But now we're going to have the New York lawyer.
+
+1373
+01:06:17,360 --> 01:06:19,720
+He's questioning me.
+
+1374
+01:06:19,720 --> 01:06:22,680
+Their storyline kind of ends in London, huh?
+
+1375
+01:06:22,680 --> 01:06:24,320
+Yeah, it does.
+
+1376
+01:06:24,320 --> 01:06:25,640
+Don't worry.
+
+1377
+01:06:25,640 --> 01:06:27,360
+I have more story than the movie.
+
+1378
+01:06:27,360 --> 01:06:28,360
+Oh, got it.
+
+1379
+01:06:28,360 --> 01:06:29,360
+Okay.
+
+1380
+01:06:29,360 --> 01:06:30,360
+We're not just reading the script.
+
+1381
+01:06:30,360 --> 01:06:31,360
+I thought we were.
+
+1382
+01:06:31,360 --> 01:06:34,200
+That's what I've been doing this whole time.
+
+1383
+01:06:34,200 --> 01:06:37,320
+Actually, wait, hold on.
+
+1384
+01:06:37,320 --> 01:06:38,320
+Oh, wait, hold on.
+
+1385
+01:06:38,320 --> 01:06:39,320
+You guys died.
+
+1386
+01:06:39,320 --> 01:06:41,580
+(laughing)
+
+1387
+01:06:41,580 --> 01:06:45,180
+- Yep, super roll.
+
+1388
+01:06:45,180 --> 01:06:49,980
+- Now look, you guys invaded England.
+
+1389
+01:06:49,980 --> 01:06:50,820
+- Whoa.
+
+1390
+01:06:50,820 --> 01:06:51,980
+- Who do you think you are?
+
+1391
+01:06:51,980 --> 01:06:53,780
+- The fu, the.
+
+1392
+01:06:53,780 --> 01:06:57,060
+(laughing)
+
+1393
+01:06:57,060 --> 01:06:58,960
+- Okay, let's settle down then.
+
+1394
+01:06:58,960 --> 01:07:01,800
+- What the?
+
+1395
+01:07:01,800 --> 01:07:02,640
+- You and your lawyer.
+
+1396
+01:07:02,640 --> 01:07:04,660
+- The finger bros twins.
+
+1397
+01:07:04,660 --> 01:07:08,120
+- Okay, and?
+
+1398
+01:07:09,220 --> 01:07:10,500
+I drew a photo of you.
+
+1399
+01:07:10,500 --> 01:07:12,420
+What can I see it?
+
+1400
+01:07:12,420 --> 01:07:16,620
+Drew a photo.
+
+1401
+01:07:16,620 --> 01:07:22,820
+Does that seem like now I want you to show that to the know
+
+1402
+01:07:22,820 --> 01:07:23,420
+it's for you.
+
+1403
+01:07:23,420 --> 01:07:25,120
+Show it to the jury and they'll go.
+
+1404
+01:07:25,120 --> 01:07:27,820
+They're all about to throw up.
+
+1405
+01:07:27,820 --> 01:07:30,500
+Does that look like somebody who knows what they're doing
+
+1406
+01:07:30,500 --> 01:07:32,600
+when building a website or does that look like the kind of
+
+1407
+01:07:32,600 --> 01:07:36,220
+maniac who would invade a sovereign nation?
+
+1408
+01:07:36,220 --> 01:07:37,220
+What did you say?
+
+1409
+01:07:37,220 --> 01:07:38,220
+Yeah.
+
+1410
+01:07:38,220 --> 01:07:43,020
+Because they were confused about what it means to make a website.
+
+1411
+01:07:43,020 --> 01:07:47,220
+No, I made a website when I was 13 called Twinks.
+
+1412
+01:07:47,220 --> 01:07:48,220
+13?
+
+1413
+01:07:48,220 --> 01:07:49,220
+Yes.
+
+1414
+01:07:49,220 --> 01:07:52,220
+Did anybody help you with that?
+
+1415
+01:07:52,220 --> 01:07:54,020
+Was it WordPress or like GeoCities?
+
+1416
+01:07:54,020 --> 01:07:55,220
+What did you do?
+
+1417
+01:07:55,220 --> 01:07:58,220
+Well, I paid a slave.
+
+1418
+01:07:58,220 --> 01:07:59,220
+Okay, right.
+
+1419
+01:07:59,220 --> 01:08:01,220
+You paid a slave?
+
+1420
+01:08:01,220 --> 01:08:02,220
+Now...
+
+1421
+01:08:02,220 --> 01:08:03,220
+It's the first rule of having a slave.
+
+1422
+01:08:03,220 --> 01:08:04,220
+You gotta pay.
+
+1423
+01:08:04,220 --> 01:08:06,480
+I pay this guy. So this guy's so okay.
+
+1424
+01:08:06,480 --> 01:08:10,660
+I'd like the jury to hear this. This guy's so stupid. He paid a slave.
+
+1425
+01:08:10,660 --> 01:08:15,620
+No, that's his name.
+
+1426
+01:08:15,620 --> 01:08:17,180
+A slave
+
+1427
+01:08:17,180 --> 01:08:23,940
+he has a slave's last name to
+
+1428
+01:08:23,940 --> 01:08:25,920
+know.
+
+1429
+01:08:25,920 --> 01:08:27,580
+He's white.
+
+1430
+01:08:27,580 --> 01:08:32,900
+My father's just very, wait, wait, wait. We didn't say anything about race,
+
+1431
+01:08:32,900 --> 01:08:34,420
+by the way. Why'd you say he's white?
+
+1432
+01:08:34,420 --> 01:08:36,060
+Because I don't know.
+
+1433
+01:08:36,060 --> 01:08:38,220
+Now I'm going to move on from this sort of thing.
+
+1434
+01:08:38,220 --> 01:08:41,940
+Who would have thought that the social network was the one that got all this
+
+1435
+01:08:41,940 --> 01:08:43,260
+stuff? Yeah, finally.
+
+1436
+01:08:43,260 --> 01:08:44,300
+Coming out of the woodwork.
+
+1437
+01:08:44,300 --> 01:08:48,060
+Yeah, the two most racist guys that I've ever seen in my life over here.
+
+1438
+01:08:48,060 --> 01:08:49,860
+These two. Patrick and Patches.
+
+1439
+01:08:49,860 --> 01:08:51,420
+Yeah, we are pretty racist.
+
+1440
+01:08:51,420 --> 01:08:52,940
+God, I did not mean to be.
+
+1441
+01:08:52,940 --> 01:08:54,300
+Just crossing swords.
+
+1442
+01:08:54,300 --> 01:08:56,740
+Yeah, just trying to get more racist every second.
+
+1443
+01:08:56,740 --> 01:09:00,660
+You could beat me. You could beat me in it.
+
+1444
+01:09:00,660 --> 01:09:01,780
+Don't worry about it.
+
+1445
+01:09:01,780 --> 01:09:02,780
+Pet is the goat.
+
+1446
+01:09:02,780 --> 01:09:07,260
+That's untouchable, though, when it comes to being racist.
+
+1447
+01:09:07,260 --> 01:09:08,260
+So racist.
+
+1448
+01:09:08,260 --> 01:09:10,340
+And then be like, I don't know what I just said.
+
+1449
+01:09:10,340 --> 01:09:15,100
+I'm sort of like finding my way through that kind of that kind of
+
+1450
+01:09:15,100 --> 01:09:19,340
+thing. Now, look, I don't I don't think
+
+1451
+01:09:19,340 --> 01:09:22,500
+that somebody like this who who pays a slave.
+
+1452
+01:09:22,500 --> 01:09:24,740
+No, that's his name.
+
+1453
+01:09:24,740 --> 01:09:27,780
+Remember my slip up?
+
+1454
+01:09:27,780 --> 01:09:30,860
+Oh, we could because we could cut it out.
+
+1455
+01:09:30,860 --> 01:09:31,360
+that we get
+
+1456
+01:09:31,360 --> 01:09:35,660
+and now I have to I'm going to now you're saying you think that black
+
+1457
+01:09:35,660 --> 01:09:36,840
+people weren't slaves.
+
+1458
+01:09:36,840 --> 01:09:39,640
+You we had a time machine
+
+1459
+01:09:39,640 --> 01:09:47,080
+and I use the time machine and I corrected all that because of that slip
+
+1460
+01:09:47,080 --> 01:09:50,260
+up. You get to roll corrected all that. So you think that white people should
+
+1461
+01:09:50,260 --> 01:09:50,380
+be
+
+1462
+01:09:50,380 --> 01:09:54,900
+why you just stop slavery. What am I rolling? You're old da
+
+1463
+01:09:54,900 --> 01:09:57,780
+oh wow
+
+1464
+01:09:59,700 --> 01:10:03,840
+somebody's gotta be a three. Is that essentially the sense of it here? So
+
+1465
+01:10:03,840 --> 01:10:04,360
+Patrick's
+
+1466
+01:10:04,360 --> 01:10:10,160
+it's gotta be a race. He said slaves where he said slavery is inevitable.
+
+1467
+01:10:10,160 --> 01:10:13,940
+They can't just be one guy that we pin it all on. Can't be everyone with the
+
+1468
+01:10:13,940 --> 01:10:17,800
+same name. It has to be a race of people. Okay, that's chill. And we pinned it,
+
+1469
+01:10:17,800 --> 01:10:18,720
+we pinned it on the
+
+1470
+01:10:18,720 --> 01:10:25,640
+on the what? Keep going. The Finger Bros family invented slavery.
+
+1471
+01:10:27,760 --> 01:10:30,560
+The Finger Bros family invented slavery.
+
+1472
+01:10:30,560 --> 01:10:34,760
+We have a rich history of evil shit.
+
+1473
+01:10:34,760 --> 01:10:39,840
+Alright, so we're going to have you roll one more time.
+
+1474
+01:10:39,840 --> 01:10:41,840
+One D4 you're going to add.
+
+1475
+01:10:41,840 --> 01:10:42,840
+Okay.
+
+1476
+01:10:42,840 --> 01:10:43,840
+Because it was entertaining.
+
+1477
+01:10:43,840 --> 01:10:44,840
+Three.
+
+1478
+01:10:44,840 --> 01:10:45,840
+Damn.
+
+1479
+01:10:45,840 --> 01:10:47,560
+I'm seeing these rolls.
+
+1480
+01:10:47,560 --> 01:10:48,560
+Good or bad?
+
+1481
+01:10:48,560 --> 01:10:49,560
+I'm a win y'all.
+
+1482
+01:10:49,560 --> 01:10:50,560
+He's probably going to win.
+
+1483
+01:10:50,560 --> 01:10:51,560
+Yeah, he's probably going to win.
+
+1484
+01:10:51,560 --> 01:10:53,640
+I mean, I kind of blew it this whole thing.
+
+1485
+01:10:53,640 --> 01:10:57,720
+And I deserve it because honestly my character is the only one who's positive and happy.
+
+1486
+01:10:57,720 --> 01:10:59,720
+You have the worst case of all three.
+
+1487
+01:10:59,720 --> 01:11:01,720
+What are you talking about?
+
+1488
+01:11:01,720 --> 01:11:03,720
+I have the worst case of all three
+
+1489
+01:11:03,720 --> 01:11:05,720
+and I got a racial somehow.
+
+1490
+01:11:05,720 --> 01:11:07,720
+I'm the only one with a decent case.
+
+1491
+01:11:07,720 --> 01:11:09,720
+Again, you're fucking me.
+
+1492
+01:11:09,720 --> 01:11:11,720
+I was in the room one or two times
+
+1493
+01:11:11,720 --> 01:11:13,720
+on the many days that you programmed
+
+1494
+01:11:13,720 --> 01:11:15,720
+to this website. I made terrible mechanics
+
+1495
+01:11:15,720 --> 01:11:17,720
+and so you're getting fucked by that.
+
+1496
+01:11:17,720 --> 01:11:19,720
+I had some ideas that weren't used.
+
+1497
+01:11:19,720 --> 01:11:21,720
+It's not intentional. You fuck me every fucking time.
+
+1498
+01:11:21,720 --> 01:11:23,720
+I made really bad mechanics.
+
+1499
+01:11:23,720 --> 01:11:25,720
+Can we do the scene where
+
+1500
+01:11:25,720 --> 01:11:29,120
+live in the morning today. Can we do the scene where he has relationship status?
+
+1501
+01:11:29,120 --> 01:11:33,480
+Did we already get past that in the story? Can we do that scene? You want to
+
+1502
+01:11:33,480 --> 01:11:36,720
+do that scene? I think we should do that scene. I don't remember that. I think
+
+1503
+01:11:36,720 --> 01:11:41,840
+this is just become movie. Okay, so it's... Let's do it. So you're in... I
+
+1504
+01:11:41,840 --> 01:11:46,040
+think we've lost the plot. It's going forward. You would, Slade boy. Okay,
+
+1505
+01:11:46,040 --> 01:11:49,040
+basically, the only reason I wanna do this scene is because this is a scene
+
+1506
+01:11:49,040 --> 01:11:51,080
+where you run back across
+
+1507
+01:11:52,680 --> 01:11:57,480
+campus and yeah, oh yeah, I remember yeah, you get to you. So yes, it's a
+
+1508
+01:11:57,480 --> 01:12:00,720
+great you get to your room, your wardo Eduardo, you get to your room to add
+
+1509
+01:12:00,720 --> 01:12:05,860
+something and in the and you that your door is slightly a jar and you walk
+
+1510
+01:12:05,860 --> 01:12:08,900
+into the room and I'm wearing your clothes. I'm sitting at your computer
+
+1511
+01:12:08,900 --> 01:12:16,780
+and we're not typing on your blog. You look at my you look at my I'm Mark
+
+1512
+01:12:16,780 --> 01:12:17,400
+Zuckerberg,
+
+1513
+01:12:17,400 --> 01:12:20,040
+Eduardo. What are you? What are you doing?
+
+1514
+01:12:20,040 --> 01:12:22,300
+(laughing)
+
+1515
+01:12:22,300 --> 01:12:24,520
+- What?
+
+1516
+01:12:24,520 --> 01:12:25,720
+This is what friends do.
+
+1517
+01:12:25,720 --> 01:12:27,040
+- Why are you wearing my clothes?
+
+1518
+01:12:27,040 --> 01:12:28,760
+- These are my clothes.
+
+1519
+01:12:28,760 --> 01:12:32,000
+- You're just perched up behind the window.
+
+1520
+01:12:32,000 --> 01:12:34,400
+- We can't hear him through the window.
+
+1521
+01:12:34,400 --> 01:12:36,080
+Wait, you're wearing my clothes,
+
+1522
+01:12:36,080 --> 01:12:37,720
+you're using my computer.
+
+1523
+01:12:37,720 --> 01:12:39,080
+What are you typing on my blog?
+
+1524
+01:12:39,080 --> 01:12:40,680
+You're saying I'm Mark Zuckerberg.
+
+1525
+01:12:40,680 --> 01:12:41,480
+- I just had an idea.
+
+1526
+01:12:41,480 --> 01:12:42,640
+Wait, Mark, I just had an idea.
+
+1527
+01:12:42,640 --> 01:12:44,320
+- No, I had an idea, that's why I ran home.
+
+1528
+01:12:44,320 --> 01:12:45,520
+- No, this is gonna change diaper talk.
+
+1529
+01:12:45,520 --> 01:12:49,120
+What if we made it so you type into the URL bar,
+
+1530
+01:12:49,120 --> 01:12:50,560
+what if we make it diaper talk
+
+1531
+01:12:50,560 --> 01:12:52,360
+dot com?
+
+1532
+01:12:52,360 --> 01:12:57,800
+That's it's already it's the diaper talk dot com. That's already the address
+
+1533
+01:12:57,800 --> 01:13:01,280
+Dylan. You got a phone call from Dylan. Hold on. I have to take this.
+
+1534
+01:13:01,280 --> 01:13:02,880
+Hello. You got suck.
+
+1535
+01:13:02,880 --> 01:13:05,280
+Drop the
+
+1536
+01:13:05,280 --> 01:13:11,920
+drop the dot com.
+
+1537
+01:13:11,920 --> 01:13:18,560
+Okay, just the diaper talk. Yeah,
+
+1538
+01:13:18,920 --> 01:13:21,660
+I mean, we can try that. Yeah, I think it could work. Okay, here,
+
+1539
+01:13:21,660 --> 01:13:25,640
+Eduardo, put in the diaper talk, just in the no.com. I type it in,
+
+1540
+01:13:25,640 --> 01:13:29,480
+it works perfectly. It comes up flawlessly, no issues. This is perfect.
+
+1541
+01:13:29,480 --> 01:13:32,380
+Okay, but I still think that we need to put some more ads on here.
+
+1542
+01:13:32,380 --> 01:13:34,440
+I take a photo of you guys. Which is the main reason I have a case.
+
+1543
+01:13:34,440 --> 01:13:36,440
+How many times do I have to tell you? I take a photo of you guys
+
+1544
+01:13:36,440 --> 01:13:39,640
+with a camera that has a really big flash.
+
+1545
+01:13:39,640 --> 01:13:41,320
+Wait, what was that?
+
+1546
+01:13:41,320 --> 01:13:45,880
+I think I just blinked and my eyelids were white. I must have blinked too.
+
+1547
+01:13:45,880 --> 01:13:47,920
+what are your roommates? You must have blinked with my
+
+1548
+01:13:47,920 --> 01:13:54,720
+okay. Here's my idea though, right? People don't just want to see other
+
+1549
+01:13:54,720 --> 01:13:55,600
+people in diapers.
+
+1550
+01:13:55,600 --> 01:14:02,980
+They wanna know if they get unbuttoned those diapers and get inside of them.
+
+1551
+01:14:02,980 --> 01:14:07,320
+We need to add relationship status. This is why people look at other people
+
+1552
+01:14:07,320 --> 01:14:09,580
+in diapers. They're trying to fuck, they're trying to get laid, they're
+
+1553
+01:14:09,580 --> 01:14:12,560
+trying to have sex, they're trying to get married or see who's best friends.
+
+1554
+01:14:13,340 --> 01:14:14,340
+the window was a...
+
+1555
+01:14:14,340 --> 01:14:15,740
+Okay, okay, you're right.
+
+1556
+01:14:15,740 --> 01:14:19,540
+We need to add a relationship status and also a best friend status.
+
+1557
+01:14:19,540 --> 01:14:22,980
+And the window is a little bit cracked and I'm still outside.
+
+1558
+01:14:22,980 --> 01:14:23,980
+I'm on my twin's.
+
+1559
+01:14:23,980 --> 01:14:26,100
+You're really shoehorning yourself into our show.
+
+1560
+01:14:26,100 --> 01:14:27,340
+My twin brother's shoulder.
+
+1561
+01:14:27,340 --> 01:14:30,820
+I didn't talk for most of this and then when I did I talked about slavery.
+
+1562
+01:14:30,820 --> 01:14:32,820
+You picked this character first.
+
+1563
+01:14:32,820 --> 01:14:35,540
+It's my bad.
+
+1564
+01:14:35,540 --> 01:14:42,620
+But all you can see, just like green billow of stink is going through the window from our
+
+1565
+01:14:42,620 --> 01:15:06,100
+are
+
+1566
+01:15:06,100 --> 01:15:10,360
+laptop and I'm typing my best friend is already said to Dylan when you look I
+
+1567
+01:15:10,360 --> 01:15:13,140
+take and I'm like all right. If you're if you're going to develop this feature,
+
+1568
+01:15:13,140 --> 01:15:15,500
+I think you're probably going to need a little more money to get this off the
+
+1569
+01:15:15,500 --> 01:15:18,300
+ground. So I'm going to go ahead and send you really need any more money. 58
+
+1570
+01:15:18,300 --> 01:15:19,820
+cents. I just dropped in your account.
+
+1571
+01:15:19,820 --> 01:15:24,580
+This feels like this is like you're setting something up almost with how
+
+1572
+01:15:24,580 --> 01:15:29,020
+little money this is. What do you mean? We flash forward now.
+
+1573
+01:15:29,020 --> 01:15:35,060
+Eduardo is signed an unfortunate contract. Yeah, he's literally the
+
+1574
+01:15:35,080 --> 01:15:37,280
+the dumbest person ever. Yeah, just
+
+1575
+01:15:37,280 --> 01:15:43,980
+the contract is one sentence that says you will be fucked. It's actually I'm
+
+1576
+01:15:43,980 --> 01:15:48,180
+squinting eyes so funny. You will be friends. It's so
+
+1577
+01:15:48,180 --> 01:15:51,780
+we already are, but I guess there's no harm in signing it.
+
+1578
+01:15:51,780 --> 01:15:56,680
+It's actually amazing. The contracting side like in real life, just signing
+
+1579
+01:15:56,680 --> 01:16:01,580
+one, which is does. Anyway, you signs it and then Dylan makes an accounting
+
+1580
+01:16:01,580 --> 01:16:06,680
+share and it's like we got to make a new company. I got I'm sorry, but we just
+
+1581
+01:16:06,680 --> 01:16:09,720
+give the same shares to everybody shouldn't be a problem. Dylan, okay,
+
+1582
+01:16:09,720 --> 01:16:14,560
+shouldn't you be at one of your famous parties right now? Oh, yep, and he heads
+
+1583
+01:16:14,560 --> 01:16:18,620
+over there. Am I being asked about my shares? Do you know the ones? Did you
+
+1584
+01:16:18,620 --> 01:16:22,440
+write the party? I didn't write the party. I'd like to cut to the party.
+
+1585
+01:16:22,440 --> 01:16:25,640
+Wait before we cut to the party. Can we do the share? Can we do? I'm being asked
+
+1586
+01:16:25,640 --> 01:16:29,080
+about the shares. Yeah, the scene. Yeah. Were you being asked about the shares
+
+1587
+01:16:29,120 --> 01:16:36,320
+scene? With just the lawyer guy? Just like being asked like or... Yeah, ask about all
+
+1588
+01:16:36,320 --> 01:16:46,480
+the shares. Ask him about all... Oh, oh, the scene. Okay, yeah, yeah. Now, you were... So,
+
+1589
+01:16:46,480 --> 01:16:53,000
+you were supposed to have 50% of the company, right? Yes. What happened? What'd you sign?
+
+1590
+01:16:53,000 --> 01:16:59,160
+I signed a contract and it seems that some things happen with the shares.
+
+1591
+01:16:59,160 --> 01:17:05,080
+Now this contract, look I'm from New York, alright, we pull one over on each other, we're
+
+1592
+01:17:05,080 --> 01:17:06,700
+nasty, we're mean.
+
+1593
+01:17:06,700 --> 01:17:10,600
+This was the worst contract I've ever seen in my life.
+
+1594
+01:17:10,600 --> 01:17:14,000
+And you were completely tricked into signing it, right?
+
+1595
+01:17:14,000 --> 01:17:21,840
+Yeah well I basically read it and maybe some of the stuff that was bad they wrote in a
+
+1596
+01:17:21,840 --> 01:17:25,920
+slightly lighter color or something to stop me from seeing it or maybe when I
+
+1597
+01:17:25,920 --> 01:17:29,680
+I guess when I was reading the contract parts of it were folded over in advance
+
+1598
+01:17:29,680 --> 01:17:33,920
+in an origami style to block out some of the words. And either of these scenarios are
+
+1599
+01:17:33,920 --> 01:17:37,280
+highly illegal by the way. And there was a lot of in the contract there was also
+
+1600
+01:17:37,280 --> 01:17:40,640
+a lot of stuff that was probably I mean again I didn't read it but if I had I
+
+1601
+01:17:40,640 --> 01:17:44,240
+probably would have noticed a lot of language. Oh but you read the contract right?
+
+1602
+01:17:44,240 --> 01:17:50,640
+Oh no what? Fuck. Cut to him walking into the office. Yeah
+
+1603
+01:17:50,640 --> 01:17:53,880
+long in the office. You have a blind fold. I'm a blind fold on and I'm
+
+1604
+01:17:53,880 --> 01:17:57,840
+holding I'm holding a rubber stamp that just has my name on it and I'm just
+
+1605
+01:17:57,840 --> 01:18:02,300
+stamping it on the wall everywhere and then the guy's like trying to get you
+
+1606
+01:18:02,300 --> 01:18:02,720
+to get it.
+
+1607
+01:18:02,720 --> 01:18:09,600
+He turns you around and pushes you out. You're stamping all right. So tell them
+
+1608
+01:18:09,600 --> 01:18:16,960
+what happened next edwarda with your little outburst. Okay, well is the what I
+
+1609
+01:18:16,960 --> 01:18:20,040
+want to say what I want to say here before my outburst. Yeah,
+
+1610
+01:18:20,040 --> 01:18:23,840
+Mark's shares were diluted down.
+
+1611
+01:18:23,840 --> 01:18:25,040
+Not at all.
+
+1612
+01:18:25,040 --> 01:18:29,840
+And then how much were Dylan's shares diluted?
+
+1613
+01:18:29,840 --> 01:18:31,340
+They weren't diluted.
+
+1614
+01:18:31,340 --> 01:18:36,540
+In fact, Dylan got more shares. He got a special Starboy share.
+
+1615
+01:18:36,540 --> 01:18:37,040
+Right.
+
+1616
+01:18:37,040 --> 01:18:38,740
+Oh, I had shares too.
+
+1617
+01:18:38,740 --> 01:18:40,440
+You did not have shares.
+
+1618
+01:18:40,440 --> 01:18:42,640
+Oh, I just share things with my brother.
+
+1619
+01:18:42,640 --> 01:18:45,640
+The Finger Bros twin shares were not diluted either.
+
+1620
+01:18:45,640 --> 01:18:47,140
+They didn't have shares.
+
+1621
+01:18:47,140 --> 01:18:49,740
+Well, they weren't diluted because we didn't have any.
+
+1622
+01:18:49,740 --> 01:18:54,940
+Okay, point taken. The whole momentum of this scene has been destroyed.
+
+1623
+01:18:54,940 --> 01:18:59,660
+What happened to your shares? My shares were diluted
+
+1624
+01:18:59,660 --> 01:19:02,180
+to 49.995%
+
+1625
+01:19:02,180 --> 01:19:09,540
+from 50. Jury, not the jury, jury.
+
+1626
+01:19:09,540 --> 01:19:16,720
+Is this fair? This guy who put in almost $1200 into this company.
+
+1627
+01:19:16,720 --> 01:19:18,980
+(laughing)
+
+1628
+01:19:18,980 --> 01:19:22,720
+- My name was on the masthead.
+
+1629
+01:19:22,720 --> 01:19:26,600
+This guy who poured his blood, sweat, and tears
+
+1630
+01:19:26,600 --> 01:19:28,200
+into an internship in New York.
+
+1631
+01:19:28,200 --> 01:19:32,140
+I bought so many suits.
+
+1632
+01:19:32,140 --> 01:19:36,240
+This guy who pops his collar and walks around
+
+1633
+01:19:36,240 --> 01:19:38,760
+like he owns the place.
+
+1634
+01:19:38,760 --> 01:19:41,560
+You don't think he deserves at least 50%?
+
+1635
+01:19:41,560 --> 01:19:46,160
+- Let it be known, jury, he is a Bolsonaristo
+
+1636
+01:19:46,160 --> 01:19:47,160
+from Brazil.
+
+1637
+01:19:47,160 --> 01:19:48,160
+Overruled!
+
+1638
+01:19:48,160 --> 01:19:49,160
+I mean, objection!
+
+1639
+01:19:49,160 --> 01:19:50,160
+No, you don't have to object to that.
+
+1640
+01:19:50,160 --> 01:19:51,160
+Because it's true.
+
+1641
+01:19:51,160 --> 01:19:52,160
+Because it's true.
+
+1642
+01:19:52,160 --> 01:19:53,160
+He likes Bolsonaro.
+
+1643
+01:19:53,160 --> 01:19:54,160
+Bolsonaro is dope.
+
+1644
+01:19:54,160 --> 01:19:55,160
+Is he actually?
+
+1645
+01:19:55,160 --> 01:19:56,160
+I don't know.
+
+1646
+01:19:56,160 --> 01:19:57,160
+Maybe.
+
+1647
+01:19:57,160 --> 01:19:58,160
+I wasn't sure.
+
+1648
+01:19:58,160 --> 01:19:59,160
+I can't imagine that he...
+
+1649
+01:19:59,160 --> 01:20:00,160
+He gives a shit.
+
+1650
+01:20:00,160 --> 01:20:01,160
+He is a normal guy.
+
+1651
+01:20:01,160 --> 01:20:02,160
+Yeah.
+
+1652
+01:20:02,160 --> 01:20:03,160
+I think he lives in the Middle East now.
+
+1653
+01:20:03,160 --> 01:20:04,160
+Does he?
+
+1654
+01:20:04,160 --> 01:20:05,160
+I think he was a rich kid who had a lot of money.
+
+1655
+01:20:05,160 --> 01:20:06,160
+I don't think he does.
+
+1656
+01:20:06,160 --> 01:20:07,160
+I feel like he's like he moved to avoid getting taxed for that.
+
+1657
+01:20:07,160 --> 01:20:08,160
+Oh, that's right.
+
+1658
+01:20:08,160 --> 01:20:09,160
+That's right.
+
+1659
+01:20:09,160 --> 01:20:10,160
+That's right.
+
+1660
+01:20:10,160 --> 01:20:11,160
+That's right.
+
+1661
+01:20:11,160 --> 01:20:12,160
+That's right.
+
+1662
+01:20:12,160 --> 01:20:13,160
+That's right.
+
+1663
+01:20:13,160 --> 01:20:14,160
+That's right.
+
+1664
+01:20:14,160 --> 01:20:15,160
+That's right.
+
+1665
+01:20:15,160 --> 01:20:18,360
+taxed for that. Oh that I remember reading about. For the Facebook lawsuit. Yeah. Or that
+
+1666
+01:20:18,360 --> 01:20:23,800
+he moved to some country. So he probably doesn't give a shit about like Bolsonaro or whatever.
+
+1667
+01:20:23,800 --> 01:20:27,920
+Like it's probably all just like... He probably like says... Where does he live now? Can you
+
+1668
+01:20:27,920 --> 01:20:31,880
+see real quick on his Wikipedia? Looks exactly like Andrew Garfield by the way. Citizenship
+
+1669
+01:20:31,880 --> 01:20:37,520
+Brazil. It's so funny that it's his book. He moved to Singapore. It's his book that the
+
+1670
+01:20:37,520 --> 01:20:41,760
+whole thing is based off of. Well he's not allowed to spit anywhere. Yeah he could be
+
+1671
+01:20:41,760 --> 01:20:47,840
+be killed and so because you admitted to just like to eat gum. Yeah, you can eat
+
+1672
+01:20:47,840 --> 01:20:51,780
+gum in North America. You will die if you eat gum, not from the legal system,
+
+1673
+01:20:51,780 --> 01:20:55,000
+but it will accumulate in your stomach and you will have to get surgery for
+
+1674
+01:20:55,000 --> 01:20:59,360
+seven years. Imagine, imagine winning all that money and then they're like on.
+
+1675
+01:20:59,360 --> 01:21:02,840
+You can keep all of it. Okay, but I'm, but you have to stop eating gum. You
+
+1676
+01:21:02,840 --> 01:21:05,580
+can't eat double bubble ever again. I'm storming into the Facebook offices.
+
+1677
+01:21:05,580 --> 01:21:07,940
+Let's do it. Let's do it. I'm storming into the Facebook offices. You see Dylan.
+
+1678
+01:21:07,940 --> 01:21:11,400
+Dylan's like, "Hey, Eduardo, chicken fingers." And I'm putting my hand in his
+
+1679
+01:21:11,420 --> 01:21:15,580
+space and I walk for me. I walk up to Marcus typing and I say hey mark.
+
+1680
+01:21:15,580 --> 01:21:19,220
+How's it going miss you buddy
+
+1681
+01:21:19,220 --> 01:21:21,080
+mark?
+
+1682
+01:21:21,080 --> 01:21:24,880
+Do you want to go jump rope mark?
+
+1683
+01:21:24,880 --> 01:21:27,340
+Oh well, I turn around
+
+1684
+01:21:27,340 --> 01:21:32,000
+trips and destroys his computer by accident
+
+1685
+01:21:32,000 --> 01:21:36,060
+party foul.
+
+1686
+01:21:39,700 --> 01:21:42,240
+I was plugged in. I didn't hear it. I didn't hear the whole see
+
+1687
+01:21:42,240 --> 01:21:47,560
+I no idea. This is a for in in court is the first time I've ever I'm ever
+
+1688
+01:21:47,560 --> 01:21:48,740
+hearing about you having any
+
+1689
+01:21:48,740 --> 01:21:55,020
+so wait you're suing me.
+
+1690
+01:21:55,020 --> 01:22:01,000
+I think so. I don't why I thought you were you had forty nine point nine
+
+1691
+01:22:01,000 --> 01:22:04,180
+nine five percent of the company. Why are you yeah, but I deserve at least
+
+1692
+01:22:04,180 --> 01:22:04,620
+ninety
+
+1693
+01:22:04,620 --> 01:22:08,180
+you deserve that you started with fifty. Why would you have ninety you give us
+
+1694
+01:22:08,220 --> 01:22:10,920
+twelve hundred dollars and then fifty eight cents on a credit card for
+
+1695
+01:22:10,920 --> 01:22:15,520
+inflation. Now that was three years ago. It's a lot more money today.
+
+1696
+01:22:15,520 --> 01:22:20,420
+That's almost twelve hundred and fifteen dollars. How is he going to win?
+
+1697
+01:22:20,420 --> 01:22:28,960
+How is he going to win? Well, to close this out jury just because just because
+
+1698
+01:22:28,960 --> 01:22:30,100
+Mark is
+
+1699
+01:22:30,100 --> 01:22:34,720
+smarter than me and he made the whole website and all of his business ideas
+
+1700
+01:22:34,760 --> 01:22:42,400
+company may have led to the website being valued more and because I just was strange and weird
+
+1701
+01:22:42,400 --> 01:22:48,280
+and acted off, that means that I should not own the entire company?
+
+1702
+01:22:48,280 --> 01:22:56,340
+So before the closing arguments, you all agreed to do one more thing, which is also highly
+
+1703
+01:22:56,340 --> 01:23:04,400
+unorthodox in this three-way trial, which is a hackathon to prove who is actually the
+
+1704
+01:23:04,400 --> 01:23:12,160
+smartest guy here. This is easy. So five of my intelligence roll out the computers. The
+
+1705
+01:23:12,160 --> 01:23:18,960
+computers are rolled out. Oh, you all need to sit in front of the computers. Can I have
+
+1706
+01:23:18,960 --> 01:23:24,320
+one for me and my brother? Yeah, you can have two computers. That's fine. Double the computers.
+
+1707
+01:23:24,320 --> 01:23:29,740
+That's not fair. They will do it. I guess fair went out the window the second we stepped
+
+1708
+01:23:29,740 --> 01:23:31,880
+stepped into this core room. I still can't even believe we're
+
+1709
+01:23:31,880 --> 01:23:37,180
+here. Your job is to hack into a we have a sort of a site that
+
+1710
+01:23:37,180 --> 01:23:42,520
+has been put up that's called E bombs world and your job is to
+
+1711
+01:23:42,520 --> 01:23:50,160
+hack into it by with the next 45 minutes. So, okay, we're going
+
+1712
+01:23:50,160 --> 01:23:54,600
+to do a bunch of rolls. So start rolling
+
+1713
+01:23:56,340 --> 01:24:03,940
+and you're in evidence, right? You said no sleepy. Okay, I got a six. I got a
+
+1714
+01:24:03,940 --> 01:24:06,980
+four. I got a ten. Are we rolling intelligence?
+
+1715
+01:24:06,980 --> 01:24:10,920
+How many times each? Three times? Yeah, sorry. Okay, I got a ten. Should we
+
+1716
+01:24:10,920 --> 01:24:14,220
+keep a running total or are we just... I got an eight saying them. A ten.
+
+1717
+01:24:14,220 --> 01:24:18,780
+Just say them, yeah. A seventeen is my second roll. My second roll is a
+
+1718
+01:24:18,780 --> 01:24:23,800
+eight. What was your first roll? Me? I already forgot. Okay, roll again.
+
+1719
+01:24:24,060 --> 01:24:26,860
+I think it was six or four or something along those lines.
+
+1720
+01:24:26,860 --> 01:24:28,560
+Well, you have a plus four on your end.
+
+1721
+01:24:28,560 --> 01:24:29,460
+I have a plus two.
+
+1722
+01:24:29,460 --> 01:24:31,100
+Oh, OK. I can't read you go.
+
+1723
+01:24:31,100 --> 01:24:33,800
+Oh, wait, I've been rolling this whole time.
+
+1724
+01:24:33,800 --> 01:24:35,940
+Yeah, I think you need to go through us one by one.
+
+1725
+01:24:35,940 --> 01:24:38,300
+Yeah, this is this is confusing.
+
+1726
+01:24:38,300 --> 01:24:42,400
+And it's I want you each to roll one at a time, like, like just roll your three
+
+1727
+01:24:42,400 --> 01:24:45,180
+first. You got 10, 17, 17, the whole rolls.
+
+1728
+01:24:45,180 --> 01:24:47,080
+Yeah. Just 10, 17, 18.
+
+1729
+01:24:47,080 --> 01:24:48,880
+OK, you know, OK.
+
+1730
+01:24:48,880 --> 01:24:52,120
+For.
+
+1731
+01:24:52,120 --> 01:24:57,280
+What, you get to roll all of them again?
+
+1732
+01:24:57,280 --> 01:24:58,280
+Yeah, that's fine.
+
+1733
+01:24:58,280 --> 01:24:59,280
+You do too.
+
+1734
+01:24:59,280 --> 01:25:00,280
+You do too.
+
+1735
+01:25:00,280 --> 01:25:02,360
+Four, sixteen.
+
+1736
+01:25:02,360 --> 01:25:04,400
+Also make sure to subtract your intelligence.
+
+1737
+01:25:04,400 --> 01:25:05,400
+Yeah, yeah.
+
+1738
+01:25:05,400 --> 01:25:06,400
+Okay.
+
+1739
+01:25:06,400 --> 01:25:08,400
+I have minus one.
+
+1740
+01:25:08,400 --> 01:25:09,400
+Yes.
+
+1741
+01:25:09,400 --> 01:25:10,400
+Seventeen.
+
+1742
+01:25:10,400 --> 01:25:11,400
+Okay, wow.
+
+1743
+01:25:11,400 --> 01:25:12,400
+Alright, you're up.
+
+1744
+01:25:12,400 --> 01:25:16,080
+So I'm doing three of them?
+
+1745
+01:25:16,080 --> 01:25:17,080
+That is a fourteen.
+
+1746
+01:25:17,080 --> 01:25:18,080
+Or wait, no.
+
+1747
+01:25:18,080 --> 01:25:19,080
+A sixteen.
+
+1748
+01:25:19,080 --> 01:25:20,080
+16.
+
+1749
+01:25:20,080 --> 01:25:24,720
+He's doing some sneaky shit.
+
+1750
+01:25:24,720 --> 01:25:25,720
+He's letting me roll off his hand.
+
+1751
+01:25:25,720 --> 01:25:31,480
+And a 16.
+
+1752
+01:25:31,480 --> 01:25:34,120
+You all start vibrating.
+
+1753
+01:25:34,120 --> 01:25:36,080
+The computers start to glow.
+
+1754
+01:25:36,080 --> 01:25:41,360
+I take it out of my butt, my vibrator that I had.
+
+1755
+01:25:41,360 --> 01:25:43,280
+Suddenly, I get off my brother's lap.
+
+1756
+01:25:43,280 --> 01:25:47,720
+You feel your, your, uh, uh, you start to feel, uh, your, your,
+
+1757
+01:25:47,720 --> 01:25:53,440
+whatever it is that the sort of, uh, uh, uh, intangible thing that makes you
+
+1758
+01:25:53,440 --> 01:25:58,680
+feel tethered to wherever you are, starts to slip away and you start to
+
+1759
+01:25:58,680 --> 01:26:09,680
+fall into the computer and you zoom into the computer and you're all in it
+
+1760
+01:26:09,680 --> 01:26:10,920
+and you're completely blue.
+
+1761
+01:26:12,200 --> 01:26:13,500
+It's fucking Tron.
+
+1762
+01:26:13,500 --> 01:26:15,320
+And next time.
+
+1763
+01:26:15,320 --> 01:26:16,440
+Oh my God.
+
+1764
+01:26:16,440 --> 01:26:20,040
+We'll deal with the three of you
+
+1765
+01:26:20,040 --> 01:26:21,040
+having to team up.
+
+1766
+01:26:21,040 --> 01:26:24,080
+That was just the first part.
+
+1767
+01:26:24,080 --> 01:26:25,320
+And we do Tron.
+
+1768
+01:26:25,320 --> 01:26:26,360
+Yeah.
+
+1769
+01:26:26,360 --> 01:26:27,800
+Well, play.
+
+1770
+01:26:27,800 --> 01:26:29,480
+I wish I
+
+1771
+01:26:29,480 --> 01:26:32,280
+wish that the first episode of
+
+1772
+01:26:32,280 --> 01:26:33,480
+this was way better.
+
+1773
+01:26:33,480 --> 01:26:36,360
+They'll they're going to like the
+
+1774
+01:26:36,360 --> 01:26:37,360
+second one. Yeah.
+
+1775
+01:26:37,360 --> 01:26:38,720
+The second one will be.
+
+1776
+01:26:38,720 --> 01:26:40,640
+You're just sad because you picked a
+
+1777
+01:26:40,640 --> 01:26:42,140
+character and you were too afraid to
+
+1778
+01:26:42,160 --> 01:26:46,280
+talk the whole time. I just picked the worst character. You picked the best character.
+
+1779
+01:26:46,280 --> 01:26:50,600
+Yeah, you're being goofy, man. You did a good job. You're a bitch. Don't let this music make
+
+1780
+01:26:50,600 --> 01:26:57,120
+you sad. It is sad music. You're right. You're not a bitch. You're two bitches. Yeah. I wish
+
+1781
+01:26:57,120 --> 01:27:03,760
+that we had that playing the whole time instead of this. This has been making me upset. Emotional.
+
+1782
+01:27:03,760 --> 01:27:06,480
+Alright, Tron next time. Tron next time, bye.
+
+1783
+01:27:06,480 --> 01:27:09,360
+All right, cool.
+

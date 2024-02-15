@@ -1,0 +1,3956 @@
+﻿1
+00:00:00,000 --> 00:00:03,880
+Hi, what's up? It's Cameron. I have some big exciting news
+
+2
+00:00:03,880 --> 00:00:10,820
+We are doing a D&D live show on Thursday March 31st
+
+3
+00:00:10,820 --> 00:00:14,840
+It's in Brooklyn, New York at Union Hall
+
+4
+00:00:14,840 --> 00:00:20,280
+And if you are listening to this episode on the day that it comes out Monday, February 7th
+
+5
+00:00:20,280 --> 00:00:24,160
+Then tickets will be on sale at noon Eastern today
+
+6
+00:00:24,160 --> 00:00:26,160
+And if you're listening anytime after that
+
+7
+00:00:26,400 --> 00:00:29,960
+tickets are already on sale and you're going to want to buy a ticket to this
+
+8
+00:00:29,960 --> 00:00:31,680
+because it is going to be
+
+9
+00:00:31,680 --> 00:00:35,760
+swag as hell. I'll put a link to buy tickets in the description of this
+
+10
+00:00:35,760 --> 00:00:37,360
+episode and I'll also put it
+
+11
+00:00:37,360 --> 00:00:40,560
+on Twitter @podaboutlist
+
+12
+00:00:40,560 --> 00:00:44,160
+it's called
+
+13
+00:00:44,160 --> 00:00:47,480
+"Hopperation Frogtastic Voyage"
+
+14
+00:00:47,480 --> 00:00:51,880
+and Sullivan the Frog will die if you do not buy a ticket to the show
+
+15
+00:00:51,880 --> 00:00:56,240
+so you're gonna wanna do that and here's the episode
+
+16
+00:00:56,240 --> 00:01:03,240
+Well, after an auspicious start, I knew we needed to set a plan in motion in order to
+
+17
+00:01:03,240 --> 00:01:10,840
+get our money back, er, get their money back. After we convinced Barry Gee and Travis to
+
+18
+00:01:10,840 --> 00:01:16,480
+join us, we had to deal with the ICUP charity compound. But first, the team.
+
+19
+00:01:16,480 --> 00:01:22,200
+Blotos Pierce, teleporter extraordinaire. Patrick Yoda, mind reader and force user.
+
+20
+00:01:22,200 --> 00:01:24,440
+Ray William Johnson, computer guy.
+
+21
+00:01:24,440 --> 00:01:27,600
+Barry Gee, explosions expert and face.
+
+22
+00:01:27,600 --> 00:01:30,480
+Travis Asinat, muscle and deagle expert.
+
+23
+00:01:30,480 --> 00:01:33,040
+And me, Sullivan the Frog.
+
+24
+00:01:33,040 --> 00:01:37,080
+I think they told me I was the driver, but I don't, I don't, I just kind of did a lot
+
+25
+00:01:37,080 --> 00:01:38,080
+of stuff.
+
+26
+00:01:38,080 --> 00:01:43,940
+Um, anyway, the ICUP charity compound, formerly the Papi Chuko's Technoslime Addiction Treatment
+
+27
+00:01:43,940 --> 00:01:49,040
+and Recovery Center, was a highly secure location, even by Papi Chuko Technoslime standards.
+
+28
+00:01:49,040 --> 00:01:53,660
+And it seems after getting their independence from the company they maintain that security standard
+
+29
+00:01:53,660 --> 00:01:57,380
+multiple floors made entirely of hyper-cauterized techno slime
+
+30
+00:01:57,380 --> 00:02:06,100
+Staffed by elite corporate agents who still are getting paid by Papi Chuko's corporation because of a billing error and also technological security
+
+31
+00:02:06,100 --> 00:02:11,580
+Concentrated EMP rays to destroy rogue electronic devices biometric scans and ID checks
+
+32
+00:02:11,580 --> 00:02:14,800
+It's uh, it was it was gonna be a tough job
+
+33
+00:02:15,680 --> 00:02:22,840
+But the building was large and maintenance doesn't really have that much value behind it, so there were other access points.
+
+34
+00:02:22,840 --> 00:02:27,760
+Once we got the blueprints of the facility and staked it out, we just needed a few other components.
+
+35
+00:02:27,760 --> 00:02:36,120
+So we knew that the ICUP had a vault and in that it had donations that were represented as hard digital currency.
+
+36
+00:02:36,120 --> 00:02:43,000
+That's right, currency you can actually download rather than existing as a series of transactions in the unreachable quantum blockchain.
+
+37
+00:02:43,520 --> 00:02:51,360
+Most institutions don't do this but regulations around charities that stipulate they do everything less efficiently out of respect is an advantage for us
+
+38
+00:02:51,360 --> 00:02:57,860
+After about five days time however the vaults contents will be invested into the quantum crypto market
+
+39
+00:02:57,860 --> 00:03:02,160
+And then we won't be able to access it so we're gonna have to figure out how to do it
+
+40
+00:03:02,160 --> 00:03:09,940
+The way that the way that what we knew about the vault was that we needed to at the very least get credentials
+
+41
+00:03:10,600 --> 00:03:13,880
+So that we can as quantum crypto investors so that we can download
+
+42
+00:03:13,880 --> 00:03:19,120
+The files we had to get inside the vault to do that on the same network as the ICUP
+
+43
+00:03:19,120 --> 00:03:27,940
+And we needed to get past security including using a double golden deagle trick shot with perfectly weighted golden bullets for that
+
+44
+00:03:27,940 --> 00:03:35,100
+And we also needed to make sure we passed a pyometric scan that was for Fantima Von Kissyface
+
+45
+00:03:35,100 --> 00:03:38,120
+we also would need love slime to build a
+
+46
+00:03:38,480 --> 00:03:42,160
+UOAB, the uncle of all bombs, to open the vault door
+
+47
+00:03:42,160 --> 00:03:48,600
+So in order to do this, well first we were gonna have to get that blueprint so
+
+48
+00:03:48,600 --> 00:03:53,140
+I consulted the gang about what they thought we should do
+
+49
+00:03:53,140 --> 00:03:57,160
+Guys
+
+50
+00:03:57,160 --> 00:04:07,660
+All right, everyone's showing their credit cards on stream
+
+51
+00:04:07,660 --> 00:04:09,660
+*laughter*
+
+52
+00:04:09,660 --> 00:04:11,660
+*laughter*
+
+53
+00:04:11,660 --> 00:04:13,660
+*laughter*
+
+54
+00:04:13,660 --> 00:04:15,660
+*laughter*
+
+55
+00:04:15,660 --> 00:04:17,660
+*laughter*
+
+56
+00:04:17,660 --> 00:04:19,660
+*laughter*
+
+57
+00:04:19,660 --> 00:04:21,660
+*laughter*
+
+58
+00:04:21,660 --> 00:04:23,660
+*laughter*
+
+59
+00:04:23,660 --> 00:04:25,660
+*laughter*
+
+60
+00:04:25,660 --> 00:04:27,660
+*laughter*
+
+61
+00:04:27,660 --> 00:04:29,660
+*laughter*
+
+62
+00:04:29,660 --> 00:04:31,660
+*laughter*
+
+63
+00:04:31,660 --> 00:04:33,660
+*laughter*
+
+64
+00:04:33,660 --> 00:04:35,660
+*laughter*
+
+65
+00:04:35,660 --> 00:04:40,340
+anything about pulling a heist it's probably there's probably a made up of
+
+66
+00:04:40,340 --> 00:04:45,740
+several rooms connected in different ways probably a vault that we have to steal
+
+67
+00:04:45,740 --> 00:04:49,060
+from and there's probably a blueprint that shows it all and if there's
+
+68
+00:04:49,060 --> 00:04:54,860
+anything I know about a heist it's every step of it and I don't need any of you
+
+69
+00:04:54,860 --> 00:04:59,700
+and I'll go do it myself well all we have to do is go to the basement of the
+
+70
+00:04:59,700 --> 00:05:03,180
+charity and look for a blue piece of paper and that should give us a map of
+
+71
+00:05:03,180 --> 00:05:11,140
+the entire area. We need a blueprint expert. We need to recruit a blueprint expert. A brand
+
+72
+00:05:11,140 --> 00:05:17,900
+new character. Voiced by a new person. Let's find someone who has the thing we need and
+
+73
+00:05:17,900 --> 00:05:26,220
+make him give it to us. I think that's probably a very solid idea, Travis. The question is,
+
+74
+00:05:26,220 --> 00:05:31,660
+I mean I imagine there was probably an architect or something who designed it. Okay, him. Okay,
+
+75
+00:05:31,660 --> 00:05:33,660
+Yeah, okay him right now
+
+76
+00:05:33,660 --> 00:05:36,460
+Don't think I'm instantly call him
+
+77
+00:05:36,460 --> 00:05:43,940
+To the discord call. I mean the meeting I can't well look to get to that guy we I
+
+78
+00:05:43,940 --> 00:05:47,660
+Can't just find the architect for this maybe
+
+79
+00:05:47,660 --> 00:06:00,900
+We're in your Scarface mansion without you for some reason I mean, where are you where are you zooming in from?
+
+80
+00:06:00,900 --> 00:06:09,140
+them. Space. That tracks, yeah. You're in space. I hear you guys need an architect.
+
+81
+00:06:09,140 --> 00:06:20,540
+I know a guy. I know one guy. Who's that? His name is John Architect. Okay, is he the
+
+82
+00:06:20,540 --> 00:06:26,940
+architect of the building that we're trying to steal from or is he just an architect?
+
+83
+00:06:26,940 --> 00:06:28,940
+He built that building.
+
+84
+00:06:28,940 --> 00:06:30,940
+He built the building too.
+
+85
+00:06:30,940 --> 00:06:32,940
+Okay.
+
+86
+00:06:32,940 --> 00:06:34,940
+Well, let's... where can we find him?
+
+87
+00:06:34,940 --> 00:06:36,940
+At his house.
+
+88
+00:06:36,940 --> 00:06:38,940
+Wow.
+
+89
+00:06:38,940 --> 00:06:40,940
+Can you ping us a location?
+
+90
+00:06:40,940 --> 00:06:42,940
+I will...
+
+91
+00:06:42,940 --> 00:06:44,940
+C message you
+
+92
+00:06:44,940 --> 00:06:46,940
+his location.
+
+93
+00:06:46,940 --> 00:06:48,940
+Do you phone, Sullivan?
+
+94
+00:06:48,940 --> 00:06:50,940
+C message. Sullivan, you have a phone?
+
+95
+00:06:50,940 --> 00:06:52,940
+Yeah.
+
+96
+00:06:52,940 --> 00:06:54,940
+I need to put some parental controls on this.
+
+97
+00:06:54,940 --> 00:06:58,340
+No, no last time you access adult websites
+
+98
+00:06:58,340 --> 00:07:02,320
+Let's read his search history. Please don't
+
+99
+00:07:02,320 --> 00:07:06,840
+Calm adult friend finder.com
+
+100
+00:07:06,840 --> 00:07:11,820
+Search slash friend
+
+101
+00:07:11,820 --> 00:07:19,580
+Just trying to spread out the you don't know what a lot of people need friends. Maybe maybe so I don't need any friends
+
+102
+00:07:19,580 --> 00:07:21,580
+I got plenty
+
+103
+00:07:22,500 --> 00:07:30,800
+Okay, why are you here a search on Quora - that says how many friends do you how the few friends can a person have before?
+
+104
+00:07:30,800 --> 00:07:32,300
+they die
+
+105
+00:07:32,300 --> 00:07:36,500
+Okay, and then I'm going to say a similar search right after where you replace person with frog
+
+106
+00:07:36,500 --> 00:07:45,100
+All right, you know give me give me my phone please please give me my phone
+
+107
+00:07:45,100 --> 00:07:49,060
+You don't even have my number in it. Give me give me his phone
+
+108
+00:07:50,020 --> 00:07:57,100
+Okay, okay, at least that's a more reasonable height. Please give me the phone. Oh you left your private tabs open. Oh
+
+109
+00:07:57,100 --> 00:08:05,660
+Please please stop. Oh, yeah, but what does he have open hermit the frog butt girl?
+
+110
+00:08:05,660 --> 00:08:13,380
+Here give me that I take them I take the the phone and I turn around and a flash goes off
+
+111
+00:08:13,380 --> 00:08:17,020
+Guys, what the hell Sullivan is a picture of my dick and ball
+
+112
+00:08:18,900 --> 00:08:21,220
+What the fuck is going on Sullivan?
+
+113
+00:08:21,220 --> 00:08:29,280
+It tabs give me the phone give me the phone I take Sullivan's phone and I dial 9-1-1 and immediately hang up
+
+114
+00:08:29,280 --> 00:08:34,500
+Okay, wait, let's just not draw attention to the cops
+
+115
+00:08:34,500 --> 00:08:45,300
+Very key very key if you know where this John guy is I say we go talk to him
+
+116
+00:08:45,900 --> 00:08:51,260
+About the building maybe he can give us maybe he could tell us about it or has blueprint for it. All right
+
+117
+00:08:51,260 --> 00:08:53,980
+Let's let's just go to his house while he will say
+
+118
+00:08:53,980 --> 00:08:57,020
+building
+
+119
+00:08:57,020 --> 00:08:59,860
+Shit
+
+120
+00:08:59,860 --> 00:09:06,940
+Who go ahead me go ahead while Sullivan was saying that
+
+121
+00:09:12,220 --> 00:09:16,620
+Yeah, Barry we can hear you just send over the thing what you say the
+
+122
+00:09:16,620 --> 00:09:25,180
+Opinion mm-hmm while Sullivan was saying all that stuff. I just bought like a bunch of
+
+123
+00:09:25,180 --> 00:09:34,500
+That I bought it I bought a print of that I bought a print of Barry G with makeup on his eBay account
+
+124
+00:09:34,500 --> 00:09:36,940
+using his his Apple pay
+
+125
+00:09:36,940 --> 00:09:40,180
+Okay, that was
+
+126
+00:09:41,100 --> 00:09:44,940
+That's so old you have such a shitty phone that still has Apple Pay on it
+
+127
+00:09:44,940 --> 00:09:50,420
+This is an iPhone 5c. I can call people who cares, you know, that's all I care, you know
+
+128
+00:09:50,420 --> 00:09:57,900
+Your call history, okay, so there's a call to 9-1-1 five minutes ago. It looks like that's it
+
+129
+00:09:57,900 --> 00:10:01,740
+Yeah, it's still got a flappy bird on this thing. You're actually
+
+130
+00:10:01,740 --> 00:10:05,060
+a lot of money
+
+131
+00:10:08,180 --> 00:10:11,220
+To sell your phone, okay, so first
+
+132
+00:10:11,220 --> 00:10:31,540
+I didn't pick it up again. It's not
+
+133
+00:10:31,540 --> 00:10:36,620
+Reflective of my ability to play flappy bird and also if you look at the call history
+
+134
+00:10:36,620 --> 00:10:40,500
+I've called you guys every week and a half and then I would space it out about a month
+
+135
+00:10:40,500 --> 00:10:46,100
+Just in case I was being bothering you and you can see a lot of me trying to call you guys
+
+136
+00:10:46,100 --> 00:10:48,740
+so that happened to
+
+137
+00:10:48,740 --> 00:10:54,340
+How much you use your phone for something useful and find out where this fucker is? Okay. Thank you
+
+138
+00:10:54,340 --> 00:11:00,460
+Barry G for sending it and yeah, he finds the the the address of John architect and
+
+139
+00:11:00,460 --> 00:11:04,020
+Yeah, I mean you guys can head over there if you want to
+
+140
+00:11:05,260 --> 00:11:23,980
+the
+
+141
+00:11:23,980 --> 00:11:39,060
+the
+
+142
+00:11:39,060 --> 00:11:41,060
+I came with you.
+
+143
+00:11:41,060 --> 00:11:43,060
+I'm just kidding.
+
+144
+00:11:43,060 --> 00:11:45,060
+Okay, this is starting to make some serious sense.
+
+145
+00:11:45,060 --> 00:11:51,060
+Let's go to that guy's house on planet E-Bomb.
+
+146
+00:11:51,060 --> 00:11:53,060
+Yeah, sure.
+
+147
+00:11:53,060 --> 00:11:55,060
+Which is the planet that we're on.
+
+148
+00:11:55,060 --> 00:11:57,060
+Which I think is maybe where all of us are.
+
+149
+00:11:57,060 --> 00:11:59,060
+Let's stay on the same planet.
+
+150
+00:11:59,060 --> 00:12:01,060
+I don't want to leave the planet.
+
+151
+00:12:01,060 --> 00:12:03,060
+Yeah, for some reason.
+
+152
+00:12:03,060 --> 00:12:07,060
+So yeah, you guys drive across Gun City
+
+153
+00:12:07,060 --> 00:12:11,520
+city to John Architect's house. It is, uh, it looks like the house in
+
+154
+00:12:11,520 --> 00:12:17,220
+bling ring that just like perfectly clear box house. Um, yeah. And you
+
+155
+00:12:17,220 --> 00:12:23,240
+see him. Oh yeah. Wow. Doing stretches, uh, um, completely
+
+156
+00:12:23,240 --> 00:12:26,380
+clothes. Are those crazy, awesome teens from bling ring in there too?
+
+157
+00:12:26,380 --> 00:12:33,100
+Nope. They're not. They're not helping him stretch. Nope. Nope. Are
+
+158
+00:12:33,100 --> 00:12:38,100
+those Ross they are no no they are helping them stretch
+
+159
+00:12:38,100 --> 00:12:42,180
+your old helping instruction there way more of us than there are patches you
+
+160
+00:12:42,180 --> 00:12:47,060
+can see there are enough of us now that we can just make the story
+
+161
+00:12:47,060 --> 00:12:52,860
+slowly becoming becoming us obsolete yeah okay so the teens from from bring
+
+162
+00:12:52,860 --> 00:12:56,020
+bling-ring are there and they're helping them stretch and we walk up to them we
+
+163
+00:12:56,020 --> 00:13:00,140
+blast their brains they're 18 years old that's first that's for stealing all
+
+164
+00:13:00,140 --> 00:13:04,740
+those celebrities fucking shit you pieces of shit yeah you're not allowed to do
+
+165
+00:13:04,740 --> 00:13:09,460
+that yeah you're not allowed to do that you guys are lower than dogs from
+
+166
+00:13:09,460 --> 00:13:14,420
+stealing food from fucking celebrities and they explode the most beautiful
+
+167
+00:13:14,420 --> 00:13:19,900
+people on the world celebrities in what world are we on Pat
+
+168
+00:13:19,900 --> 00:13:21,900
+E-Bomb!
+
+169
+00:13:21,900 --> 00:13:23,900
+You guys go in.
+
+170
+00:13:23,900 --> 00:13:25,900
+Oh yeah, what's up?
+
+171
+00:13:25,900 --> 00:13:27,900
+I was gonna say "Um, E-Bomb."
+
+172
+00:13:27,900 --> 00:13:29,900
+[Laughter]
+
+173
+00:13:29,900 --> 00:13:31,900
+We're gonna get through so much plot.
+
+174
+00:13:31,900 --> 00:13:33,900
+[Laughter]
+
+175
+00:13:33,900 --> 00:13:35,900
+[Laughter]
+
+176
+00:13:35,900 --> 00:13:37,900
+Alright.
+
+177
+00:13:37,900 --> 00:13:39,900
+John Architect answers the door.
+
+178
+00:13:39,900 --> 00:13:41,900
+And you guys I guess are carrying...
+
+179
+00:13:41,900 --> 00:13:43,900
+Are you guys...
+
+180
+00:13:43,900 --> 00:13:45,900
+Is Barry Gee zoomed in or no? Not yet.
+
+181
+00:13:45,900 --> 00:13:47,900
+I'm eating basic combos.
+
+182
+00:13:47,900 --> 00:13:49,900
+an iPad that we have.
+
+183
+00:13:49,900 --> 00:13:50,900
+Yeah.
+
+184
+00:13:50,900 --> 00:13:53,300
+Wait, Caleb, can he be on your computer screen?
+
+185
+00:13:53,300 --> 00:13:54,300
+Oh, yeah.
+
+186
+00:13:54,300 --> 00:13:55,300
+Oh, yeah.
+
+187
+00:13:55,300 --> 00:13:56,300
+Yeah, okay.
+
+188
+00:13:56,300 --> 00:14:00,940
+Yeah, he replaces my Teletubby screen in the middle of the demon.
+
+189
+00:14:00,940 --> 00:14:01,940
+Yes.
+
+190
+00:14:01,940 --> 00:14:08,100
+Instead of the normal two green dots for eyes and four green dots for a smile.
+
+191
+00:14:08,100 --> 00:14:10,060
+Just what you see.
+
+192
+00:14:10,060 --> 00:14:11,060
+Yeah.
+
+193
+00:14:11,060 --> 00:14:13,500
+You see Barry G in makeup.
+
+194
+00:14:13,500 --> 00:14:15,260
+Yeah, on the line with Barry G.
+
+195
+00:14:15,260 --> 00:14:17,260
+the
+
+196
+00:14:17,260 --> 00:14:19,300
+the
+
+197
+00:14:19,300 --> 00:14:21,300
+the
+
+198
+00:14:21,300 --> 00:14:23,300
+the
+
+199
+00:14:23,300 --> 00:14:25,300
+the
+
+200
+00:14:25,300 --> 00:14:27,300
+the
+
+201
+00:14:27,300 --> 00:14:29,340
+the
+
+202
+00:14:29,340 --> 00:14:31,340
+the
+
+203
+00:14:31,340 --> 00:14:33,340
+the
+
+204
+00:14:33,340 --> 00:14:35,340
+the
+
+205
+00:14:35,340 --> 00:14:37,380
+the
+
+206
+00:14:37,380 --> 00:14:39,420
+the
+
+207
+00:14:39,420 --> 00:14:41,420
+the
+
+208
+00:14:42,420 --> 00:14:45,560
+I think I'm gonna fuck out of him
+
+209
+00:14:45,560 --> 00:14:50,840
+If I'm a bit confused so you're welcome to come inside
+
+210
+00:14:50,840 --> 00:14:53,980
+I'm gonna kill you
+
+211
+00:14:53,980 --> 00:15:02,300
+No, we need a we need blue we need some blue I'm gonna have sex with you
+
+212
+00:15:02,300 --> 00:15:04,860
+No, we need some blue from you
+
+213
+00:15:04,860 --> 00:15:08,860
+We need the blue paper. I'm gonna blow him
+
+214
+00:15:08,860 --> 00:15:11,820
+No close
+
+215
+00:15:11,820 --> 00:15:12,820
+I blew him?
+
+216
+00:15:12,820 --> 00:15:15,820
+I guess I'll have blown him.
+
+217
+00:15:15,820 --> 00:15:19,420
+I've blown him before.
+
+218
+00:15:19,420 --> 00:15:24,740
+When we leave here you're going to be saying I blew him, but not right now.
+
+219
+00:15:24,740 --> 00:15:26,960
+Got it, okay.
+
+220
+00:15:26,960 --> 00:15:38,460
+So we have some, we're interested in the recent redevelopment of the iCup compound and your
+
+221
+00:15:38,460 --> 00:15:44,060
+work on it and we wanted to know if you had the blueprints for that.
+
+222
+00:15:44,060 --> 00:15:48,300
+It's not called a blueprint you idiot it's called a blue piece of paper stupid ass shirt.
+
+223
+00:15:48,300 --> 00:15:51,660
+Yeah and I blew him? No.
+
+224
+00:15:51,660 --> 00:16:01,660
+This is sort of like I'm playing D&D alone and we're here to distract you.
+
+225
+00:16:01,660 --> 00:16:03,660
+I'm actually answering them.
+
+226
+00:16:03,660 --> 00:16:09,660
+I have like five people just making fun of me while I play D&D by myself.
+
+227
+00:16:09,660 --> 00:16:14,660
+You're like Jordan Peterson and we're like five Joe Rogans.
+
+228
+00:16:14,660 --> 00:16:16,660
+Yeah.
+
+229
+00:16:16,660 --> 00:16:18,660
+Because he's crying.
+
+230
+00:16:18,660 --> 00:16:20,660
+Okay.
+
+231
+00:16:20,660 --> 00:16:27,660
+And yeah, I mean, John the Architect answers me and he says, "Oh, well, the blueprints,
+
+232
+00:16:27,660 --> 00:16:29,660
+Um, I mean I have some
+
+233
+00:16:29,660 --> 00:16:32,220
+sketches, but the official blueprints I
+
+234
+00:16:32,220 --> 00:16:34,780
+Like everything it got possessed by
+
+235
+00:16:34,780 --> 00:16:39,580
+Um black rock real estate and development division. Yeah, he blueprints his black cock
+
+236
+00:16:39,580 --> 00:16:48,540
+Yeah, why don't why don't you roll roll roll persuasion on that let's have you roll something
+
+237
+00:16:48,540 --> 00:16:52,780
+Let's see if that made him laugh. He rolls. Can we can we do a perception check on whether or not?
+
+238
+00:16:52,780 --> 00:16:54,860
+John, architect is a black male
+
+239
+00:16:55,980 --> 00:16:58,540
+Or not even that, just if his cock is black.
+
+240
+00:16:58,540 --> 00:17:01,020
+- Well, they all need hair. - No, no, I just said princes.
+
+241
+00:17:01,020 --> 00:17:03,980
+All of you, yeah, all of you roll insight to see if you can tell...
+
+242
+00:17:03,980 --> 00:17:06,460
+- It was like the anime needs jokes. - ...if he's got a black penis.
+
+243
+00:17:06,460 --> 00:17:10,860
+I think Gun City needs a new skill roll called "joke."
+
+244
+00:17:10,860 --> 00:17:14,220
+And if you make a joke to a character, you have to roll that.
+
+245
+00:17:14,220 --> 00:17:16,700
+And I think my character has +100.
+
+246
+00:17:16,700 --> 00:17:18,300
+Mm-hmm.
+
+247
+00:17:18,300 --> 00:17:21,260
+And I think Patrick's character has -7000.
+
+248
+00:17:21,260 --> 00:17:22,700
+I'm only 20.
+
+249
+00:17:22,700 --> 00:17:27,700
+Yeah, you could tell that his penis is the color of whatever his skin is like you can tell pretty sure
+
+250
+00:17:27,700 --> 00:17:31,580
+It was it is it is white like all my characters
+
+251
+00:17:31,580 --> 00:17:37,140
+Thank God, yeah, oh and in walks the
+
+252
+00:17:37,140 --> 00:17:41,060
+Morgan Freeman
+
+253
+00:17:41,060 --> 00:17:45,640
+Hey just got back from the white surgery store
+
+254
+00:17:49,340 --> 00:17:54,940
+And yeah, so I mean he says it's in like this Blackrock facility. I mean you guys would know that
+
+255
+00:17:54,940 --> 00:17:57,780
+Blackrock eventually became more
+
+256
+00:17:57,780 --> 00:18:05,100
+Aggressive and being a development and real estate company. So they probably developed some or at least contracted John
+
+257
+00:18:05,100 --> 00:18:07,740
+architect to develop
+
+258
+00:18:07,740 --> 00:18:09,940
+the the
+
+259
+00:18:09,940 --> 00:18:15,260
+Facility as you would know it and so that is the place that would have the blueprint
+
+260
+00:18:17,900 --> 00:18:20,380
+But you know, you can't really just go in there and
+
+261
+00:18:20,380 --> 00:18:28,620
+Ask we gotta go in there. I asked for a blue proprietary blueprint. Okay, I think we need to break in there
+
+262
+00:18:28,620 --> 00:18:31,060
+But first we'll need to get the blueprint
+
+263
+00:18:31,060 --> 00:18:41,620
+Actually, no and we'll need to go recruit two people who are willing to join us on this heist John architect
+
+264
+00:18:41,620 --> 00:18:44,820
+Do you know who designed the blackrock facility?
+
+265
+00:18:46,660 --> 00:18:51,540
+I'm not I'm not entirely certain but I can sit I let me I guess I can
+
+266
+00:18:51,540 --> 00:18:56,220
+For he was British the entire time. I had no choice
+
+267
+00:18:56,220 --> 00:18:59,980
+I was forced on the spot to make a character and I was like he's got to be different
+
+268
+00:18:59,980 --> 00:19:05,300
+And so I chose this and he is different from Leo the collector. Oh
+
+269
+00:19:05,300 --> 00:19:13,500
+Yeah, Leo the collector is very different. Yeah, do both of those voices at the same time. I can't do two voices at once
+
+270
+00:19:15,020 --> 00:19:17,020
+the
+
+271
+00:19:17,020 --> 00:19:19,020
+the
+
+272
+00:19:19,020 --> 00:19:21,020
+the
+
+273
+00:19:21,020 --> 00:19:23,020
+the
+
+274
+00:19:23,020 --> 00:19:25,020
+the
+
+275
+00:19:25,020 --> 00:19:27,020
+the
+
+276
+00:19:27,020 --> 00:19:29,020
+the
+
+277
+00:19:29,020 --> 00:19:31,020
+the
+
+278
+00:19:31,020 --> 00:19:33,020
+the
+
+279
+00:19:33,020 --> 00:19:35,020
+the
+
+280
+00:19:35,020 --> 00:19:37,020
+the
+
+281
+00:19:37,020 --> 00:19:39,020
+the
+
+282
+00:19:39,020 --> 00:19:41,020
+the
+
+283
+00:19:41,020 --> 00:19:43,020
+the
+
+284
+00:19:43,020 --> 00:19:48,740
+And he lives and he he knocks up one floor right above me
+
+285
+00:19:48,740 --> 00:19:55,040
+You see David architect who's also stretching in the clear building. This is all so easy so far
+
+286
+00:19:55,040 --> 00:20:00,300
+Yeah, yeah, and he breaks the glass floor and just comes down and lands on his face. I want to say
+
+287
+00:20:00,300 --> 00:20:05,420
+Glass floor you must be a very good architect
+
+288
+00:20:05,420 --> 00:20:12,880
+And he says he says it all it bruv I'll go another British accent for you
+
+289
+00:20:12,880 --> 00:20:17,920
+And he hands you guys the blueprint to the Blackrock building and then he kills himself
+
+290
+00:20:17,920 --> 00:20:28,600
+The Blackrock building was developed by by David architect and it shows they have glass floors everywhere we can bring right in
+
+291
+00:20:28,600 --> 00:20:31,160
+Does not have glass for all floors
+
+292
+00:20:31,160 --> 00:20:34,560
+It has glass floors and ceilings and walls and doors
+
+293
+00:20:34,560 --> 00:20:41,320
+Glass that have no door are just a door frame. It has doors made of paper and windows made of water
+
+294
+00:20:41,320 --> 00:20:43,320
+This is gonna be the best heist ever!
+
+295
+00:20:43,320 --> 00:20:45,320
+Made of nothing!
+
+296
+00:20:45,320 --> 00:20:49,320
+There's no ceilings on it either, yeah.
+
+297
+00:20:49,320 --> 00:20:53,320
+And it's as small as my hand!
+
+298
+00:20:53,320 --> 00:20:59,320
+It's perfect!
+
+299
+00:20:59,320 --> 00:21:01,320
+And it's right here!
+
+300
+00:21:01,320 --> 00:21:03,320
+Yeah, it's in his back pocket!
+
+301
+00:21:03,320 --> 00:21:07,320
+Okay, no. We're gonna do a heist on that place.
+
+302
+00:21:07,320 --> 00:21:09,320
+Yeah, you will.
+
+303
+00:21:09,320 --> 00:21:24,360
+the
+
+304
+00:21:24,360 --> 00:21:39,840
+the
+
+305
+00:21:40,880 --> 00:21:45,360
+But you can see that there is at the very least a main entrance.
+
+306
+00:21:45,360 --> 00:21:51,280
+And then you know that if you go up two floors, somewhere in that third floor,
+
+307
+00:21:51,280 --> 00:21:57,840
+there is a computer terminal that contains a full list of the blueprints inside of them.
+
+308
+00:21:57,840 --> 00:22:08,160
+It's hard-coded in there, it's not replicated anywhere, it's meant to be not accessible except by personal download.
+
+309
+00:22:08,160 --> 00:22:20,540
+the
+
+310
+00:22:20,540 --> 00:22:35,620
+the
+
+311
+00:22:35,620 --> 00:22:39,220
+you can roll investigation for that. Yeah, go for it.
+
+312
+00:22:39,220 --> 00:22:44,980
+I'm, yeah, while he investigates that, I would like to case the joint by dressing as an arcade
+
+313
+00:22:44,980 --> 00:22:47,140
+repairman. Okay, yeah, of course.
+
+314
+00:22:47,140 --> 00:22:48,980
+Walking into the front door. Very good.
+
+315
+00:22:48,980 --> 00:22:52,100
+I got a 20 on my investigation. Okay, cool. So,
+
+316
+00:22:52,100 --> 00:23:00,420
+all right, so, so yeah, I would say there's kind of like a synergy here because,
+
+317
+00:23:01,780 --> 00:23:17,280
+Cam, if you as an arcade repairman are kind of useful in that you can kind of distract the guards here while he's casing the joint, because it's pretty conspicuous to see a demon with a computer on its back, sort of like observing a building up and down.
+
+318
+00:23:17,280 --> 00:23:21,780
+So I think we should play out that scene to see if you're kind of ample at distracting them.
+
+319
+00:23:21,780 --> 00:23:27,280
+Yeah, I used my master disguise ability, by the way, so I have a perfect disguise.
+
+320
+00:23:27,280 --> 00:23:29,280
+Yes, as an arcade repairman.
+
+321
+00:23:29,280 --> 00:23:30,280
+Yeah.
+
+322
+00:23:30,280 --> 00:23:33,440
+All right, so yeah, you're coming up to the to the guards what's going on
+
+323
+00:23:33,440 --> 00:23:40,080
+Hello. Hello. Hello. What's all this then? I'm the arcade repairman here to repair
+
+324
+00:23:40,080 --> 00:23:43,600
+Machines
+
+325
+00:23:43,600 --> 00:23:45,640
+Yeah, I guess let's start with
+
+326
+00:23:45,640 --> 00:23:52,000
+Yeah, uh, you know what no, it's let's let's play this out and then we'll figure out where you're gonna have to roll
+
+327
+00:23:52,000 --> 00:23:58,380
+You see the guard there is like I don't remember we don't sorry. Did somebody call you for the building?
+
+328
+00:23:58,380 --> 00:24:00,380
+The machines are broken!
+
+329
+00:24:00,380 --> 00:24:04,380
+Oh, you're the guards, you're the guys who schedule the repairs, you're the ones who remember who calls who.
+
+330
+00:24:04,380 --> 00:24:06,380
+No, no, we don't schedule the repairs.
+
+331
+00:24:06,380 --> 00:24:10,380
+I tried playing the games earlier and I complained because they were all broken.
+
+332
+00:24:10,380 --> 00:24:12,380
+[laughter]
+
+333
+00:24:12,380 --> 00:24:16,380
+I, I, I, uh, just, just, hold on, let me, let me just check at the front desk.
+
+334
+00:24:16,380 --> 00:24:18,380
+I can't believe this.
+
+335
+00:24:18,380 --> 00:24:21,380
+Travis, how close to the scene are you? Are you-
+
+336
+00:24:21,380 --> 00:24:23,380
+I'm shouting!
+
+337
+00:24:23,380 --> 00:24:24,920
+(laughing)
+
+338
+00:24:24,920 --> 00:24:27,180
+- You're 20 feet away, cupping your head,
+
+339
+00:24:27,180 --> 00:24:29,300
+hands around your mouth, okay, yes.
+
+340
+00:24:29,300 --> 00:24:32,580
+- And yeah, one of the guards goes inside.
+
+341
+00:24:32,580 --> 00:24:36,580
+- I'm losing valuable time here, okay?
+
+342
+00:24:36,580 --> 00:24:37,780
+- One of the guards goes inside to check.
+
+343
+00:24:37,780 --> 00:24:40,020
+- I've never been made to wait this long in my life!
+
+344
+00:24:40,020 --> 00:24:43,420
+- While the guards inside, I walk out,
+
+345
+00:24:43,420 --> 00:24:46,540
+I turn the corner in like a guard uniform
+
+346
+00:24:46,540 --> 00:24:50,100
+that's way too big for me, 'cause I'm a Yoda.
+
+347
+00:24:50,100 --> 00:24:53,340
+It's like little kid wearing dad's clothes.
+
+348
+00:24:53,340 --> 00:24:56,420
+Mm-hmm, and I go sit where he was sitting
+
+349
+00:24:56,420 --> 00:25:01,520
+You see the other guard turn to you go. Hey, what?
+
+350
+00:25:01,520 --> 00:25:14,660
+While Patrick Yoda's standing guard I walk I would say oh, hey guard you mind if I walk inside
+
+351
+00:25:14,660 --> 00:25:20,100
+Wait, and I'm stuck out here
+
+352
+00:25:20,100 --> 00:25:21,100
+Hold on, hold on.
+
+353
+00:25:21,100 --> 00:25:22,600
+What the fuck is this?
+
+354
+00:25:22,600 --> 00:25:23,600
+What the f-
+
+355
+00:25:23,600 --> 00:25:25,100
+Let's do a couple of rolls.
+
+356
+00:25:25,100 --> 00:25:30,600
+I mean, Patrick Yoda, I guess first do Deception with disadvantage.
+
+357
+00:25:30,600 --> 00:25:35,100
+Real quick, sorry. How do we do these rolls again?
+
+358
+00:25:35,100 --> 00:25:36,100
+For sure.
+
+359
+00:25:36,100 --> 00:25:38,100
+I only got a 25.
+
+360
+00:25:38,100 --> 00:25:43,600
+So on roll 20, you'll just hit the thing that has to do with whatever the roll is.
+
+361
+00:25:43,600 --> 00:25:44,600
+So like if you look at the skills-
+
+362
+00:25:44,600 --> 00:25:46,100
+Open up your character sheet.
+
+363
+00:25:46,100 --> 00:25:47,100
+Yeah, open up your character sheet.
+
+364
+00:25:47,100 --> 00:25:48,100
+Yeah, I'm on my character sheet.
+
+365
+00:25:48,100 --> 00:25:49,100
+Yes, yes, yes.
+
+366
+00:25:49,100 --> 00:25:56,100
+that
+
+367
+00:25:56,100 --> 00:26:14,100
+the
+
+368
+00:26:14,100 --> 00:26:21,540
+Also I'll say with that 20 you also can tell that somebody's been through there recently.
+
+369
+00:26:21,540 --> 00:26:25,100
+I'm a guard!
+
+370
+00:26:25,100 --> 00:26:29,100
+I'm starting to do, I'm doing that thing where I like, I hear, I've heard a funny voice and
+
+371
+00:26:29,100 --> 00:26:34,340
+I start accidentally mimicking it just because I think it's funny so I'm going like, I can't
+
+372
+00:26:34,340 --> 00:26:35,900
+believe I'm waiting here!
+
+373
+00:26:35,900 --> 00:26:37,580
+I can't believe you're keeping me waiting!
+
+374
+00:26:37,580 --> 00:26:39,780
+I can't believe you were waiting too!
+
+375
+00:26:39,780 --> 00:26:42,300
+I can't believe, I can't believe I'm waiting!
+
+376
+00:26:42,300 --> 00:26:43,500
+You gotta stop awaiting!
+
+377
+00:26:43,500 --> 00:26:46,500
+I got to stop waiting. You got to stop waiting. You got to go in.
+
+378
+00:26:46,500 --> 00:26:48,500
+I got to go in. I got to repay.
+
+379
+00:26:48,500 --> 00:26:50,500
+Oh, he has to go in.
+
+380
+00:26:50,500 --> 00:26:52,500
+He has to go in and repay.
+
+381
+00:26:52,500 --> 00:26:54,500
+While they distract him, I die.
+
+382
+00:26:54,500 --> 00:26:56,500
+We're distracting each other.
+
+383
+00:26:56,500 --> 00:26:58,500
+While they distract him, I die.
+
+384
+00:26:58,500 --> 00:27:00,500
+Why did you have lunch today?
+
+385
+00:27:00,500 --> 00:27:02,500
+Oh, what did you have for lunch today?
+
+386
+00:27:02,500 --> 00:27:08,500
+Yeah, yeah. I would say you guys are able to get in through the side door pretty easily.
+
+387
+00:27:08,500 --> 00:27:10,500
+The guard does eventually come out.
+
+388
+00:27:10,500 --> 00:27:25,580
+the
+
+389
+00:27:25,580 --> 00:27:27,580
+Did they come with us or are they still out front?
+
+390
+00:27:27,580 --> 00:27:29,580
+We're still out front. Or at least I am.
+
+391
+00:27:29,580 --> 00:27:31,580
+Yeah, I don't know if you guys...
+
+392
+00:27:31,580 --> 00:27:33,580
+Did you guys... Are you guys still out front?
+
+393
+00:27:33,580 --> 00:27:35,580
+Are you guys still way out front? I'm still guarding, because now I
+
+394
+00:27:35,580 --> 00:27:37,580
+now I fully believe this is my job.
+
+395
+00:27:37,580 --> 00:27:39,580
+Very cool.
+
+396
+00:27:39,580 --> 00:27:41,580
+In that case... No, okay, no. You know what I'm gonna try to do?
+
+397
+00:27:41,580 --> 00:27:43,580
+Mm-hmm.
+
+398
+00:27:43,580 --> 00:27:45,580
+I would like to purposely
+
+399
+00:27:45,580 --> 00:27:47,580
+have my disguise, like,
+
+400
+00:27:47,580 --> 00:27:49,580
+fail. Like, maybe my mustache falls off a little bit.
+
+401
+00:27:49,580 --> 00:27:51,580
+Mm-hmm. And then I go like,
+
+402
+00:27:51,580 --> 00:27:53,580
+"Oh no! I've been found out!"
+
+403
+00:27:53,580 --> 00:27:57,700
+found out and I like run I start to run away but really slowly like I'm trying
+
+404
+00:27:57,700 --> 00:28:02,940
+to lure the guards away so they don't notice what's going on
+
+405
+00:28:02,940 --> 00:28:15,140
+the other guard comes out and says yeah we have no RK repair what is this little
+
+406
+00:28:15,140 --> 00:28:16,140
+green man doing?
+
+407
+00:28:16,140 --> 00:28:17,140
+He's getting away!
+
+408
+00:28:17,140 --> 00:28:18,140
+We have to go get him!
+
+409
+00:28:18,140 --> 00:28:19,140
+I'm running slow motion.
+
+410
+00:28:19,140 --> 00:28:20,140
+If you see him, he's running away!
+
+411
+00:28:20,140 --> 00:28:21,140
+I'm running away!
+
+412
+00:28:21,140 --> 00:28:22,140
+He's running away!
+
+413
+00:28:22,140 --> 00:28:28,260
+I said he was running away!
+
+414
+00:28:28,260 --> 00:28:33,420
+The other guard looks at the guard who came back and is like, "I don't really know what
+
+415
+00:28:33,420 --> 00:28:34,420
+to make of this."
+
+416
+00:28:34,420 --> 00:28:38,980
+We got the guy!
+
+417
+00:28:38,980 --> 00:28:40,660
+And he's like, "Alright, I guess, yeah."
+
+418
+00:28:40,660 --> 00:28:42,340
+Roll persuasion, Pat.
+
+419
+00:28:42,340 --> 00:28:43,340
+19, nice.
+
+420
+00:28:43,340 --> 00:28:44,340
+Yeah.
+
+421
+00:28:44,340 --> 00:28:59,340
+the
+
+422
+00:28:59,340 --> 00:29:14,340
+is
+
+423
+00:29:14,340 --> 00:29:15,180
+I can't come in.
+
+424
+00:29:15,180 --> 00:29:17,380
+- You will be in the main lobby after that.
+
+425
+00:29:17,380 --> 00:29:20,100
+So it will be, you'll have to just like figure out what to do
+
+426
+00:29:20,100 --> 00:29:23,260
+but yeah, you can absolutely do that and figure it out.
+
+427
+00:29:23,260 --> 00:29:25,260
+- Okay, I'm just gonna, I'm, well, actually no,
+
+428
+00:29:25,260 --> 00:29:27,420
+that might make them run to the side door though.
+
+429
+00:29:27,420 --> 00:29:28,860
+So maybe I shouldn't do that.
+
+430
+00:29:28,860 --> 00:29:33,580
+Okay, I'm just gonna run just slightly faster than them
+
+431
+00:29:33,580 --> 00:29:35,620
+and go, "Oh, I hope they don't catch me.
+
+432
+00:29:35,620 --> 00:29:36,800
+"I hope they don't catch me.
+
+433
+00:29:36,800 --> 00:29:38,640
+"I'm gonna get you.
+
+434
+00:29:38,640 --> 00:29:40,180
+"I'm gonna get you.
+
+435
+00:29:40,180 --> 00:29:41,940
+"Don't catch me, don't catch me."
+
+436
+00:29:41,940 --> 00:29:44,140
+- While I'm in a big guard suit,
+
+437
+00:29:44,140 --> 00:29:56,520
+the
+
+438
+00:29:56,520 --> 00:30:11,600
+the
+
+439
+00:30:11,600 --> 00:30:24,040
+the
+
+440
+00:30:24,040 --> 00:30:41,960
+the
+
+441
+00:30:41,960 --> 00:31:00,920
+the
+
+442
+00:31:00,920 --> 00:31:13,300
+the
+
+443
+00:31:13,300 --> 00:31:16,100
+further down the hallway, it looks like it's pretty clear
+
+444
+00:31:16,100 --> 00:31:17,400
+from what you can see down here.
+
+445
+00:31:17,400 --> 00:31:19,500
+No sign of anybody there.
+
+446
+00:31:19,500 --> 00:31:22,000
+I mean you could do obviously you can do perception checks
+
+447
+00:31:22,000 --> 00:31:24,500
+or investigation checks or insight checks into certain
+
+448
+00:31:24,500 --> 00:31:25,900
+things that you're observing.
+
+449
+00:31:25,900 --> 00:31:27,600
+Feel free to ask questions.
+
+450
+00:31:27,600 --> 00:31:31,700
+Can I to clear this section of the hallway?
+
+451
+00:31:31,700 --> 00:31:37,900
+I'm looking into my backpack and notice that I have a huge
+
+452
+00:31:37,900 --> 00:31:41,100
+worm and I actually have two huge worms.
+
+453
+00:31:41,400 --> 00:31:43,440
+is a number two.
+
+454
+00:31:43,440 --> 00:31:45,780
+You really should start paying attention.
+
+455
+00:31:45,780 --> 00:31:49,500
+I mean, you already you left the huge worms in there and I did.
+
+456
+00:31:49,500 --> 00:31:51,140
+You do it now.
+
+457
+00:31:51,140 --> 00:31:52,840
+So you have to reckon with that.
+
+458
+00:31:52,840 --> 00:31:54,780
+I don't know how there's two, but go on.
+
+459
+00:31:54,780 --> 00:31:57,680
+I don't know either, but I'm going to drop one, just one.
+
+460
+00:31:57,680 --> 00:32:01,180
+And OK, I'm going to slap it on the ass like a donkey
+
+461
+00:32:01,180 --> 00:32:04,500
+and watch as it wiggles through and I love that if it falls
+
+462
+00:32:04,500 --> 00:32:06,380
+into the mouth of any kind of creature.
+
+463
+00:32:06,380 --> 00:32:07,180
+OK, cool.
+
+464
+00:32:07,180 --> 00:32:11,000
+So you slap the ass of the worm or what you think is the ass you slap.
+
+465
+00:32:11,000 --> 00:32:13,300
+- He has a big ass.
+
+466
+00:32:13,300 --> 00:32:14,840
+- Okay, cool.
+
+467
+00:32:14,840 --> 00:32:17,080
+You slap the juicy ass of that worm
+
+468
+00:32:17,080 --> 00:32:18,800
+and it slithers forward
+
+469
+00:32:18,800 --> 00:32:21,560
+and you see it start disappearing in the darkness.
+
+470
+00:32:21,560 --> 00:32:24,120
+And then you hear a pop sound
+
+471
+00:32:24,120 --> 00:32:27,480
+and you see the worm running back
+
+472
+00:32:27,480 --> 00:32:29,720
+and it looks pretty injured.
+
+473
+00:32:29,720 --> 00:32:35,000
+And you hear like a, it sounds like an alarm clock.
+
+474
+00:32:35,000 --> 00:32:37,160
+And then you hear the alarm clock stop.
+
+475
+00:32:37,160 --> 00:32:38,480
+- Call me your baby.
+
+476
+00:32:38,480 --> 00:32:40,480
+I put him back into my backpack.
+
+477
+00:32:40,480 --> 00:32:42,480
+Yeah, the worm's like whimpering in pain.
+
+478
+00:32:42,480 --> 00:32:44,480
+Um...
+
+479
+00:32:44,480 --> 00:32:46,480
+Okay, uh...
+
+480
+00:32:46,480 --> 00:32:48,480
+This bit of darkness is like, straightforward in this direction, by the way.
+
+481
+00:32:48,480 --> 00:32:50,480
+Okay, Sullivan,
+
+482
+00:32:50,480 --> 00:32:52,480
+now you, your turn.
+
+483
+00:32:52,480 --> 00:32:54,480
+No, no, no, I don't want to do that.
+
+484
+00:32:54,480 --> 00:32:56,480
+Fine, we'll all, we'll all go.
+
+485
+00:32:56,480 --> 00:32:58,480
+But,
+
+486
+00:32:58,480 --> 00:33:00,480
+slowly.
+
+487
+00:33:00,480 --> 00:33:02,480
+And Sullivan goes first.
+
+488
+00:33:02,480 --> 00:33:04,480
+And Sullivan takes point.
+
+489
+00:33:04,480 --> 00:33:06,480
+Hey, Sullivan, it's because you're the leader.
+
+490
+00:33:06,480 --> 00:33:24,480
+I
+
+491
+00:33:24,480 --> 00:33:36,840
+that
+
+492
+00:33:36,840 --> 00:33:43,840
+Mr. Sullivan. Uh oh, I killed him again. I've killed him every episode of this fucking D&D
+
+493
+00:33:43,840 --> 00:33:52,000
+thing. Oh, poor Sullivan. Yep. Alright. I killed him again. Sullivan is moving forward,
+
+494
+00:33:52,000 --> 00:34:04,120
+he's dashing forward because of that great charisma. And a pop sound is heard. And let's
+
+495
+00:34:06,880 --> 00:34:08,880
+to Mr. The Frog.
+
+496
+00:34:08,880 --> 00:34:10,880
+Okay.
+
+497
+00:34:10,880 --> 00:34:12,880
+Yup.
+
+498
+00:34:12,880 --> 00:34:14,880
+And then let's see what happens to Mr. The Frog.
+
+499
+00:34:14,880 --> 00:34:16,880
+Uh...
+
+500
+00:34:16,880 --> 00:34:20,880
+God.
+
+501
+00:34:20,880 --> 00:34:22,880
+Oh, well.
+
+502
+00:34:22,880 --> 00:34:24,880
+How much HP did I give him?
+
+503
+00:34:24,880 --> 00:34:26,880
+A million.
+
+504
+00:34:26,880 --> 00:34:28,880
+Not enough.
+
+505
+00:34:28,880 --> 00:34:30,880
+Million.
+
+506
+00:34:30,880 --> 00:34:32,880
+Did I kill him?
+
+507
+00:34:32,880 --> 00:34:34,880
+Uh...
+
+508
+00:34:34,880 --> 00:34:41,880
+outright kill it today is he unconscious or dead? Obviously. He just dies off screen.
+
+509
+00:34:41,880 --> 00:34:55,040
+Literally off screen. A little popping sound. Not even a whimper. Okay. Alright, alright.
+
+510
+00:34:55,040 --> 00:35:03,360
+The worm came back with a bruise. He's not dead but he is, if he got hit like two more
+
+511
+00:35:03,360 --> 00:35:10,360
+he would have been dead. So he is just knocked out. You just hear him go "AHH!" and just
+
+512
+00:35:10,360 --> 00:35:15,360
+flop to the ground. He can't tell you what he saw or anything.
+
+513
+00:35:15,360 --> 00:35:18,360
+Sullivan! Quit farting around down there!
+
+514
+00:35:18,360 --> 00:35:26,360
+I guess I'll start doing death saves for Sullivan. If you guys don't act.
+
+515
+00:35:26,360 --> 00:35:31,360
+Is there a way to take the flashlight and examine exactly what happened to the worm?
+
+516
+00:35:31,360 --> 00:35:37,440
+Yeah, if you can uh, yeah, I would say you can do like a medicine check to see what happens.
+
+517
+00:35:37,440 --> 00:35:38,440
+Alright.
+
+518
+00:35:38,440 --> 00:35:41,360
+I'll do a medicine check then.
+
+519
+00:35:41,360 --> 00:35:45,440
+Hold on, sorry, I'm not great at this.
+
+520
+00:35:45,440 --> 00:35:47,400
+No, it's all wonderful.
+
+521
+00:35:47,400 --> 00:35:52,360
+A lot of fucking characters here.
+
+522
+00:35:52,360 --> 00:35:53,360
+Thank you.
+
+523
+00:35:53,360 --> 00:35:55,360
+Thank you.
+
+524
+00:35:55,360 --> 00:35:57,680
+Alright.
+
+525
+00:35:57,680 --> 00:35:58,680
+You say medicine.
+
+526
+00:35:58,680 --> 00:35:59,680
+I say ROI.
+
+527
+00:35:59,680 --> 00:36:01,440
+I say, I look at.
+
+528
+00:36:01,440 --> 00:36:02,540
+Mm hmm.
+
+529
+00:36:02,540 --> 00:36:03,720
+Oh, 15. Very good.
+
+530
+00:36:03,720 --> 00:36:04,880
+And with only a plus one.
+
+531
+00:36:04,880 --> 00:36:08,040
+So when you're looking at the worm, what you can tell is that it's covered
+
+532
+00:36:08,040 --> 00:36:10,520
+in some kind of like snot.
+
+533
+00:36:10,520 --> 00:36:14,080
+Like it looks like a snot bubble blew up on it.
+
+534
+00:36:14,080 --> 00:36:19,080
+And that's that's what the natural mucus of the worm.
+
+535
+00:36:19,080 --> 00:36:21,720
+Yes. Like a separate kind of mucus.
+
+536
+00:36:21,720 --> 00:36:25,240
+That'd be funny if he described that news, like, but that's just normal for them.
+
+537
+00:36:25,240 --> 00:36:29,180
+That's the natural mucus.
+
+538
+00:36:29,180 --> 00:36:33,180
+It's a good thing you asked that, because otherwise you could be completely led astray.
+
+539
+00:36:33,180 --> 00:36:34,680
+Yeah, I realize that now, yeah.
+
+540
+00:36:34,680 --> 00:36:36,180
+You're a fucking nerd.
+
+541
+00:36:36,180 --> 00:36:42,180
+I didn't have to put an eye on her to know that the worms are slimy!
+
+542
+00:36:42,180 --> 00:36:44,180
+You're so smart.
+
+543
+00:36:44,180 --> 00:36:48,180
+Hmm, looks like there's some kind of...
+
+544
+00:36:48,180 --> 00:36:53,180
+I would say, Travis Ocelot, you've been in the field long enough,
+
+545
+00:36:53,180 --> 00:36:56,680
+that let's have you roll in a history check to see if you can
+
+546
+00:36:56,680 --> 00:36:59,680
+like kind of recall what kinds of enemies do this.
+
+547
+00:36:59,680 --> 00:36:59,980
+Okay.
+
+548
+00:36:59,980 --> 00:37:06,180
+Very good history.
+
+549
+00:37:06,180 --> 00:37:10,680
+Yeah, I do 20 nice.
+
+550
+00:37:10,680 --> 00:37:15,780
+So you would recall that something that has that kind of like
+
+551
+00:37:15,780 --> 00:37:20,480
+amount of mucus that can cause that kind of like forceful of
+
+552
+00:37:20,480 --> 00:37:38,480
+the
+
+553
+00:37:38,480 --> 00:37:46,480
+So you would know that about them, so you would probably assume that there are a number of them littered throughout this facility.
+
+554
+00:37:46,480 --> 00:37:48,480
+Right.
+
+555
+00:37:48,480 --> 00:37:52,480
+Travis, I noticed you staring at this worm.
+
+556
+00:37:52,480 --> 00:37:56,480
+I just remembered that these are DQIQ DaddyBots!
+
+557
+00:37:56,480 --> 00:37:58,480
+Oh, oh no!
+
+558
+00:37:58,480 --> 00:38:00,480
+Oh, and they snot when you get close to them?
+
+559
+00:38:00,480 --> 00:38:02,480
+*snoring*
+
+560
+00:38:02,480 --> 00:38:26,480
+I
+
+561
+00:38:26,480 --> 00:38:33,480
+I could walk up and maybe use the bottom of the iPad stand to like shuffleboard him into the next one.
+
+562
+00:38:33,480 --> 00:38:34,480
+[laughter]
+
+563
+00:38:34,480 --> 00:38:36,480
+Across the cold, snowy grass.
+
+564
+00:38:36,480 --> 00:38:47,480
+I would say, I mean you have like, with your computer, the computer like, hacking ability involves you having some sort of like detachable wiring that allows you to hook into other things.
+
+565
+00:38:47,480 --> 00:38:50,480
+He'll die if he goes into another one though.
+
+566
+00:38:50,480 --> 00:38:53,480
+You could, yeah, he might die.
+
+567
+00:38:53,480 --> 00:38:54,380
+All right. You know what?
+
+568
+00:38:54,380 --> 00:38:55,940
+You just gave me a better idea.
+
+569
+00:38:55,940 --> 00:38:56,880
+I would like.
+
+570
+00:38:56,880 --> 00:38:57,840
+So they're bots, right?
+
+571
+00:38:57,840 --> 00:39:00,380
+So they are electronic.
+
+572
+00:39:00,380 --> 00:39:03,640
+Yeah. So I would like to I would like to hack these electronics
+
+573
+00:39:03,640 --> 00:39:07,580
+instead of kill the instead of kill the thing
+
+574
+00:39:07,580 --> 00:39:09,880
+that we put in this to kill them every time.
+
+575
+00:39:09,880 --> 00:39:14,480
+OK, so yeah, I mean, you could you could try to like seek it out.
+
+576
+00:39:14,480 --> 00:39:16,840
+You'll have disadvantage just because you can't see it.
+
+577
+00:39:16,840 --> 00:39:20,840
+But how much how much like can I see ahead of me with this flashlight?
+
+578
+00:39:20,840 --> 00:39:23,140
+It looks like I got like it's like a like a good amount.
+
+579
+00:39:23,140 --> 00:39:26,140
+So you can move a bit further and you'll see if you can see it.
+
+580
+00:39:26,140 --> 00:39:28,140
+Okay, let's do that.
+
+581
+00:39:28,140 --> 00:39:32,140
+Okay, cool. So just move your character how much further you want to go.
+
+582
+00:39:32,140 --> 00:39:35,140
+As you tiptoe through these sort of sterile hallways.
+
+583
+00:39:35,140 --> 00:39:41,140
+Okay, and let's reveal a little bit more of what's happening here.
+
+584
+00:39:41,140 --> 00:39:43,140
+And I have this guy with me.
+
+585
+00:39:43,140 --> 00:39:44,140
+Okay.
+
+586
+00:39:44,140 --> 00:39:45,140
+Mm-hmm.
+
+587
+00:39:45,140 --> 00:39:47,140
+Travis, would you like to join me?
+
+588
+00:39:47,140 --> 00:39:48,140
+Yes.
+
+589
+00:39:48,140 --> 00:39:51,140
+So you can see one of the Doatwake daddies.
+
+590
+00:39:51,140 --> 00:39:52,140
+What does that say?
+
+591
+00:39:52,140 --> 00:40:07,220
+the
+
+592
+00:40:07,220 --> 00:40:10,620
+open sort of door, looks like it's in what would be somebody's office.
+
+593
+00:40:10,620 --> 00:40:14,920
+So you can probably try to, uh, saying that I'm gay.
+
+594
+00:40:14,920 --> 00:40:19,920
+So you can probably, uh, try to, uh, you can definitely try to hack it now.
+
+595
+00:40:19,920 --> 00:40:23,920
+Um, and you're going to be able to hack it automatically.
+
+596
+00:40:23,920 --> 00:40:25,220
+Oh my god, whoa.
+
+597
+00:40:25,220 --> 00:40:28,220
+Because it's not really, like, able to resist. It is sleeping.
+
+598
+00:40:28,220 --> 00:40:29,220
+It is asleep, yeah.
+
+599
+00:40:29,220 --> 00:40:30,220
+Mm-hmm.
+
+600
+00:40:30,220 --> 00:40:32,720
+Okay, so I, I, I'm going to hack it.
+
+601
+00:40:32,720 --> 00:40:33,720
+Nice, cool.
+
+602
+00:40:33,720 --> 00:40:39,520
+So, let's review the hackability, the hacker mode ability.
+
+603
+00:40:39,520 --> 00:40:42,280
+So, the computer can go hacker mode and on a failed intelligence saving throw, which we
+
+604
+00:40:42,280 --> 00:40:46,720
+won't talk about, you lodge yourself, your computer tower, into the Don't Wake Daddy
+
+605
+00:40:46,720 --> 00:40:49,080
+and they can do whatever you want as the robot.
+
+606
+00:40:49,080 --> 00:40:53,280
+So the bot is able to move, so yeah, you do that, and now what do you want to do with
+
+607
+00:40:53,280 --> 00:40:54,560
+it?
+
+608
+00:40:54,560 --> 00:41:08,480
+is
+
+609
+00:41:08,480 --> 00:41:22,400
+the
+
+610
+00:41:22,400 --> 00:41:26,960
+more than one close by, it's like, you know, one goes off and then another goes off.
+
+611
+00:41:26,960 --> 00:41:33,760
+Yeah, could I, I would like to communicate to all the ones in the, in the area and let
+
+612
+00:41:33,760 --> 00:41:42,520
+them know that we have, that it's, it is a pizza party and we have to all meet in the
+
+613
+00:41:42,520 --> 00:41:46,400
+center of the room and run into each other really fast.
+
+614
+00:41:46,400 --> 00:41:52,900
+Okay, let's make that... So I was thinking about what to give you for hacker checks.
+
+615
+00:41:52,900 --> 00:41:56,900
+I was thinking we should just do Arcana for you. So roll Arcana.
+
+616
+00:41:56,900 --> 00:42:01,900
+And I'll say that DC for this... Yeah, you have a very good one.
+
+617
+00:42:01,900 --> 00:42:06,900
+I'll say that DC is going to be a 16 for that.
+
+618
+00:42:06,900 --> 00:42:11,900
+You should give him a... To make him... For hacking, you should give him a puzzle that's basically just playing
+
+619
+00:42:11,900 --> 00:42:15,820
+connect the dots but it's on a black background and it's green so it looks
+
+620
+00:42:15,820 --> 00:42:21,820
+like computers. That's a really good idea. Yeah I got a 26. Yeah so what do you say
+
+621
+00:42:21,820 --> 00:42:28,700
+to the other don't wake daddy bots? Hey don't wake daddy bots like me there is a
+
+622
+00:42:28,700 --> 00:42:35,860
+serious pizza type party in the middle of this room and I'm gonna need every
+
+623
+00:42:35,860 --> 00:42:48,820
+the
+
+624
+00:42:48,820 --> 00:42:52,720
+pop pop pop pop sounds as they all wake up and you hear them like all sort of
+
+625
+00:42:52,720 --> 00:42:59,620
+walk towards the center of the room. Okay. And so like I'll reveal a little bit
+
+626
+00:42:59,620 --> 00:43:04,100
+more because you could hear that too.
+
+627
+00:43:04,100 --> 00:43:09,860
+And then I have an awesome plan also. Yeah nice so they're all in the center
+
+628
+00:43:09,860 --> 00:43:17,060
+of the room except the yours. Okay so because it's some it's a bot I mean I
+
+629
+00:43:17,060 --> 00:43:20,060
+I would assume it has a self-destruct button with a timer, yeah?
+
+630
+00:43:20,060 --> 00:43:22,060
+[laughter]
+
+631
+00:43:22,060 --> 00:43:24,060
+I'll allow it!
+
+632
+00:43:24,060 --> 00:43:26,060
+What are you thinking?
+
+633
+00:43:26,060 --> 00:43:30,060
+Oh, I'm thinking I set the self-destruct button with a timer
+
+634
+00:43:30,060 --> 00:43:34,060
+and then I inject my fucking computer ass out of the back
+
+635
+00:43:34,060 --> 00:43:36,060
+probably land on Sullivan's dead body
+
+636
+00:43:36,060 --> 00:43:39,060
+and shoot my bot right into the middle of the room
+
+637
+00:43:39,060 --> 00:43:42,060
+and watch, I mean, sit back and watch the fireworks, baby.
+
+638
+00:43:42,060 --> 00:43:44,060
+Hey, I like that!
+
+639
+00:43:44,060 --> 00:43:54,060
+Let's do another Arcana check to see if you can hack into the self-destruct function.
+
+640
+00:43:54,060 --> 00:43:55,060
+25.
+
+641
+00:43:55,060 --> 00:43:59,820
+Yeah, you're the king of this.
+
+642
+00:43:59,820 --> 00:44:03,900
+And then what we'll do is we'll do a...
+
+643
+00:44:03,900 --> 00:44:08,900
+Let's do a Dexterity saving throw for you with advantage, because that was a very solid...
+
+644
+00:44:08,900 --> 00:44:11,900
+You could perfectly time when you want this thing to explode.
+
+645
+00:44:11,900 --> 00:44:12,900
+So what are you doing?
+
+646
+00:44:12,900 --> 00:44:13,900
+16?
+
+647
+00:44:13,900 --> 00:44:14,600
+All right, cool.
+
+648
+00:44:14,600 --> 00:44:15,100
+What are you doing?
+
+649
+00:44:15,100 --> 00:44:16,600
+Describe it to me because you succeeded.
+
+650
+00:44:16,600 --> 00:44:20,900
+Okay, so I already described it, but I guess I'll describe it again.
+
+651
+00:44:20,900 --> 00:44:21,800
+All right, man.
+
+652
+00:44:21,800 --> 00:44:24,600
+Set the timer for I mean, I'm pretty fast.
+
+653
+00:44:24,600 --> 00:44:26,400
+It'll probably only take me like one second.
+
+654
+00:44:26,400 --> 00:44:28,100
+So I'll set it for one second.
+
+655
+00:44:28,100 --> 00:44:30,800
+Well, that's too much that it can't go 30 feet in one second.
+
+656
+00:44:30,800 --> 00:44:35,300
+So I'll set it for five seconds and then I'll shoot it.
+
+657
+00:44:35,300 --> 00:44:43,000
+I'll shoot my computer body back out into my demon body and I'll
+
+658
+00:44:43,000 --> 00:44:48,520
+also put a cartoon bomb on the screen on the Don't Wake Daddy bot.
+
+659
+00:44:48,520 --> 00:44:53,240
+Just as kind of a like, kind of a fuck you, you know?
+
+660
+00:44:53,240 --> 00:44:55,160
+And also, and...
+
+661
+00:44:55,160 --> 00:45:00,840
+No, no, I don't have any pizza, do I?
+
+662
+00:45:00,840 --> 00:45:01,840
+No.
+
+663
+00:45:01,840 --> 00:45:06,040
+Okay, I just scrapped the pizza, it was all a ruse.
+
+664
+00:45:06,040 --> 00:45:07,040
+No, what were you gonna do?
+
+665
+00:45:07,040 --> 00:45:12,600
+I was gonna maybe like put like some pizza in the room.
+
+666
+00:45:12,600 --> 00:45:14,840
+(laughing)
+
+667
+00:45:14,840 --> 00:45:17,400
+- Yeah, this is pizza, no.
+
+668
+00:45:17,400 --> 00:45:18,840
+- Okay, so it's pizza, so they're like,
+
+669
+00:45:18,840 --> 00:45:20,440
+they're in the right moments, they're like,
+
+670
+00:45:20,440 --> 00:45:22,640
+oh, this is awesome, and then they explode.
+
+671
+00:45:22,640 --> 00:45:24,040
+- Yeah. - All right, cool.
+
+672
+00:45:24,040 --> 00:45:26,640
+- Then when they explode,
+
+673
+00:45:26,640 --> 00:45:29,780
+standing where one of the bots was, is me.
+
+674
+00:45:29,780 --> 00:45:32,840
+And I say, I bet you weren't expecting to see me here.
+
+675
+00:45:32,840 --> 00:45:35,240
+And then some awesome plot twist music plays,
+
+676
+00:45:35,240 --> 00:45:38,320
+and it's like a montage of I was running in circles outside.
+
+677
+00:45:38,320 --> 00:45:39,520
+You see me switching clothes--
+
+678
+00:45:39,520 --> 00:45:40,560
+- How'd you do it?
+
+679
+00:45:40,560 --> 00:45:42,560
+Switching clothes with with Patrick Yoda
+
+680
+00:45:42,560 --> 00:45:46,600
+so he becomes the arcade repairman and I become the guard and then he's gonna be
+
+681
+00:45:46,600 --> 00:45:51,440
+Like climbing up the side of the building and going into like the gutter on it
+
+682
+00:45:51,440 --> 00:45:56,140
+And then I'm going through the pipes and then I'm like crawling through the pipes between the floors and then I crawl through the plumbing
+
+683
+00:45:56,140 --> 00:45:58,140
+up inside one of the
+
+684
+00:45:58,140 --> 00:46:01,100
+We're gonna have you roll a couple stealth checks
+
+685
+00:46:09,920 --> 00:46:11,920
+He just said
+
+686
+00:46:11,920 --> 00:46:15,120
+I just walked in the
+
+687
+00:46:15,120 --> 00:46:19,000
+Continuity
+
+688
+00:46:19,000 --> 00:46:22,320
+All right, they come roll his shit if you want to be such a
+
+689
+00:46:22,320 --> 00:46:34,320
+Okay, what do I have to roll I'm gonna beast it let's do a stealth check to I guess get into events without anybody noticing
+
+690
+00:46:35,040 --> 00:46:42,640
+Okay, well first of all I'm wearing a perfect guard disguise and the guards are chasing Patrick Yoda because I switched with him and second
+
+691
+00:46:42,640 --> 00:46:47,720
+Of all the ability to turn invisible. So you're wearing a girl. I'm gonna use that instead. You're wearing a guard disguise
+
+692
+00:46:47,720 --> 00:46:50,400
+Why did you go through the vent I switched?
+
+693
+00:46:50,400 --> 00:46:56,560
+Because I because I did if I had gone into the side door then I would have come up behind those guys and the plot twist
+
+694
+00:46:56,560 --> 00:46:58,560
+Wouldn't have made any sense
+
+695
+00:46:58,560 --> 00:47:04,040
+I'm gonna make you roll for that then. All right, you just it's like perfect sense. Yeah. Thank you
+
+696
+00:47:04,560 --> 00:47:06,560
+Alright, so I'll say that we can review
+
+697
+00:47:06,560 --> 00:47:19,320
+Let's reveal more of the room at this point. Yeah, I revealed all this I already saw it all
+
+698
+00:47:19,320 --> 00:47:26,360
+Everything yeah, I pretty much saw everything already
+
+699
+00:47:26,360 --> 00:47:32,520
+Patrick you know, are you distracting the the team the trip distracting the guard?
+
+700
+00:47:32,520 --> 00:47:36,300
+I took off the arcade repairman suit and I walked in the front door
+
+701
+00:47:36,300 --> 00:47:40,600
+All right, the guards are going to attack you at the me
+
+702
+00:47:40,600 --> 00:47:45,920
+Why how are you?
+
+703
+00:47:45,920 --> 00:47:55,640
+Arcade repairman suit off. They're looking for an arcade repairman. They know you were the guard the entire time
+
+704
+00:47:55,640 --> 00:48:00,040
+Green and you're two feet tall. I'm three feet tall
+
+705
+00:48:00,560 --> 00:48:04,360
+All right, Patrick, just use a plot twist. You won't make your roll for it.
+
+706
+00:48:04,360 --> 00:48:05,360
+Oh, yeah, okay.
+
+707
+00:48:05,360 --> 00:48:09,360
+The plot twist was I was an arcade repairman.
+
+708
+00:48:09,360 --> 00:48:12,860
+Oh, wait, and I take out the thing that we're looking for.
+
+709
+00:48:12,860 --> 00:48:16,860
+[Laughter]
+
+710
+00:48:16,860 --> 00:48:22,360
+Pat, why don't you-- you could try to explain to them what's going on.
+
+711
+00:48:22,360 --> 00:48:24,360
+Oh, I take off the--
+
+712
+00:48:24,360 --> 00:48:27,360
+I take off the arcade repairman hat and I look at them and go,
+
+713
+00:48:27,360 --> 00:48:42,440
+the
+
+714
+00:48:42,440 --> 00:48:43,880
+All right, we're gonna roll initiative.
+
+715
+00:48:43,880 --> 00:48:46,200
+This is one of those just for laughs pranks from 2008.
+
+716
+00:48:46,200 --> 00:48:48,000
+Oh, okay, you're trying to persuade them.
+
+717
+00:48:48,000 --> 00:48:53,000
+Okay, let's do a persuasion check then.
+
+718
+00:48:53,000 --> 00:48:54,440
+13.
+
+719
+00:48:54,440 --> 00:48:57,480
+One of them thinks maybe you're the just for laughs guy.
+
+720
+00:48:57,480 --> 00:49:00,160
+The other one is definitely sure you're not.
+
+721
+00:49:00,160 --> 00:49:03,280
+And you both get $15.
+
+722
+00:49:03,280 --> 00:49:05,920
+Do you have $15 on you?
+
+723
+00:49:05,920 --> 00:49:07,920
+I have $100. He needs 30, right?
+
+724
+00:49:07,920 --> 00:49:08,760
+I have $100.
+
+725
+00:49:08,760 --> 00:49:09,600
+You have $100.
+
+726
+00:49:09,600 --> 00:49:11,160
+Wait, wait, wait, wait, hold on, hold on.
+
+727
+00:49:11,160 --> 00:49:18,320
+Okay, I say and you both win an Xbox game because in my inventory I have every Xbox game ever
+
+728
+00:49:18,320 --> 00:49:21,520
+Okay, roll persuasion again. You get another chance
+
+729
+00:49:21,520 --> 00:49:24,280
+another 13
+
+730
+00:49:24,280 --> 00:49:30,040
+One of the guards are the other guys like he's giving us an Xbox game. Let's just go just a little freak
+
+731
+00:49:30,040 --> 00:49:35,720
+You know the guards like fine, but if we see you around here, you're fucked. You got it. Hey
+
+732
+00:49:35,720 --> 00:49:37,560
+Hello
+
+733
+00:49:37,560 --> 00:49:38,920
+ODST
+
+734
+00:49:38,920 --> 00:49:43,820
+So they go back to their post so you try to go to the side door they would probably see you
+
+735
+00:49:43,820 --> 00:49:48,760
+So you might have to just chill outside unless you want to like start something with them
+
+736
+00:49:48,760 --> 00:50:00,900
+I I'm in it. I walk back and I'm in a don't wake daddy repairman
+
+737
+00:50:00,900 --> 00:50:07,900
+costume. How would you know to get that?
+
+738
+00:50:07,900 --> 00:50:13,900
+You wouldn't know. So we'll come back to it.
+
+739
+00:50:13,900 --> 00:50:18,900
+Dress up as a blueprint repairman. That's what we should have done from the beginning.
+
+740
+00:50:18,900 --> 00:50:23,900
+Okay, that I dress up as a blueprint repairman. So you guys can go to the computer here and
+
+741
+00:50:23,900 --> 00:50:28,900
+start searching the files. There's no issue getting the information from there.
+
+742
+00:50:28,900 --> 00:50:32,200
+got the there's no issue because I already hacked it 20 minutes ago.
+
+743
+00:50:32,200 --> 00:50:35,400
+Okay. Yeah, you get the blueprint for the facility.
+
+744
+00:50:35,400 --> 00:50:39,600
+Now the dope week daddy bots are gone.
+
+745
+00:50:39,600 --> 00:50:43,800
+You could pretty easily get out through the side door that said,
+
+746
+00:50:43,800 --> 00:50:48,800
+you know getting out all at once and getting by the guards back
+
+747
+00:50:48,800 --> 00:50:49,700
+to the car.
+
+748
+00:50:49,700 --> 00:50:51,900
+I would say you'd have to either move stealthily or kind of come
+
+749
+00:50:51,900 --> 00:50:55,900
+up with a way around that unless you want to you know again incur
+
+750
+00:50:55,900 --> 00:50:57,600
+trouble down the line.
+
+751
+00:50:57,600 --> 00:50:59,600
+Do we have what we need from this facility?
+
+752
+00:50:59,600 --> 00:51:00,600
+Yes.
+
+753
+00:51:00,600 --> 00:51:01,600
+Can we get the blueprint?
+
+754
+00:51:01,600 --> 00:51:02,600
+Mm-hmm.
+
+755
+00:51:02,600 --> 00:51:03,600
+You can just get it from the computer though.
+
+756
+00:51:03,600 --> 00:51:04,600
+You're already there and the Doki Parry bots are gone.
+
+757
+00:51:04,600 --> 00:51:05,600
+Oh yeah, alright.
+
+758
+00:51:05,600 --> 00:51:06,600
+Cool, yeah, yeah, yeah.
+
+759
+00:51:06,600 --> 00:51:08,600
+Alright, so let's get it from the computer.
+
+760
+00:51:08,600 --> 00:51:09,600
+Mm-hmm.
+
+761
+00:51:09,600 --> 00:51:11,600
+Okay, so let's start by logging onto the computer.
+
+762
+00:51:11,600 --> 00:51:13,600
+Yeah, the computer says, "Here you go."
+
+763
+00:51:13,600 --> 00:51:14,600
+Oh, no, no, no.
+
+764
+00:51:14,600 --> 00:51:15,600
+Okay, you go.
+
+765
+00:51:15,600 --> 00:51:16,600
+Yeah.
+
+766
+00:51:16,600 --> 00:51:17,600
+Okay, let's click log in.
+
+767
+00:51:17,600 --> 00:51:18,600
+Okay, it's loading.
+
+768
+00:51:18,600 --> 00:51:19,600
+Okay, it's loading.
+
+769
+00:51:19,600 --> 00:51:20,600
+This is taking too long.
+
+770
+00:51:20,600 --> 00:51:21,600
+I destroyed the computer.
+
+771
+00:51:21,600 --> 00:51:22,600
+And then the Plot Twist music plays in the background.
+
+772
+00:51:22,600 --> 00:51:23,600
+Oh, no.
+
+773
+00:51:23,600 --> 00:51:24,600
+Oh, no.
+
+774
+00:51:24,600 --> 00:51:25,600
+Oh, no.
+
+775
+00:51:25,600 --> 00:51:31,360
+And then the plot twist music plays again and I hold up the blueprint that I already printed out when I'm sitting here earlier
+
+776
+00:51:31,360 --> 00:51:36,000
+It doesn't matter. God you saved me from my own rage. Yeah
+
+777
+00:51:36,000 --> 00:51:43,520
+Now there's a destroyed computer, which is you know, in addition to the don't wake daddy bots Leo. Let's see. All right, cool
+
+778
+00:51:43,520 --> 00:51:48,720
+So you got it now? Yeah again, you guys can go back out the side door rip up the blueprint
+
+779
+00:51:48,720 --> 00:51:54,480
+All right, you don't have to do copy now
+
+780
+00:51:54,480 --> 00:51:56,480
+*laughter*
+
+781
+00:51:56,480 --> 00:51:58,480
+Oh my god
+
+782
+00:51:58,480 --> 00:52:00,480
+You're a fucking asshole
+
+783
+00:52:00,480 --> 00:52:02,480
+I'm getting confused between
+
+784
+00:52:02,480 --> 00:52:04,480
+Heists and
+
+785
+00:52:04,480 --> 00:52:06,480
+Magicians
+
+786
+00:52:06,480 --> 00:52:08,480
+*laughter*
+
+787
+00:52:08,480 --> 00:52:10,480
+You're pulling an infinite
+
+788
+00:52:10,480 --> 00:52:12,480
+string of tied together blueprints
+
+789
+00:52:12,480 --> 00:52:14,480
+out of your ass
+
+790
+00:52:14,480 --> 00:52:16,480
+sleeve
+
+791
+00:52:16,480 --> 00:52:18,480
+Okay so I think we should get out of here
+
+792
+00:52:18,480 --> 00:52:20,480
+You can just leave
+
+793
+00:52:20,480 --> 00:52:22,480
+You wanna leave him there?
+
+794
+00:52:22,480 --> 00:52:29,480
+up
+
+795
+00:52:29,480 --> 00:52:31,480
+All right, how do you guys want to get out of here?
+
+796
+00:52:31,480 --> 00:52:35,080
+Keep in mind you have to cross by the guards at the front of the building to get out
+
+797
+00:52:35,080 --> 00:52:38,160
+All right, I pull the hammers back on my golden deagles
+
+798
+00:52:38,160 --> 00:52:44,580
+Yeah, I'm gonna kill them. We haven't fought anything yet. I'm down to kill. Okay, let's go kill
+
+799
+00:52:44,580 --> 00:52:49,640
+Does Travis us let have one golden deagle or two
+
+800
+00:52:49,640 --> 00:52:54,920
+I guess I thought I had two but maybe I only have one I
+
+801
+00:52:55,760 --> 00:53:00,560
+I mean you said you had two. Let's give you, I think you have both. The golden bullets are what you're gonna need.
+
+802
+00:53:00,560 --> 00:53:06,080
+Oh, right. But I have regular 50 action express. Yes. Yes. Yes.
+
+803
+00:53:06,080 --> 00:53:09,920
+Yeah, that's tight. Yeah, you're gonna kill the guards?
+
+804
+00:53:09,920 --> 00:53:14,000
+Yeah, whatever if we have to sure fine.
+
+805
+00:53:14,000 --> 00:53:16,720
+Okay, you guys want to see me do a trick shot?
+
+806
+00:53:16,720 --> 00:53:18,880
+Yeah
+
+807
+00:53:18,880 --> 00:53:20,160
+Yes
+
+808
+00:53:20,160 --> 00:53:23,260
+Okay, cool, so you can go up and try to kill them
+
+809
+00:53:23,260 --> 00:53:28,160
+if you want to sort of get the jump on them, you could try to move stealthily to see if you can get like a
+
+810
+00:53:28,160 --> 00:53:33,380
+Sneak attack round. Yeah, let's
+
+811
+00:53:33,380 --> 00:53:36,720
+Okay
+
+812
+00:53:36,720 --> 00:53:41,040
+A lot of honor in that I kind of want to line up a shot to kill both of them in one
+
+813
+00:53:41,040 --> 00:53:44,520
+With one bullet
+
+814
+00:53:44,520 --> 00:53:47,520
+It's gonna be hard but yeah go for it
+
+815
+00:53:48,960 --> 00:53:54,220
+So yeah, you guys walk you just guys just walk out and face the guards I'm sneaking I'm sneaking ahead of them
+
+816
+00:53:54,220 --> 00:53:58,660
+I want to get a surprise round. I don't care what they do. All right, how are you? Where are you gonna hide?
+
+817
+00:53:58,660 --> 00:54:07,080
+Well, I'm also wearing a guard outfit question mark. So maybe I can get a moment of like confusion
+
+818
+00:54:07,080 --> 00:54:13,320
+- out of that I would say if you roll your stealth high enough like yeah, I'm just gonna I'm like
+
+819
+00:54:13,320 --> 00:54:16,560
+So, I don't know what the layout is, but I'm kind of like I assume they're like out
+
+820
+00:54:16,560 --> 00:54:22,160
+They're kind of like outside the door. They're like, yeah, so I'm trying I'm trying to kind of like sidle in like I've been standing
+
+821
+00:54:22,160 --> 00:54:25,520
+Behind the desk at the lobby or something. Mm-hmm. Okay, cool
+
+822
+00:54:25,520 --> 00:54:28,040
+And then sorry, what are you gonna say Ray?
+
+823
+00:54:28,040 --> 00:54:33,980
+I just follow Travis and I'm just like I kind of just want to see him kill these guys
+
+824
+00:54:33,980 --> 00:54:38,120
+Mm-hmm. I'm not really planning on helping though. Okay, cool
+
+825
+00:54:38,120 --> 00:54:41,140
+And Patrick Yoda, you're just where are you right?
+
+826
+00:54:42,280 --> 00:54:48,520
+I'm your outside. We know I'm I'm looking through the disguise box and I'm just like no ah
+
+827
+00:54:48,520 --> 00:54:51,600
+No, I wouldn't work. Ah
+
+828
+00:54:51,600 --> 00:54:54,440
+crap
+
+829
+00:54:54,440 --> 00:54:57,560
+Okay cool
+
+830
+00:54:57,560 --> 00:55:04,920
+Shit you just you sort of square up on these guys and you're like hey, where the fuck did you just come from?
+
+831
+00:55:04,920 --> 00:55:08,960
+Yeah
+
+832
+00:55:08,960 --> 00:55:12,960
+I, um...
+
+833
+00:55:12,960 --> 00:55:16,960
+I'm filming with the
+
+834
+00:55:16,960 --> 00:55:20,960
+Barry Gey iPad. I'm like, "Come on, Travis, do it!"
+
+835
+00:55:20,960 --> 00:55:24,960
+"Come on!" I'm recording the call on my phone.
+
+836
+00:55:24,960 --> 00:55:28,960
+This is such a bad idea for
+
+837
+00:55:28,960 --> 00:55:32,960
+criminals. Okay, so...
+
+838
+00:55:32,960 --> 00:55:36,960
+My gym arm is not
+
+839
+00:55:36,960 --> 00:55:44,640
+gripping the Desert Eagle correctly. It's upside down. I'm looking down at it now and realizing that I'm not
+
+840
+00:55:44,640 --> 00:55:49,480
+poised to do a trick shot because my chimp arm is not as dexterous as I
+
+841
+00:55:49,480 --> 00:55:55,680
+thought it was. But I do just aim my other regular test vehicle at one of their heads.
+
+842
+00:55:55,680 --> 00:56:01,880
+Alright, cool. Let's roll initiative for you and the guards. Can I get a
+
+843
+00:56:01,880 --> 00:56:06,880
+surprise round if I roll a stealth right now? Do they notice me? Let's roll stealth
+
+844
+00:56:06,880 --> 00:56:26,260
+of
+
+845
+00:56:26,260 --> 00:56:38,700
+the
+
+846
+00:56:38,700 --> 00:56:44,380
+I'm gonna lay down good. I'm gonna bury back out. Mm-hmm. I pipe
+
+847
+00:56:44,380 --> 00:56:47,460
+And you're gonna have advantage on
+
+848
+00:56:47,460 --> 00:56:53,540
+Okay, your assassin ability. That's a 23 second one. Definitely hits roll for damage
+
+849
+00:56:53,540 --> 00:56:57,780
+Is it a sneak attack from assassinate if it's on a surprise round?
+
+850
+00:56:57,780 --> 00:57:06,260
+I'm critical. Yes. It's a guaranteed critical. Oh, yeah shit. It is. All right, so that's 16 damage and then I get a second attack
+
+851
+00:57:07,900 --> 00:57:14,820
+Okay, that's 22 damage. Yeah, you just one of them you just like you just pop up out of nowhere and just
+
+852
+00:57:14,820 --> 00:57:17,940
+Beat one of them to death and you hear all the people it's like oh
+
+853
+00:57:17,940 --> 00:57:24,420
+Like screaming as you're like beating this guy as I'm piping him down. Yeah, say that
+
+854
+00:57:24,420 --> 00:57:28,280
+Yeah, Travis Osler that wasn't one you were aiming at so maybe you just move your gun
+
+855
+00:57:28,280 --> 00:57:37,120
+That was the one I was aiming in so now I'm aiming it at the other guy. Yeah. Yeah. Yeah
+
+856
+00:57:37,120 --> 00:57:56,500
+the
+
+857
+00:57:56,500 --> 00:57:59,300
+(laughter)
+
+858
+00:57:59,300 --> 00:58:01,300
+Did something like intimidating?
+
+859
+00:58:01,300 --> 00:58:03,300
+No, it's blurry now.
+
+860
+00:58:03,300 --> 00:58:05,300
+Oh.
+
+861
+00:58:05,300 --> 00:58:07,300
+(laughter)
+
+862
+00:58:07,300 --> 00:58:11,860
+He's got self-conscious suddenly about his like, how messy his room is.
+
+863
+00:58:11,860 --> 00:58:13,860
+It just changes his background to blurry.
+
+864
+00:58:13,860 --> 00:58:15,860
+Alright, and now you're up.
+
+865
+00:58:15,860 --> 00:58:17,860
+Uh, um, uh, Travis, sorry.
+
+866
+00:58:17,860 --> 00:58:23,540
+Okay, so I got really nervous and forgot how to do trick shots.
+
+867
+00:58:23,540 --> 00:58:30,740
+So I have my Desert Eagle pointed at his head and I look at Ray William Johnson and ask,
+
+868
+00:58:30,740 --> 00:58:31,940
+"Okay, what would be cool?"
+
+869
+00:58:31,940 --> 00:58:37,380
+You could like, so you just have the gun at his head?
+
+870
+00:58:37,380 --> 00:58:38,260
+Yeah.
+
+871
+00:58:38,260 --> 00:58:44,340
+So like maybe you do like a battle, a flip first and then you shoot him.
+
+872
+00:58:44,340 --> 00:58:46,740
+Okay, I'll try that.
+
+873
+00:58:46,740 --> 00:58:48,260
+Try doing a flip.
+
+874
+00:58:48,260 --> 00:58:51,940
+Okay, so I crouch to get into flipping position.
+
+875
+00:58:51,940 --> 00:58:53,640
+(laughing)
+
+876
+00:58:53,640 --> 00:58:55,620
+- Okay, so I mean, it's looking good so far.
+
+877
+00:58:55,620 --> 00:58:58,700
+Here, let me put on the slow motion mode on the camera.
+
+878
+00:58:58,700 --> 00:59:01,400
+(laughing)
+
+879
+00:59:01,400 --> 00:59:03,420
+Okay, now, now go.
+
+880
+00:59:03,420 --> 00:59:05,180
+- Okay, cool.
+
+881
+00:59:05,180 --> 00:59:07,660
+Do an acrobatics check and then do an attack.
+
+882
+00:59:07,660 --> 00:59:08,700
+Nice, 20.
+
+883
+00:59:08,700 --> 00:59:10,220
+Yeah, you execute that for me.
+
+884
+00:59:10,220 --> 00:59:12,460
+(laughing)
+
+885
+00:59:12,460 --> 00:59:16,380
+Roll attack, roll attack with the deagle.
+
+886
+00:59:16,380 --> 00:59:17,440
+- Oh, didn't I?
+
+887
+00:59:17,440 --> 00:59:19,740
+- You click on the golden deagle roll.
+
+888
+00:59:19,740 --> 00:59:20,580
+- For the damage.
+
+889
+00:59:20,580 --> 00:59:33,540
+the
+
+890
+00:59:33,540 --> 00:59:46,540
+this
+
+891
+00:59:46,540 --> 00:59:48,540
+Yep, you got two attacks.
+
+892
+00:59:48,540 --> 00:59:56,540
+Alright, so I have to put down my other gun so that I can flip the Travis gun around.
+
+893
+00:59:56,540 --> 01:00:00,540
+This time, could you do like a spin?
+
+894
+01:00:00,540 --> 01:00:08,540
+Yeah, I'll give that a shot. This spin, I'm not going to leave the ground, I'm just going to walk in a very tight circle.
+
+895
+01:00:08,540 --> 01:00:10,540
+That's cool.
+
+896
+01:00:10,540 --> 01:00:14,540
+Alright, so another acrobatics check.
+
+897
+01:00:14,540 --> 01:00:17,900
+No, if you're gonna walk in a tight circle, I think you got that.
+
+898
+01:00:17,900 --> 01:00:20,540
+Well, 22, it looks really good!
+
+899
+01:00:20,540 --> 01:00:22,540
+Best spin I've ever seen.
+
+900
+01:00:22,540 --> 01:00:24,540
+Alright.
+
+901
+01:00:24,540 --> 01:00:28,940
+And, yeah, I tried to put a little English on it with my Krav Maga.
+
+902
+01:00:28,940 --> 01:00:30,940
+How's that?
+
+903
+01:00:30,940 --> 01:00:32,940
+Yeah, leave that there, that's fine.
+
+904
+01:00:32,940 --> 01:00:34,940
+Sorry, some guy's knocking on my window.
+
+905
+01:00:34,940 --> 01:00:36,940
+Try to slip that there, that's fine.
+
+906
+01:00:36,940 --> 01:00:38,940
+Okay.
+
+907
+01:00:38,940 --> 01:00:40,940
+[laughter]
+
+908
+01:00:40,940 --> 01:00:42,940
+Alright, so I also
+
+909
+01:00:42,940 --> 01:00:44,940
+I also did a grab on him.
+
+910
+01:00:44,940 --> 01:00:46,940
+Yeah, I did a grab on him.
+
+911
+01:00:46,940 --> 01:00:48,940
+Okay, the Krav Maga 2000,
+
+912
+01:00:48,940 --> 01:00:51,940
+that move, uh, you try to karate chop him, I guess,
+
+913
+01:00:51,940 --> 01:00:54,940
+or with like, I guess the sharp end of a pen.
+
+914
+01:00:54,940 --> 01:00:55,940
+Um, and, uh...
+
+915
+01:00:55,940 --> 01:00:57,940
+No, it's with the gun. I'm holding two guns.
+
+916
+01:00:57,940 --> 01:00:58,940
+I've got no other...
+
+917
+01:00:58,940 --> 01:00:59,940
+Okay, not Michael, sorry.
+
+918
+01:00:59,940 --> 01:01:01,940
+Yeah, you miss with the 12.
+
+919
+01:01:01,940 --> 01:01:03,940
+So you spin in place and then sort of
+
+920
+01:01:03,940 --> 01:01:05,940
+try to whack him with the gun,
+
+921
+01:01:05,940 --> 01:01:06,940
+and he just sort of gets out of the way.
+
+922
+01:01:06,940 --> 01:01:07,940
+He's like, he's like,
+
+923
+01:01:07,940 --> 01:01:09,940
+retching back and forth with the ball.
+
+924
+01:01:09,940 --> 01:01:10,940
+Okay, wait, then I want to see if I can
+
+925
+01:01:10,940 --> 01:01:31,940
+can
+
+926
+01:01:31,940 --> 01:01:33,940
+You almost did it really cool.
+
+927
+01:01:33,940 --> 01:01:35,940
+You sort of do the thing when you're trying to learn how to...
+
+928
+01:01:35,940 --> 01:01:37,940
+You just watch the circle of Enzkwagas armor.
+
+929
+01:01:37,940 --> 01:01:39,940
+[Laughter]
+
+930
+01:01:39,940 --> 01:01:41,940
+You do the thing when you're trying to learn how to
+
+931
+01:01:41,940 --> 01:01:43,940
+spit pencils between your fingers
+
+932
+01:01:43,940 --> 01:01:45,940
+and you're just gonna like...
+
+933
+01:01:45,940 --> 01:01:47,940
+I do the rubber pencil trick
+
+934
+01:01:47,940 --> 01:01:49,940
+with the Golden Beagle.
+
+935
+01:01:49,940 --> 01:01:51,940
+It's not rubber. It doesn't look like rubber at all.
+
+936
+01:01:51,940 --> 01:01:53,940
+[Laughter]
+
+937
+01:01:53,940 --> 01:01:55,940
+Alright, cool. Ray, it is your turn.
+
+938
+01:01:55,940 --> 01:01:57,940
+Let's wait. Sorry, Patrick Yoda, did you roll?
+
+939
+01:01:57,940 --> 01:01:59,940
+You didn't roll initiative. Roll initiative.
+
+940
+01:01:59,940 --> 01:02:05,540
+Okay, I'm still looking through the the disguise bin you don't have to fight then. All right, cool. We could just have you just
+
+941
+01:02:05,540 --> 01:02:08,220
+I'm just I'm like pulling my hair out and just like
+
+942
+01:02:08,220 --> 01:02:14,880
+All right, you're up Ray
+
+943
+01:02:14,880 --> 01:02:22,340
+I feel like I feel like Travis has got this kind of like I I really just I mean, okay, whatever
+
+944
+01:02:22,340 --> 01:02:26,320
+I I don't think I rolled initiative though. Did I you did you guys six?
+
+945
+01:02:26,860 --> 01:02:33,860
+the
+
+946
+01:02:33,860 --> 01:02:37,300
+The guard did really bad, so you're still up.
+
+947
+01:02:37,300 --> 01:02:40,500
+I'm gonna throw my sexual grenade between them.
+
+948
+01:02:40,500 --> 01:02:43,460
+I got a 6, he got a 5. This is so fucked up.
+
+949
+01:02:43,460 --> 01:02:45,860
+Oh, I'm sorry, you're right. You should go.
+
+950
+01:02:45,860 --> 01:02:46,980
+I'm sorry.
+
+951
+01:02:46,980 --> 01:02:48,740
+Yeah, I mean...
+
+952
+01:02:48,740 --> 01:02:52,420
+I dive in front of the grenade, I cover my body.
+
+953
+01:02:52,420 --> 01:02:54,420
+Okay, alright.
+
+954
+01:02:54,420 --> 01:02:56,420
+As a reaction, do you want to take that damage?
+
+955
+01:02:56,420 --> 01:03:01,300
+As a reaction, I would like to dive toward the grenade and use the guard to cover it.
+
+956
+01:03:01,300 --> 01:03:06,900
+You dive into the guard and put his body on it.
+
+957
+01:03:06,900 --> 01:03:10,900
+And it's technically not a reaction because my turn is before Caleb's.
+
+958
+01:03:10,900 --> 01:03:15,900
+Alright. So yeah, your action. We'll say you did a joint action.
+
+959
+01:03:15,900 --> 01:03:17,900
+Where you held the guard.
+
+960
+01:03:17,900 --> 01:03:19,900
+It's like when we were co-parenting.
+
+961
+01:03:19,900 --> 01:03:21,900
+We did a lot of this.
+
+962
+01:03:21,900 --> 01:03:27,900
+You guys smile at each other sweetly as this guard swallows a grenade.
+
+963
+01:03:27,900 --> 01:03:29,900
+Yeah, a cum grenade.
+
+964
+01:03:29,900 --> 01:03:49,460
+the
+
+965
+01:03:49,460 --> 01:03:57,700
+and I'm like, I got two maracas and I'm like, yo, hello.
+
+966
+01:03:57,700 --> 01:04:00,900
+Yeah.
+
+967
+01:04:00,900 --> 01:04:06,940
+We're like, we're like, yeah, we're, we're, we're burning rubber and a
+
+968
+01:04:06,940 --> 01:04:08,540
+giant Flintstones car.
+
+969
+01:04:08,540 --> 01:04:09,660
+We're all running.
+
+970
+01:04:09,660 --> 01:04:15,380
+It's all of it's just passed out, um, in the backseat, I guess.
+
+971
+01:04:15,380 --> 01:04:16,980
+Um, wherever you want them.
+
+972
+01:04:17,620 --> 01:04:32,700
+the
+
+973
+01:04:33,700 --> 01:04:35,700
+I'm not sure what I'm saying here.
+
+974
+01:04:35,700 --> 01:04:40,140
+to do that on the same day. The only issue being that there's definitely a little bit
+
+975
+01:04:40,140 --> 01:04:48,020
+more suspicion around you now that you sort of needlessly murdered two guys. When you
+
+976
+01:04:48,020 --> 01:04:52,260
+get back and you're sort of, you know, starting to crack open drinks to celebrate, you get
+
+977
+01:04:52,260 --> 01:05:00,700
+a knock at the door. Somebody got past your guards, Barry Gee, in your absence. Does anybody
+
+978
+01:05:00,700 --> 01:05:07,700
+get the door? I'll get it! No. I got a smart door. I got a smart door that opens up by itself.
+
+979
+01:05:07,700 --> 01:05:15,620
+It's very unsafe. You accidentally bought a fart door and then it farts right in Travis's
+
+980
+01:05:15,620 --> 01:05:21,220
+face. Oh that smells horrible! Oh my god! Why would they even make a fart door? Oh, it's
+
+981
+01:05:21,220 --> 01:05:27,220
+disgusting. I like the smell of it. I like it. It reminds me of home. I'm running, I
+
+982
+01:05:27,220 --> 01:05:36,460
+run up I'm in the sombrero I have the maracas oh fuck okay what the hell was
+
+983
+01:05:36,460 --> 01:05:48,020
+that it smells it smells bad here oh I think Jesus it solvent gets up it's
+
+984
+01:05:48,020 --> 01:05:52,940
+like a foot nearly still want a lot of a lot of paid and he gets this door he
+
+985
+01:05:52,940 --> 01:05:59,940
+opens it. And who's behind the door? None other than your old friend slash femme fatale,
+
+986
+01:05:59,940 --> 01:06:07,540
+Mommy Goodlegs. And we'll end it there. Did she make that spell? Holy shit. I need to
+
+987
+01:06:07,540 --> 01:06:15,740
+update my fan theories.
+
+988
+01:06:15,740 --> 01:06:19,100
+[MUSIC PLAYING]
+
+989
+01:06:19,100 --> 01:06:26,080
+[ Music ]
+

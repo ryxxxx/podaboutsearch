@@ -10,9 +10,8 @@ Even though the scripts and files in this repo are specific to this project, the
 4. Create a back-end API that can receive search requests, generates embeddings for them, and queries the database with those embeddings
 5. Create a front-end that allows the user to send text to the back-end and displays the results
 
-Amazingly, all these steps can be achieved for free (if you own hardware that can handle the first 2):
+Amazingly, all these steps can be achieved for free (if you own hardware that can handle the first step):
+* [VoyageAI](https://www.voyageai.com/) offers an embedding API with 50 million free tokens
 * [pinecone](https://www.pinecone.io) offers a free solution with which can host up to 100.000 vectors (the ca. 450 transcripts of 60 minute episodes only amount to 80.000 vectors)
 * [pythonanywhere](https://www.pythonanywhere.com) offers free hosting for python web applications
 * For the front-end there are a lot of different options, since even a statically served page could manage the job (I used [vercel](https://vercel.com) because I wanted to learn next.js + react)
-
-Also: The scripts in the workflow_scripts folder won't work together out of the box; they can only serve as very rough guidelines for how you would implement the steps I outlined here.

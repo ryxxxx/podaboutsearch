@@ -16,18 +16,21 @@ import {
 
 import { Fragment } from 'react'
 
+import Link from 'next/link'
+
 
 interface transcriptDataInterface {
   text:string;
   start:number;
+  end:number;
   anchor:boolean;
 }
 
 function extract_data(json_file: any) {
   let data:Array<transcriptDataInterface> = []
-  const content=json_file["content"]
+  const content=json_file["lines"]
   for (let key in content) { 
-    data.push({start: content[key]["start"], text: content[key]["text"], anchor:false})
+    data.push({start: content[key]["start"], end: content[key]["end"], text: content[key]["text"], anchor:false})
   }
   return data
 } 
@@ -37,7 +40,8 @@ export default function TranscriptResults() {
     const searchParams = useSearchParams()
     const search = searchParams.get("query")
     
-    const anchorText = String(searchParams.get("anchor"))
+    const start = Number(searchParams.get("start"))
+    const end = Number(searchParams.get("end"))
     
     const [data, setData] = useState(null)
 
@@ -49,36 +53,26 @@ export default function TranscriptResults() {
           setData(data)
           setTimeout(()=> {
             document.getElementById("anchor")?.scrollIntoView()
-          }, 100)
+          }, 200)
         })
     }, [searchParams])
 
     if(data!=null)
     {
       const title = data["title"]
+      const link = data["link"]
+      const date = data["date"]
       const extraction = extract_data(data)
-
-      for(let i=0; i<extraction.length; i++)
-      {
-        let combinedText = extraction[i].text;
-        if(i>0)
-          combinedText = extraction[i-1].text + combinedText;
-        if(i<extraction.length-1)
-          combinedText = combinedText + extraction[i+1];
-        if(combinedText.replace(/[^A-Za-z0-9]/g, "").includes(anchorText.substring(0,anchorText.length/2)))
-        {
-          extraction[i].anchor=true;
-          break;
-        }
-      }
       
       return (
         <div className='mt-8 mx-2'>
-          <Table>
-          <TableCaption>{title}</TableCaption>
+          <Table className='min-w-[96vw]'>
+          <TableCaption>
+            <Link className='text-blue-700 text-2xl' href={link}>{title}</Link>
+          </TableCaption>
             <TableHeader>
               <TableRow>
-                <TableHead className="text-right">Time</TableHead>
+                <TableHead className="text-left">Time</TableHead>
                 <TableHead>Text</TableHead>
               </TableRow>
             </TableHeader>
@@ -87,18 +81,19 @@ export default function TranscriptResults() {
             extraction.map((value, key)=>
             <Fragment key={key}>
               {
-              value.anchor ?
+              value.start >= start && value.start < end ?
               <TableRow className="bg-purple-300 hover:bg-purple-300/50" id="anchor">
-                <TableCell className="align-top text-right">
+                <TableCell className="align-top text-left">
                   {Math.floor(value.start/60)<10? "0" + Math.floor(value.start/60) : Math.floor(value.start/60)}:
                   {Math.round(value.start%60)<10? "0" + Math.round(value.start%60) : Math.round(value.start%60)}</TableCell>
                 <TableCell className='break-all'>{value.text}</TableCell>
               </TableRow>
               :
               <TableRow>
-                <TableCell className="align-top text-right">
+                <TableCell className="align-top text-left">
                   {Math.floor(value.start/60)<10? "0" + Math.floor(value.start/60) : Math.floor(value.start/60)}:
-                  {Math.round(value.start%60)<10? "0" + Math.round(value.start%60) : Math.round(value.start%60)}</TableCell>
+                  {Math.round(value.start%60)<10? "0" + Math.round(value.start%60) : Math.round(value.start%60)}
+                  </TableCell>
                 <TableCell className='break-all'>{value.text}</TableCell>
               </TableRow>
               }
